@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1039d851-d304-4a2b-a94d-6ef9cadeb3d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aprioriAlgo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Groceries_dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TrieClass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comparision.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainApriori.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainTRIE.py" afterDir="false" />
+    <list default="true" id="1039d851-d304-4a2b-a94d-6ef9cadeb3d3" name="Changes" comment="First Push with mainTrie and mainApriori.py">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainApriori.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainApriori.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +21,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -41,18 +38,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.comparision.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main-TRIE.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mainApriori.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mainTRIE.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Thesis/aprioriAlgo&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.comparision.executor": "Run",
+    "Python.main-TRIE.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mainApriori.executor": "Run",
+    "Python.mainTRIE.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Thesis/aprioriAlgo"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": []
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Thesis\aprioriAlgo" />
@@ -101,6 +101,27 @@
       <option name="presentableId" value="Default" />
       <updated>1723478493434</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Push with mainTrie and mainApriori.py">
+      <option name="closed" value="true" />
+      <created>1726504811670</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726504811670</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Push with mainTrie and mainApriori.py">
+      <option name="closed" value="true" />
+      <created>1726504975179</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726504975179</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Push with mainTrie and mainApriori.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Push with mainTrie and mainApriori.py" />
   </component>
 </project>
