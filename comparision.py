@@ -3,9 +3,31 @@ import tracemalloc
 import pandas as pd
 from matplotlib import pyplot as plt
 from mainApriori import apriori_algorithm
-# from mainTRIE import apriori_with_trie
+from mainTRIE import apriori_with_trie
 
-def compare_apriori_versions(file_path, min_support, min_confidence, max_itemset_size=3):
+
+def get_transactions_from_file(file_path):
+    print("Reading the file...")
+    df = pd.read_csv(file_path)
+
+    # Exclude 'Item(s)' column if it's not needed
+    item_columns = [col for col in df.columns if col.startswith('Item ')]
+    print("Item columns identified:", item_columns)
+
+    # Collect items from each row to form transactions
+    transactions = []
+    for idx, row in df.iterrows():
+        # Get items from the item columns
+        items = row[item_columns].dropna().astype(str).tolist()
+        # Remove any empty strings or NaNs
+        items = [item.strip() for item in items if item.strip() != '' and item.strip().lower() != 'nan']
+        transactions.append(set(items))
+
+    print("Number of transactions found:", len(transactions))
+    return transactions
+
+
+def compare_apriori_versions(transactions, min_support, min_confidence):
     # Results dictionary to store comparison metrics
     results = {
         'Version': [],
@@ -15,7 +37,9 @@ def compare_apriori_versions(file_path, min_support, min_confidence, max_itemset
     }
 
     # Helper function to measure execution time and memory usage
-    def measure_performance(apriori_func, version_name):
+    def measure_performance(apriori_func, version_name, *args, **kwargs):
+        # Clear previous memory traces
+        tracemalloc.clear_traces()
         # Start measuring memory usage
         tracemalloc.start()
 
@@ -23,7 +47,14 @@ def compare_apriori_versions(file_path, min_support, min_confidence, max_itemset
         start_time = time.time()
 
         # Run the algorithm
-        frequent_itemsets, loop_times = apriori_func(min_support, file_path, max_itemset_size)
+        result = apriori_func(*args, **kwargs)
+
+        # Handle case where only frequent_itemsets are returned
+        if isinstance(result, tuple) and len(result) == 2:
+            frequent_itemsets, loop_times = result
+        else:
+            frequent_itemsets = result
+            loop_times = None
 
         # End timing
         end_time = time.time()
@@ -31,7 +62,7 @@ def compare_apriori_versions(file_path, min_support, min_confidence, max_itemset
 
         # Measure memory usage
         current, peak = tracemalloc.get_traced_memory()
-        memory_usage = peak / 10**6  # Convert bytes to MB
+        memory_usage = peak / 10 ** 6  # Convert bytes to MB
 
         # Stop measuring memory
         tracemalloc.stop()
@@ -43,10 +74,17 @@ def compare_apriori_versions(file_path, min_support, min_confidence, max_itemset
         results['Frequent Itemsets'].append(len(frequent_itemsets))
 
         return frequent_itemsets, loop_times
-
     # Run standard Apriori
     print("Running standard Apriori algorithm...")
-    frequent_itemsets_standard, loop_times_standard = measure_performance(apriori_algorithm, 'Standard Apriori')
+    frequent_itemsets_standard, loop_times_standard = measure_performance(
+        apriori_algorithm, 'Standard Apriori', transactions, min_support
+    )
+
+    # Run optimized Apriori with Trie
+    print("Running optimized Apriori algorithm with Trie...")
+    frequent_itemsets_trie, loop_times_trie = measure_performance(
+        apriori_with_trie, 'Optimized Apriori with Trie', min_support, transactions
+    )
 
     # Display comparison results
     comparison_df = pd.DataFrame(results)
@@ -54,7 +92,8 @@ def compare_apriori_versions(file_path, min_support, min_confidence, max_itemset
 
     # Plotting execution times
     plt.figure(figsize=(10, 6))
-    plt.bar(comparison_df['Version'], comparison_df['Execution Time (s)'], color=['skyblue'])
+    colors = ['skyblue', 'lightgreen']
+    plt.bar(comparison_df['Version'], comparison_df['Execution Time (s)'], color=colors)
     plt.xlabel('Version')
     plt.ylabel('Execution Time (s)')
     plt.title('Execution Time Comparison')
@@ -62,16 +101,21 @@ def compare_apriori_versions(file_path, min_support, min_confidence, max_itemset
 
     # Plotting memory usage
     plt.figure(figsize=(10, 6))
-    plt.bar(comparison_df['Version'], comparison_df['Memory Usage (MB)'], color=['skyblue'])
+    plt.bar(comparison_df['Version'], comparison_df['Memory Usage (MB)'], color=colors)
     plt.xlabel('Version')
     plt.ylabel('Memory Usage (MB)')
     plt.title('Memory Usage Comparison')
     plt.show()
 
-# Parameters
-min_support = 2
-min_confidence = 0.7
-file_path = 'Groceries_dataset.csv'
 
-# Run the comparison with only the standard algorithm
-compare_apriori_versions(file_path, min_support, min_confidence)
+if __name__ == "__main__":
+    # Parameters
+    min_support = 0.01  # Relative minimum support (e.g., 1%)
+    min_confidence = 0.2
+    file_path = 'groceries-groceries.csv'  # Update with your file path
+
+    # Load transactions
+    transactions = get_transactions_from_file(file_path)
+
+    # Run the comparison
+    compare_apriori_versions(transactions, min_support, min_confidence)

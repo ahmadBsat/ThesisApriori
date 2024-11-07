@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1039d851-d304-4a2b-a94d-6ef9cadeb3d3" name="Changes" comment="First Push with mainTrie and mainApriori.py" />
+    <list default="true" id="1039d851-d304-4a2b-a94d-6ef9cadeb3d3" name="Changes" comment="First Push with mainTrie and mainApriori.py">
+      <change afterPath="$PROJECT_DIR$/groceries-groceries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrieClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrieClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comparision.py" beforeDir="false" afterPath="$PROJECT_DIR$/comparision.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainApriori.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainApriori.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainTRIE.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainTRIE.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,21 +42,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.comparision.executor": "Run",
-    "Python.main-TRIE.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.mainApriori.executor": "Run",
-    "Python.mainTRIE.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Thesis/aprioriAlgo"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.TrieClass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comparision.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main-TRIE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mainApriori.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mainTRIE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Thesis/aprioriAlgo&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": []
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: []
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Thesis\aprioriAlgo" />
