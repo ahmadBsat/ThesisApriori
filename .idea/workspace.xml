@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1039d851-d304-4a2b-a94d-6ef9cadeb3d3" name="Changes" comment="First Push with mainTrie and mainApriori.py">
-      <change afterPath="$PROJECT_DIR$/groceries-groceries.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrieClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrieClass.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparision.py" beforeDir="false" afterPath="$PROJECT_DIR$/comparision.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apriori_logs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/association_rules.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/association_rules_trie.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frequent_itemsets_trie.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mainApriori.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainApriori.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mainTRIE.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainTRIE.py" afterDir="false" />
     </list>
@@ -149,6 +150,17 @@
     </task>
     <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Push with mainTrie and mainApriori.py" />

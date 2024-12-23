@@ -4,24 +4,51 @@ import matplotlib.pyplot as plt
 from itertools import combinations
 from multiprocessing import Pool
 from TrieClass import Trie
+import psutil  # To monitor CPU and memory usage
+import logging
+
+# Configure logging to write to a file
+logging.basicConfig(level=logging.INFO,
+                    format='%(asctime)s - %(levelname)s - %(message)s',
+                    handlers=[
+                        logging.FileHandler("enhancedPerf.txt"),
+                        logging.StreamHandler()
+                    ])
 
 
-# Function to load transactions from file
-# This function reads a file with transactions (purchases), pulls out the list of items bought in each transaction,
-# and organizes them into sets for easy processing later.
-def get_transactions_from_file(file_path):
+def log_system_performance(stage):
+    """
+    Logs the system's CPU and memory usage at different stages of the algorithm.
+    """
+    cpu_usage = psutil.cpu_percent(interval=1)
+    memory_info = psutil.virtual_memory()
+    logging.info(f"{stage} - CPU Usage: {cpu_usage}%, Memory Usage: {memory_info.percent}%")
+
+
+def get_transactions_from_file(file_path, sample_size=None):
+    """
+    Reads the dataset, handles missing values, and converts each transaction into a list of items.
+    Optionally uses a subset of the dataset if sample_size is provided.
+    """
+    logging.info("Reading transactions from file...")
     df = pd.read_csv(file_path)
+
+    if sample_size:
+        # Take a sample of the dataset if a sample_size is provided
+        df = df.sample(n=sample_size, random_state=1)  # Sample a subset for testing
+        logging.info(f"Using a sample size of {sample_size} transactions for testing.")
+
     item_columns = [col for col in df.columns if col.startswith('Item ')]
     transactions = []
     for idx, row in df.iterrows():
         items = row[item_columns].dropna().astype(str).tolist()
         items = [item.strip() for item in items if item.strip()]
         transactions.append(set(items))
+
+    logging.info(f"Number of transactions: {len(transactions)}")
     return transactions
 
 
-# Helper function to count how often items appear in transactions
-# This function counts how many times groups of items (candidates) are bought together in different transactions.
 def count_support_parallel(transactions, candidates):
     count_dict = {candidate: 0 for candidate in candidates}
     for transaction in transactions:
@@ -31,9 +58,6 @@ def count_support_parallel(transactions, candidates):
     return count_dict
 
 
-# Function to count how often items appear using multiple processors
-# This function splits up the transactions and has multiple parts of the computer work on counting them at the same time,
-# making the process faster.
 def parallel_support_counting(transactions, candidates, min_support, num_transactions):
     # Divide transactions into chunks for parallel processing
     num_processes = 4  # Adjust based on your CPU cores
@@ -63,9 +87,6 @@ def parallel_support_counting(transactions, candidates, min_support, num_transac
     return itemset_counts
 
 
-# Function to filter out the items that aren’t popular enough
-# This function checks which groups of items are bought often enough to be considered "frequent"
-# and removes the ones that aren't bought frequently.
 def prune_candidates(trie, candidates, min_support, num_transactions):
     frequent_itemsets = {}
     for candidate in candidates:
@@ -76,9 +97,6 @@ def prune_candidates(trie, candidates, min_support, num_transactions):
     return frequent_itemsets
 
 
-# Optimized Apriori algorithm using Trie with parallel support counting
-# This function finds out which items or groups of items are bought together frequently. It starts with individual items,
-# then combines them to check for bigger groups that are also frequent.
 def apriori_with_trie(transactions, min_support):
     num_transactions = len(transactions)
     min_support_count = min_support * num_transactions
@@ -102,39 +120,39 @@ def apriori_with_trie(transactions, min_support):
 
     # Start timing
     start_time = time.time()
+    log_system_performance("Before Apriori Execution")
 
     # Iteratively generate and prune itemsets of increasing size
     while current_level_itemsets:
-        print(f"Iteration {loop_count}: Generating candidates of size {loop_count + 1}")
+        logging.info(f"Iteration {loop_count}: Generating candidates of size {loop_count + 1}")
         # Generate candidates of size k+1 from frequent k-itemsets
         candidates = trie.generate_candidates(current_level_itemsets)
         if not candidates:
-            print("No new candidates generated.")
+            logging.info("No new candidates generated.")
             break
 
         # Count supports of candidates using parallel processing
         frequent_itemsets_k = parallel_support_counting(transactions, candidates, min_support, num_transactions)
 
         if not frequent_itemsets_k:
-            print(f"No more frequent itemsets found in iteration {loop_count}. Ending...")
+            logging.info(f"No more frequent itemsets found in iteration {loop_count}. Ending...")
             break
 
         # Update frequent itemsets
         frequent_itemsets.update(frequent_itemsets_k)
         current_level_itemsets = set(frequent_itemsets_k.keys())
         loop_count += 1
+        log_system_performance(f"After Iteration {loop_count}")
 
     # End timing
     elapsed_time = time.time() - start_time
-    print(f"Total time taken: {elapsed_time:.2f} seconds")
-    print(f"Number of frequent itemsets found: {len(frequent_itemsets)}")
+    logging.info(f"Total time taken: {elapsed_time:.2f} seconds")
+    log_system_performance("After Apriori Completion")
+    logging.info(f"Number of frequent itemsets found: {len(frequent_itemsets)}")
 
     return frequent_itemsets
 
 
-# Function to create rules from frequent itemsets
-# This function creates "if-then" style rules from the frequent items,
-# like "if someone buys X, they often also buy Y" and calculates how often the rule is true.
 def generate_rules(frequent_itemsets, min_confidence):
     rules = []
     for itemset in frequent_itemsets.keys():
@@ -158,12 +176,10 @@ def generate_rules(frequent_itemsets, min_confidence):
                                 'Confidence': confidence,
                                 'Lift': lift
                             })
-    print(f"Generated {len(rules)} association rules")
+    logging.info(f"Generated {len(rules)} association rules")
     return rules
 
 
-# Function to visualize the frequent itemsets and loop times
-# This function shows the top 10 most frequently bought groups of items as a bar chart to make it easier to understand.
 def visualize_frequent_itemsets(frequent_itemsets):
     itemsets = [' & '.join(itemset) for itemset in frequent_itemsets.keys()]
     supports = list(frequent_itemsets.values())
@@ -179,52 +195,116 @@ def visualize_frequent_itemsets(frequent_itemsets):
     plt.show()
 
 
-# Function to save frequent itemsets to a CSV file
-# This function saves the frequent items (or groups of items) to a file so you can look at them later.
-def save_frequent_itemsets_to_csv(frequent_itemsets, file_name='frequent_itemsets_trie.csv'):
-    itemsets = [' & '.join(itemset) for itemset in frequent_itemsets.keys()]
-    supports = list(frequent_itemsets.values())
-    df = pd.DataFrame({'Itemset': itemsets, 'Support': supports})
+def save_frequent_itemsets_to_csv(frequent_itemsets, file_name='frequent_itemsets.csv'):
+    """
+    Saves the frequent itemsets (or groups of items) to a CSV file so you can analyze them later.
+    """
+    itemsets = [' & '.join(itemset) for itemset in frequent_itemsets.keys()]  # Join items in itemset with '&'
+    supports = list(frequent_itemsets.values())  # Get the support values of the itemsets
+
+    # Create a DataFrame with itemsets and their corresponding support
+    df = pd.DataFrame({
+        'Itemset': itemsets,
+        'Support': supports
+    })
+
+    # Save the DataFrame to a CSV file
     df.to_csv(file_name, index=False)
-    print(f"Frequent itemsets saved to {file_name}")
+    logging.info(f"Frequent itemsets saved to {file_name}")
 
 
-# Function to save association rules to a CSV file
-# This function saves the "if-then" style rules to a file so you can look at them later or share them.
-def save_rules_to_csv(rules, file_name='association_rules_trie.csv'):
+def save_rules_to_csv(rules, file_name='association_rules.csv'):
+    """
+    Saves the generated association rules (Antecedent, Consequent, Support, Confidence, Lift) to a CSV file.
+    """
+    # Create a DataFrame with rules
     df = pd.DataFrame(rules)
-    df.to_csv(file_name, index=False)
-    print(f"Association rules saved to {file_name}")
 
+    # Save the DataFrame to a CSV file
+    df.to_csv(file_name, index=False)
+    logging.info(f"Association rules saved to {file_name}")
+
+def prepare_transaction_samples_three_items():
+    """
+    Prepares predefined transaction samples including transactions with three items.
+    Returns a dictionary with sample names and transactions.
+    """
+    samples = {
+        "Sample 1": [
+            {"A", "B", "C"},
+            {"A", "C", "D"},
+            {"B", "C", "D"},
+            {"A", "B", "D"}
+        ],
+        "Sample 2": [
+            {"A", "B", "C"},
+            {"A", "C"},
+            {"B", "C", "D"},
+            {"A", "B"}
+        ],
+        "Sample 3": [
+            {"A", "B", "C"},
+            {"A", "B", "D"},
+            {"B", "C", "D"},
+            {"A", "C"}
+        ]
+    }
+    return samples
+
+def analyze_samples(samples, min_support_ratio, min_confidence):
+    """
+    Analyzes each sample using the Apriori with Trie algorithm.
+    Saves results and association rules for each sample.
+    """
+    results = {}
+    for sample_name, transactions in samples.items():
+        print(f"Analyzing {sample_name}...")
+
+        # Run Apriori algorithm
+        frequent_itemsets = apriori_with_trie(transactions, min_support_ratio)
+
+        # Generate association rules
+        rules = generate_rules(frequent_itemsets, min_confidence)
+
+        # Save results
+        frequent_file = f"{sample_name.replace(' ', '_').lower()}_frequent_itemsets.csv"
+        rules_file = f"{sample_name.replace(' ', '_').lower()}_rules.csv"
+        save_frequent_itemsets_to_csv(frequent_itemsets, frequent_file)
+        save_rules_to_csv(rules, rules_file)
+
+        # Store results for document creation
+        results[sample_name] = {
+            "transactions": transactions,
+            "frequent_itemsets": frequent_itemsets,
+            "rules": rules
+        }
+
+    return results
+
+def main():
+    # Parameters
+    min_support_ratio = 0.5  # Minimum 50% support
+    min_confidence = 0.6  # Minimum 60% confidence
+
+    # Step 1: Prepare transaction samples
+    samples = prepare_transaction_samples_three_items()
+
+    # Step 2: Analyze samples
+    results = analyze_samples(samples, min_support_ratio, min_confidence)
+
+    # Print summary
+    for sample_name, data in results.items():
+        print(f"\n=== {sample_name} ===")
+        print("Frequent Itemsets:")
+        for itemset, support in data["frequent_itemsets"].items():
+            print(f"  {set(itemset)}: {support:.2f}")
+        print("\nAssociation Rules:")
+        for rule in data["rules"]:
+            print(f"  {rule['Antecedent']} -> {rule['Consequent']}: "
+                  f"Support: {rule['Support']:.2f}, "
+                  f"Confidence: {rule['Confidence']:.2f}, "
+                  f"Lift: {rule['Lift']:.2f}")
 
 if __name__ == "__main__":
-    # Set a minimum support ratio and confidence threshold
-    # These are like settings to tell the algorithm how often a group of items should appear to be considered frequent,
-    # and how strong the "if-then" rules should be.
-    min_support_ratio = 0.01  # 1%
-    min_confidence = 0.2  # Lowered from 0.6 to generate more rules
-
-    # Provide the correct file path
-    file_path = 'groceries-groceries.csv'  # Update with your file path
-
-    # Load transactions
-    # This step loads the data from the file.
-    transactions = get_transactions_from_file(file_path)
-
-    # Run the optimized Apriori algorithm with Trie on the file data
-    # This step runs the process of finding frequent items.
-    frequent_itemsets = apriori_with_trie(transactions, min_support_ratio)
-
-    # Save the frequent itemsets to a CSV file
-    # This saves the frequent items found to a file.
-    save_frequent_itemsets_to_csv(frequent_itemsets)
-
-    # Generate and save the association rules
-    # This creates and saves the "if-then" rules to a file.
-    rules = generate_rules(frequent_itemsets, min_confidence)
-    save_rules_to_csv(rules)
-
-    # Visualize the results
-    # This step shows the most frequent items as a bar chart.
-    visualize_frequent_itemsets(frequent_itemsets)
+    main()
 

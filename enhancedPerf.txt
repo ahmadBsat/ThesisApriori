@@ -1,0 +1,108 @@
+2024-12-23 19:25:31,990 - INFO - Analyzing dataset with size: 100
+2024-12-23 19:25:31,990 - INFO - Reading transactions from file...
+2024-12-23 19:25:32,018 - INFO - Using a sample size of 100 transactions for testing.
+2024-12-23 19:25:32,063 - INFO - Number of transactions: 100
+2024-12-23 19:25:33,071 - INFO - Before Apriori Execution - CPU Usage: 9.5%, Memory Usage: 30.0%
+2024-12-23 19:25:33,072 - INFO - Total time taken: 1.01 seconds
+2024-12-23 19:25:34,076 - INFO - After Apriori Completion - CPU Usage: 6.2%, Memory Usage: 30.1%
+2024-12-23 19:25:34,076 - INFO - Number of frequent itemsets found: 0
+2024-12-23 19:25:34,076 - INFO - Generated 0 association rules
+2024-12-23 19:25:34,080 - INFO - Frequent itemsets saved to dataset_size_100_frequent_itemsets.csv
+2024-12-23 19:25:34,099 - INFO - Association rules saved to dataset_size_100_rules.csv
+2024-12-23 19:25:34,099 - INFO - Size 100: Found 0 frequent itemsets and 0 rules.
+2024-12-23 19:25:34,099 - INFO - Analyzing dataset with size: 500
+2024-12-23 19:25:34,100 - INFO - Reading transactions from file...
+2024-12-23 19:25:34,122 - INFO - Using a sample size of 500 transactions for testing.
+2024-12-23 19:25:34,344 - INFO - Number of transactions: 500
+2024-12-23 19:25:35,347 - INFO - Before Apriori Execution - CPU Usage: 10.1%, Memory Usage: 30.1%
+2024-12-23 19:25:35,347 - INFO - Total time taken: 1.00 seconds
+2024-12-23 19:25:36,352 - INFO - After Apriori Completion - CPU Usage: 5.9%, Memory Usage: 30.1%
+2024-12-23 19:25:36,352 - INFO - Number of frequent itemsets found: 0
+2024-12-23 19:25:36,352 - INFO - Generated 0 association rules
+2024-12-23 19:25:36,354 - INFO - Frequent itemsets saved to dataset_size_500_frequent_itemsets.csv
+2024-12-23 19:25:36,356 - INFO - Association rules saved to dataset_size_500_rules.csv
+2024-12-23 19:25:36,357 - INFO - Size 500: Found 0 frequent itemsets and 0 rules.
+2024-12-23 19:25:36,357 - INFO - Analyzing dataset with size: 1000
+2024-12-23 19:25:36,357 - INFO - Reading transactions from file...
+2024-12-23 19:25:36,396 - INFO - Using a sample size of 1000 transactions for testing.
+2024-12-23 19:25:36,832 - INFO - Number of transactions: 1000
+2024-12-23 19:25:37,836 - INFO - Before Apriori Execution - CPU Usage: 11.1%, Memory Usage: 30.0%
+2024-12-23 19:25:37,837 - INFO - Total time taken: 1.00 seconds
+2024-12-23 19:25:38,843 - INFO - After Apriori Completion - CPU Usage: 10.3%, Memory Usage: 30.0%
+2024-12-23 19:25:38,844 - INFO - Number of frequent itemsets found: 0
+2024-12-23 19:25:38,844 - INFO - Generated 0 association rules
+2024-12-23 19:25:38,845 - INFO - Frequent itemsets saved to dataset_size_1000_frequent_itemsets.csv
+2024-12-23 19:25:38,846 - INFO - Association rules saved to dataset_size_1000_rules.csv
+2024-12-23 19:25:38,846 - INFO - Size 1000: Found 0 frequent itemsets and 0 rules.
+2024-12-23 19:25:55,352 - INFO - Analyzing dataset with size: 100
+2024-12-23 19:25:55,352 - INFO - Reading transactions from file...
+2024-12-23 19:25:55,378 - INFO - Using a sample size of 100 transactions for testing.
+2024-12-23 19:25:55,423 - INFO - Number of transactions: 100
+2024-12-23 19:25:56,427 - INFO - Before Apriori Execution - CPU Usage: 7.8%, Memory Usage: 30.1%
+2024-12-23 19:25:56,427 - INFO - Total time taken: 1.00 seconds
+2024-12-23 19:25:57,435 - INFO - After Apriori Completion - CPU Usage: 10.6%, Memory Usage: 30.1%
+2024-12-23 19:25:57,435 - INFO - Number of frequent itemsets found: 0
+2024-12-23 19:25:57,436 - INFO - Generated 0 association rules
+2024-12-23 19:25:57,444 - INFO - Frequent itemsets saved to dataset_size_100_frequent_itemsets.csv
+2024-12-23 19:25:57,449 - INFO - Association rules saved to dataset_size_100_rules.csv
+2024-12-23 19:25:57,449 - INFO - Size 100: Found 0 frequent itemsets and 0 rules.
+2024-12-23 19:25:57,449 - INFO - Analyzing dataset with size: 500
+2024-12-23 19:25:57,449 - INFO - Reading transactions from file...
+2024-12-23 19:25:57,472 - INFO - Using a sample size of 500 transactions for testing.
+2024-12-23 19:25:57,691 - INFO - Number of transactions: 500
+2024-12-23 19:25:58,701 - INFO - Before Apriori Execution - CPU Usage: 7.2%, Memory Usage: 30.0%
+2024-12-23 19:25:58,701 - INFO - Total time taken: 1.01 seconds
+2024-12-23 19:25:59,709 - INFO - After Apriori Completion - CPU Usage: 8.0%, Memory Usage: 30.0%
+2024-12-23 19:25:59,709 - INFO - Number of frequent itemsets found: 0
+2024-12-23 19:25:59,710 - INFO - Generated 0 association rules
+2024-12-23 19:25:59,713 - INFO - Frequent itemsets saved to dataset_size_500_frequent_itemsets.csv
+2024-12-23 19:25:59,716 - INFO - Association rules saved to dataset_size_500_rules.csv
+2024-12-23 19:25:59,716 - INFO - Size 500: Found 0 frequent itemsets and 0 rules.
+2024-12-23 19:25:59,717 - INFO - Analyzing dataset with size: 1000
+2024-12-23 19:25:59,717 - INFO - Reading transactions from file...
+2024-12-23 19:25:59,741 - INFO - Using a sample size of 1000 transactions for testing.
+2024-12-23 19:26:00,180 - INFO - Number of transactions: 1000
+2024-12-23 19:26:01,188 - INFO - Before Apriori Execution - CPU Usage: 5.5%, Memory Usage: 30.0%
+2024-12-23 19:26:01,189 - INFO - Total time taken: 1.01 seconds
+2024-12-23 19:26:02,201 - INFO - After Apriori Completion - CPU Usage: 5.7%, Memory Usage: 30.0%
+2024-12-23 19:26:02,201 - INFO - Number of frequent itemsets found: 0
+2024-12-23 19:26:02,201 - INFO - Generated 0 association rules
+2024-12-23 19:26:02,203 - INFO - Frequent itemsets saved to dataset_size_1000_frequent_itemsets.csv
+2024-12-23 19:26:02,205 - INFO - Association rules saved to dataset_size_1000_rules.csv
+2024-12-23 19:26:02,205 - INFO - Size 1000: Found 0 frequent itemsets and 0 rules.
+2024-12-23 19:26:23,272 - INFO - Analyzing dataset with size: 100
+2024-12-23 19:26:23,272 - INFO - Reading transactions from file...
+2024-12-23 19:26:23,296 - INFO - Using a sample size of 100 transactions for testing.
+2024-12-23 19:26:23,341 - INFO - Number of transactions: 100
+2024-12-23 19:26:24,347 - INFO - Before Apriori Execution - CPU Usage: 3.6%, Memory Usage: 30.1%
+2024-12-23 19:26:24,347 - INFO - Total time taken: 1.01 seconds
+2024-12-23 19:26:25,353 - INFO - After Apriori Completion - CPU Usage: 15.3%, Memory Usage: 30.1%
+2024-12-23 19:26:25,354 - INFO - Number of frequent itemsets found: 0
+2024-12-23 19:26:25,354 - INFO - Generated 0 association rules
+2024-12-23 19:26:25,360 - INFO - Frequent itemsets saved to dataset_size_100_frequent_itemsets.csv
+2024-12-23 19:26:25,364 - INFO - Association rules saved to dataset_size_100_rules.csv
+2024-12-23 19:26:25,364 - INFO - Size 100: Found 0 frequent itemsets and 0 rules.
+2024-12-23 19:26:25,364 - INFO - Analyzing dataset with size: 500
+2024-12-23 19:26:25,364 - INFO - Reading transactions from file...
+2024-12-23 19:26:25,397 - INFO - Using a sample size of 500 transactions for testing.
+2024-12-23 19:26:25,617 - INFO - Number of transactions: 500
+2024-12-23 19:26:26,623 - INFO - Before Apriori Execution - CPU Usage: 4.1%, Memory Usage: 30.1%
+2024-12-23 19:26:26,623 - INFO - Total time taken: 1.00 seconds
+2024-12-23 19:26:27,627 - INFO - After Apriori Completion - CPU Usage: 6.5%, Memory Usage: 30.1%
+2024-12-23 19:26:27,627 - INFO - Number of frequent itemsets found: 0
+2024-12-23 19:26:27,627 - INFO - Generated 0 association rules
+2024-12-23 19:26:27,629 - INFO - Frequent itemsets saved to dataset_size_500_frequent_itemsets.csv
+2024-12-23 19:26:27,630 - INFO - Association rules saved to dataset_size_500_rules.csv
+2024-12-23 19:26:27,631 - INFO - Size 500: Found 0 frequent itemsets and 0 rules.
+2024-12-23 19:26:27,631 - INFO - Analyzing dataset with size: 1000
+2024-12-23 19:26:27,631 - INFO - Reading transactions from file...
+2024-12-23 19:26:27,656 - INFO - Using a sample size of 1000 transactions for testing.
+2024-12-23 19:26:28,097 - INFO - Number of transactions: 1000
+2024-12-23 19:26:29,106 - INFO - Before Apriori Execution - CPU Usage: 12.4%, Memory Usage: 30.1%
+2024-12-23 19:26:29,106 - INFO - Total time taken: 1.01 seconds
+2024-12-23 19:26:30,109 - INFO - After Apriori Completion - CPU Usage: 9.6%, Memory Usage: 30.1%
+2024-12-23 19:26:30,110 - INFO - Number of frequent itemsets found: 0
+2024-12-23 19:26:30,110 - INFO - Generated 0 association rules
+2024-12-23 19:26:30,111 - INFO - Frequent itemsets saved to dataset_size_1000_frequent_itemsets.csv
+2024-12-23 19:26:30,112 - INFO - Association rules saved to dataset_size_1000_rules.csv
+2024-12-23 19:26:30,112 - INFO - Size 1000: Found 0 frequent itemsets and 0 rules.
