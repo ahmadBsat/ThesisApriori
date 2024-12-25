@@ -1,0 +1,3 @@
+Dataset Name,Runtime (seconds),Memory Usage (MB) [psutil Net Change],Tracemalloc Peak (MB),Frequent Itemsets,Rules Generated,Max RAM Usage (GB)
+DataFile_T=250_I=20_S=15.txt,8462.368179559708,12860.6328125,4779.950070381165,103427,12107965,4.67 GB
+

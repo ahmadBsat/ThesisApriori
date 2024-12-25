@@ -1,0 +1,2 @@
+Dataset Size,Runtime (seconds),Memory Usage (MB) [psutil Net Change],Tracemalloc Current (MB),Tracemalloc Peak (MB),Frequent Itemsets,Rules Generated
+251,6.676245212554932,4.16796875,1.0946407318115234,2.5311880111694336,613,1556
