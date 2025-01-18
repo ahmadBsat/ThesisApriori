@@ -1,0 +1,209 @@
+Frequent Itemsets
+==================
+0.0340: 0.0398
+0.9990: 0.0050
+0.0350: 0.0697
+0.0370: 0.0498
+0.0330: 0.0796
+0.0270: 0.0597
+0.0390: 0.0597
+0.0320: 0.0697
+0.0190: 0.0199
+0.0410: 0.0299
+0.0360: 0.0597
+0.0300: 0.0896
+0.0290: 0.0398
+0.0260: 0.0299
+0.0440: 0.0100
+0.0210: 0.0100
+0.0400: 0.0597
+0.0380: 0.0498
+0.0460: 0.0100
+0.0280: 0.0199
+0.0250: 0.0299
+0.0450: 0.0100
+0.0430: 0.0100
+0.0310: 0.0498
+0.0480: 0.0100
+0.0470: 0.0100
+0.0420: 0.0100
+0.0240: 0.0100
+'Salsa']: 0.0050
+'Cheery-Pie-Filling']: 0.0050
+'Lemons']: 0.0050
+'Bread']: 0.0050
+'r']: 0.0846
+'Tea-green']: 0.0050
+'Pretzels']: 0.0050
+'Apples']: 0.0050
+'Water-Sparkling']: 0.0050
+'Manicure']: 0.0050
+'Veggies']: 0.0050
+'Shaving-Supplies']: 0.0050
+'Pepper']: 0.0050
+'Preserves']: 0.0050
+'French-Fries']: 0.0050
+'Fruit']: 0.0050
+'Pizza']: 0.0050
+'Syrup']: 0.0050
+'Salt']: 0.0050
+'Peanut-Butter']: 0.0050
+'Apple-Sauce']: 0.0050
+'Water-regular']: 0.0050
+'Chicken-Breasts']: 0.0050
+'Aluminum-Foil']: 0.0050
+'Sunblock']: 0.0050
+'Soda-can']: 0.0050
+'Tomato-Paste']: 0.0050
+'Baguette']: 0.0050
+'Orange-Juice']: 0.0050
+'Fish']: 0.0050
+'Ice-Cream']: 0.0050
+'Hand-Sanitizer']: 0.0050
+'Mandarin-Oranges']: 0.0050
+'Nutella']: 0.0050
+'Waffles']: 0.0050
+'Cocoa-Rice-Cereal']: 0.0050
+'Tweezers']: 0.0050
+'Beer-can']: 0.0050
+'Chips']: 0.0050
+'Green-Beans']: 0.0050
+'Coffee']: 0.0050
+'Flour']: 0.0050
+'Mayonnaise']: 0.0050
+'Gloves']: 0.0050
+'Peanuts']: 0.0050
+'Mushrooms']: 0.0050
+'Bread-Crumbs']: 0.0050
+'Chicken-Nuggets']: 0.0050
+'Paper-Towles']: 0.0050
+'Diapers']: 0.0050
+'Sugar']: 0.0050
+'Oat-Meal']: 0.0050
+'Croissants']: 0.0050
+'Spaghetti-Sauce']: 0.0050
+'Toothpaste']: 0.0050
+'Soup']: 0.0050
+'Deodorant']: 0.0050
+'Wine']: 0.0050
+'Mustard']: 0.0050
+'Dental-Floss']: 0.0050
+'Honey-Crunch-Oats']: 0.0050
+'Beer-bottle']: 0.0050
+'White-Bread']: 0.0050
+'Bagles']: 0.0050
+'Tomato-Sauce']: 0.0050
+'Milk-Chocolate-Bar']: 0.0050
+'Milk']: 0.0050
+'Granola-Bars']: 0.0050
+'Vanilla-Extract']: 0.0050
+'Razors']: 0.0050
+'Oil']: 0.0050
+'Tuna']: 0.0050
+'Pasta']: 0.0050
+'Soda-bottle']: 0.0050
+'Shampoo']: 0.0050
+'Tomato-Soup']: 0.0050
+'Ketchup']: 0.0050
+'Honey']: 0.0050
+'Milk-organic']: 0.0050
+'Barbeque-Sauce']: 0.0050
+'Grapes']: 0.0050
+'Apple-Juice']: 0.0050
+'Salad-Dressing']: 0.0050
+'Insect-Spray']: 0.0050
+'Bread'], 0.0330: 0.0050
+0.0350, 'Diapers']: 0.0050
+'Coffee'], 0.0300: 0.0050
+0.0290, 'Hand-Sanitizer']: 0.0050
+'Mandarin-Oranges'], 0.0300: 0.0050
+0.0260, 'Preserves']: 0.0050
+'Pizza'], 0.0390: 0.0050
+'Insect-Spray'], 0.0270: 0.0050
+0.0300, 'Shaving-Supplies']: 0.0050
+0.0370, 'Grapes']: 0.0050
+0.0380, 'Tweezers']: 0.0050
+'r'], 0.0450: 0.0050
+0.0280, 'Cocoa-Rice-Cereal']: 0.0050
+0.0330, 'Peanuts']: 0.0050
+'Tomato-Soup'], 0.0360: 0.0050
+0.0320, 'Apples']: 0.0050
+0.0320, 'r']: 0.0100
+'Flour'], 0.0390: 0.0050
+0.0380, 'Granola-Bars']: 0.0050
+0.0350, 'Sunblock']: 0.0050
+0.0270, 'Green-Beans']: 0.0050
+'Water-regular'], 0.0380: 0.0050
+'White-Bread'], 0.0270: 0.0050
+0.0330, 'Tomato-Sauce']: 0.0050
+0.0260, 'Apple-Juice']: 0.0050
+'Toothpaste'], 0.0470: 0.0050
+'r'], 0.0420: 0.0050
+'Gloves'], 0.0430: 0.0050
+'r'], 0.0250: 0.0100
+0.0350, 'Tomato-Paste']: 0.0050
+'Oat-Meal'], 0.0360: 0.0050
+'Mayonnaise'], 0.0300: 0.0050
+'r'], 0.0440: 0.0050
+0.0290, 'Aluminum-Foil']: 0.0050
+0.0360, 'Soda-can']: 0.0050
+0.0300, 'Nutella']: 0.0050
+'Salt'], 0.0400: 0.0050
+'Milk-Chocolate-Bar'], 0.0290: 0.0050
+'Tea-green'], 0.0340: 0.0050
+0.0360, 'Fruit']: 0.0050
+'Dental-Floss'], 0.0250: 0.0050
+0.0340, 'r']: 0.0050
+0.0330, 'Soda-bottle']: 0.0050
+0.0350, 'French-Fries']: 0.0050
+'r'], 0.0390: 0.0050
+'Chips'], 0.0390: 0.0050
+'Salad-Dressing'], 0.0320: 0.0050
+'Wine'], 0.0390: 0.0050
+0.0320, 'Fish']: 0.0050
+0.0370, 'Soup']: 0.0050
+'r'], 0.0280: 0.0050
+'Deodorant'], 0.0300: 0.0050
+0.0370, 'Paper-Towles']: 0.0050
+'r'], 0.0270: 0.0149
+'Chicken-Nuggets'], 0.0480: 0.0050
+0.0300, 'Apple-Sauce']: 0.0050
+'Ice-Cream'], 0.0370: 0.0050
+'Water-Sparkling'], 0.0190: 0.0050
+0.0310, 'Bread-Crumbs']: 0.0050
+0.0330, 'Oil']: 0.0050
+0.0240, 'Shampoo']: 0.0050
+0.0460, 'Chicken-Breasts']: 0.0050
+0.0310, 'Beer-bottle']: 0.0050
+0.0310, 'Honey']: 0.0050
+0.0320, 'Beer-can']: 0.0050
+0.0310, 'Barbeque-Sauce']: 0.0050
+'Milk'], 0.0410: 0.0050
+'Syrup'], 0.0210: 0.0050
+'Razors'], 0.0330: 0.0050
+0.0340, 'Vanilla-Extract']: 0.0050
+0.0380, 'Croissants']: 0.0050
+'Veggies'], 0.0360: 0.0050
+0.0350, 'Pretzels']: 0.0050
+0.0400, 'Baguette']: 0.0050
+'r'], 0.0360: 0.0050
+'Cheery-Pie-Filling'], 0.0350: 0.0050
+0.0400, 'r']: 0.0100
+'Pepper'], 0.0290: 0.0050
+'Bagles'], 0.0400: 0.0050
+0.0410, 'Manicure']: 0.0050
+0.0350, 'Sugar']: 0.0050
+'Mushrooms'], 0.0380: 0.0050
+'r'], 0.0300: 0.0050
+0.0390, 'Mustard']: 0.0050
+'Pasta'], 0.0190: 0.0050
+0.0260, 'Orange-Juice']: 0.0050
+0.0400, 'Honey-Crunch-Oats']: 0.0050
+'Tuna'], 0.0330: 0.0050
+'Waffles'], 0.0330: 0.0050
+0.0320, 'Ketchup']: 0.0050
+'Spaghetti-Sauce'], 0.0300: 0.0050
+'Peanut-Butter'], 0.0410: 0.0050
+0.0310, 'Milk-organic']: 0.0050
+'Lemons'], 0.0370: 0.0050
+'Salsa'], 0.0340: 0.0050

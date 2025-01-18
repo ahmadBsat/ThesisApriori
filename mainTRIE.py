@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 from TrieClass import Trie
 import tracemalloc
 import psutil
+import json  # For better Trie visualization
 
 # Function to load transactions from file
 def get_transactions_from_file(file_path):
@@ -15,6 +16,7 @@ def get_transactions_from_file(file_path):
         for line in file:
             items = line.strip().split()[1:]  # Skip transaction ID
             transactions.append(set(items))
+    print(f"Loaded {len(transactions)} transactions from {file_path}")
     return transactions
 
 # Optimized candidate generation with pruning
@@ -23,6 +25,7 @@ def generate_optimized_candidates(current_level_itemsets, trie):
     frequent_items = list(current_level_itemsets)
     len_frequent_items = len(frequent_items)
 
+    print(f"Generating candidates from {len(frequent_items)} frequent itemsets")
     for i in range(len_frequent_items):
         for j in range(i + 1, len_frequent_items):
             l1 = sorted(frequent_items[i])
@@ -32,10 +35,12 @@ def generate_optimized_candidates(current_level_itemsets, trie):
                 if all(frozenset(candidate - {item}) in current_level_itemsets for item in candidate):
                     trie.insert(candidate)  # Insert into Trie for efficient lookup
                     candidates.add(candidate)
+    print(f"Generated {len(candidates)} candidates")
+    print("Updated Trie structure:")
+    print(json.dumps(trie.trie, indent=2))
     return candidates
 
 # Parallel support counting with transaction reduction
-# Standalone function for multiprocessing
 def count_chunk(chunk, candidates):
     counts = {candidate: 0 for candidate in candidates}
     for transaction in chunk:
@@ -44,12 +49,12 @@ def count_chunk(chunk, candidates):
                 counts[candidate] += 1
     return counts
 
-# Parallel support counting with transaction reduction
 def parallel_support_counting(transactions, candidates, min_support, num_transactions):
     num_processes = min(4, os.cpu_count() // 2)  # Use fewer processes
     chunk_size = max(len(transactions) // num_processes, 1)
     transaction_chunks = [transactions[i:i + chunk_size] for i in range(0, len(transactions), chunk_size)]
 
+    print(f"Transactions divided into {len(transaction_chunks)} chunks for parallel processing")
     with Pool(processes=num_processes) as pool:
         results = pool.starmap(count_chunk, [(chunk, candidates) for chunk in transaction_chunks])
 
@@ -63,13 +68,13 @@ def parallel_support_counting(transactions, candidates, min_support, num_transac
         for candidate, count in total_counts.items() if count / num_transactions >= min_support
     }
 
-    # Reduce transactions by removing those that no longer contribute
     relevant_candidates = set().union(*frequent_itemsets.keys())
     reduced_transactions = [t.intersection(relevant_candidates) for t in transactions if t.intersection(relevant_candidates)]
 
+    print(f"Frequent itemsets after pruning: {len(frequent_itemsets)}")
+    print(f"Reduced transactions size: {len(reduced_transactions)}")
     return frequent_itemsets, reduced_transactions
 
-# Optimized Apriori algorithm using Trie and parallel support counting
 def apriori_with_trie(transactions, min_support):
     num_transactions = len(transactions)
     min_support_count = min_support * num_transactions
@@ -78,7 +83,7 @@ def apriori_with_trie(transactions, min_support):
     loop_count = 1
     current_level_itemsets = set()
 
-    # Generate frequent 1-itemsets
+    # Initial 1-itemsets
     item_counts = {}
     for transaction in transactions:
         for item in transaction:
@@ -89,6 +94,11 @@ def apriori_with_trie(transactions, min_support):
             trie.insert(candidate)
             frequent_itemsets[candidate] = count / num_transactions
             current_level_itemsets.add(candidate)
+
+    print("Initial frequent itemsets (1-itemsets):")
+    print(frequent_itemsets)
+    print("Initial Trie structure:")
+    print(json.dumps(trie.trie, indent=2))
 
     start_time = time.time()
     tracemalloc.start()
@@ -102,13 +112,11 @@ def apriori_with_trie(transactions, min_support):
             print(f"Reached maximum candidate size {max_candidate_size}. Ending...")
             break
 
-        # Generate candidates
         candidates = generate_optimized_candidates(current_level_itemsets, trie)
         if not candidates:
             print("No new candidates generated.")
             break
 
-        # Count support and prune
         frequent_itemsets_k, transactions = parallel_support_counting(transactions, candidates, min_support, num_transactions)
         if not frequent_itemsets_k:
             print(f"No more frequent itemsets found in iteration {loop_count}. Ending...")
@@ -117,9 +125,6 @@ def apriori_with_trie(transactions, min_support):
         frequent_itemsets.update(frequent_itemsets_k)
         current_level_itemsets = set(frequent_itemsets_k.keys())
         loop_count += 1
-
-        # Log iteration timing
-        print(f"Iteration {loop_count} completed in {time.time() - start_time:.2f} seconds")
 
     elapsed_time = time.time() - start_time
     peak_memory_tracemalloc = tracemalloc.get_traced_memory()[1] / (1024 * 1024)
@@ -133,7 +138,16 @@ def apriori_with_trie(transactions, min_support):
 
     return frequent_itemsets, elapsed_time, (end_memory_psutil - start_memory_psutil), peak_memory_tracemalloc
 
-# Visualize frequent itemsets
+# Save frequent itemsets to a file
+def save_frequent_itemsets_to_file(frequent_itemsets, dataset_name):
+    file_name = f"{dataset_name}_frequent_itemsets.txt"
+    with open(file_name, 'w') as file:
+        file.write("Frequent Itemsets\n")
+        file.write("==================\n")
+        for itemset, support in frequent_itemsets.items():
+            file.write(f"{', '.join(itemset)}: {support:.4f}\n")
+    print(f"Frequent itemsets saved to {file_name}")
+
 def visualize_frequent_itemsets(frequent_itemsets):
     itemsets = [' & '.join(itemset) for itemset in frequent_itemsets.keys()]
     supports = list(frequent_itemsets.values())
@@ -148,11 +162,9 @@ def visualize_frequent_itemsets(frequent_itemsets):
     plt.gca().invert_yaxis()
     plt.show()
 
-# Visualize performance metrics
 def visualize_performance(combined_results):
     df = pd.DataFrame(combined_results)
 
-    # Runtime comparison
     plt.figure(figsize=(10, 6))
     plt.bar(df['Dataset Name'], df['Runtime (seconds)'], color='orange')
     plt.xlabel('Dataset Name')
@@ -162,7 +174,6 @@ def visualize_performance(combined_results):
     plt.tight_layout()
     plt.show()
 
-    # Memory usage comparison
     plt.figure(figsize=(10, 6))
     plt.bar(df['Dataset Name'], df['Memory Usage (MB) [psutil]'], color='blue', label='psutil')
     plt.bar(df['Dataset Name'], df['Peak Memory (MB) [tracemalloc]'], color='green', label='tracemalloc', alpha=0.7)
@@ -174,18 +185,19 @@ def visualize_performance(combined_results):
     plt.tight_layout()
     plt.show()
 
-# Main function to process datasets in a folder
 def process_datasets_in_folder(folder_path, min_support_ratio):
     datasets = [file for file in os.listdir(folder_path) if file.endswith('.txt')]
 
     combined_results = []
-    all_frequent_itemsets = []  # Collect frequent itemsets for visualization later
+    all_frequent_itemsets = []
 
     for dataset in datasets:
         file_path = os.path.join(folder_path, dataset)
         print(f"Processing dataset: {dataset}")
         transactions = get_transactions_from_file(file_path)
         frequent_itemsets, runtime, memory_psutil, memory_peak = apriori_with_trie(transactions, min_support_ratio)
+
+        save_frequent_itemsets_to_file(frequent_itemsets, dataset)
 
         results = {
             "Dataset Name": dataset,
@@ -196,23 +208,19 @@ def process_datasets_in_folder(folder_path, min_support_ratio):
         }
         combined_results.append(results)
 
-        # Append for later visualization
         all_frequent_itemsets.append((dataset, frequent_itemsets))
 
-    # Save combined results to a CSV file
     combined_results_df = pd.DataFrame(combined_results)
     combined_results_df.to_csv("Combined_Results.csv", index=False)
     print("Combined results saved to Combined_Results.csv")
 
-    # Visualize results sequentially to avoid multiprocessing conflicts
-    for dataset, frequent_itemsets in all_frequent_itemsets:
-        print(f"Visualizing results for {dataset}")
-        visualize_frequent_itemsets(frequent_itemsets)
-
-    # Visualize performance metrics
-    visualize_performance(combined_results)
+    # for dataset, frequent_itemsets in all_frequent_itemsets:
+    #     print(f"Visualizing results for {dataset}")
+    #     visualize_frequent_itemsets(frequent_itemsets)
+    #
+    # visualize_performance(combined_results)
 
 if __name__ == "__main__":
-    min_support_ratio = 0.05
-    datasets_folder = 'TestDatasets'
+    min_support_ratio = 0.01
+    datasets_folder = 'SingleDataset'
     process_datasets_in_folder(datasets_folder, min_support_ratio)

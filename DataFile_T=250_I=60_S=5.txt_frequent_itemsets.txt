@@ -1,0 +1,139 @@
+Frequent Itemsets
+==================
+Milk-organic: 0.0558
+Oat-Meal: 0.0518
+Honey: 0.0398
+Wine: 0.0518
+Peanuts: 0.0757
+Corn-Flakes: 0.0438
+Tea-green: 0.0438
+White-Bread: 0.0558
+Hot-Dog-Buns: 0.0677
+Milk: 0.0438
+Water-Sparkling: 0.0717
+Coffee: 0.0598
+Mandarin-Oranges: 0.0757
+Granola-Bars: 0.0717
+Tomato-Paste: 0.0717
+Rice: 0.0398
+Orange-Juice: 0.0558
+Bagles: 0.0558
+Soda-can: 0.0876
+Flour: 0.0677
+Croissants: 0.0558
+Salsa: 0.0797
+Beer-bottle: 0.0757
+Spaghetti-Sauce: 0.0876
+Salt: 0.0359
+Honey-Crunch-Oats: 0.0518
+Oil: 0.0916
+Chicken-Noodle-Soup: 0.0518
+Cocoa-Rice-Cereal: 0.0438
+Green-Beans: 0.0637
+Pasta: 0.0398
+Coconut-Milk: 0.0757
+Mayonnaise: 0.0558
+Water-regular: 0.0478
+Bread-Crumbs: 0.0438
+Ketchup: 0.0558
+Barbeque-Sauce: 0.0558
+Apple-Sauce: 0.0319
+Mushrooms: 0.0438
+Mustard: 0.0558
+Cereal: 0.0398
+Syrup: 0.0598
+Preserves: 0.0677
+Baguette: 0.0598
+Pretzels: 0.0478
+Milk-Chocolate-Bar: 0.0717
+Tea: 0.0398
+Nutella: 0.0797
+Soup: 0.1036
+Salad-Dressing: 0.0598
+Tomato-Sauce: 0.0398
+Soda-bottle: 0.0398
+Bread: 0.0717
+Sugar: 0.0518
+Cheery-Pie-Filling: 0.0518
+Pepper: 0.0478
+Apple-Juice: 0.0398
+Peanut-Butter: 0.0398
+Beer-can: 0.0199
+Chips: 0.0478
+Milk-organic, Chips: 0.0120
+Milk-Chocolate-Bar, Spaghetti-Sauce: 0.0120
+Honey, Spaghetti-Sauce: 0.0120
+Syrup, Honey-Crunch-Oats: 0.0159
+Coffee, Soup: 0.0120
+Milk-organic, Soup: 0.0120
+Bread, Soda-can: 0.0199
+Peanuts, Baguette: 0.0159
+Peanuts, Oat-Meal: 0.0159
+Peanuts, Mustard: 0.0120
+Milk-Chocolate-Bar, Tea: 0.0159
+Tea-green, Milk: 0.0120
+Pepper, Baguette: 0.0120
+Oil, Orange-Juice: 0.0120
+Coconut-Milk, Green-Beans: 0.0120
+Beer-bottle, Water-Sparkling: 0.0120
+Bread-Crumbs, Salsa: 0.0120
+Croissants, Milk-Chocolate-Bar: 0.0120
+Ketchup, Green-Beans: 0.0120
+Soda-can, Salad-Dressing: 0.0120
+Cocoa-Rice-Cereal, Flour: 0.0120
+Croissants, Chicken-Noodle-Soup: 0.0120
+Soda-bottle, Honey-Crunch-Oats: 0.0120
+Tomato-Paste, Salt: 0.0120
+Syrup, Orange-Juice: 0.0120
+Salsa, Corn-Flakes: 0.0120
+Apple-Juice, Salad-Dressing: 0.0120
+Cereal, Syrup: 0.0120
+Bread, Salsa: 0.0120
+Granola-Bars, Baguette: 0.0159
+Tea-green, Oil: 0.0159
+Nutella, Salad-Dressing: 0.0120
+Soda-can, Mustard: 0.0199
+Cereal, White-Bread: 0.0120
+Bread, Nutella: 0.0199
+Coconut-Milk, Honey-Crunch-Oats: 0.0120
+Coconut-Milk, Mandarin-Oranges: 0.0120
+Hot-Dog-Buns, Beer-bottle: 0.0159
+Orange-Juice, Beer-bottle: 0.0120
+Sugar, Soda-can: 0.0120
+Wine, Soup: 0.0120
+Water-regular, Peanuts: 0.0120
+Coffee, Spaghetti-Sauce: 0.0120
+Bagles, Mandarin-Oranges: 0.0120
+Croissants, Tomato-Paste: 0.0120
+Flour, Spaghetti-Sauce: 0.0120
+Tomato-Sauce, Mandarin-Oranges: 0.0120
+Flour, Peanuts: 0.0120
+Tomato-Paste, Oat-Meal: 0.0120
+Honey-Crunch-Oats, Orange-Juice: 0.0120
+Granola-Bars, Peanuts: 0.0120
+Oil, Green-Beans: 0.0120
+Flour, Baguette: 0.0120
+Croissants, Soda-can: 0.0120
+Hot-Dog-Buns, Soup: 0.0159
+Hot-Dog-Buns, Green-Beans: 0.0120
+Salsa, Soup: 0.0120
+Salsa, Peanuts: 0.0120
+Nutella, Spaghetti-Sauce: 0.0120
+Wine, Milk-organic: 0.0120
+Croissants, Peanuts: 0.0120
+Ketchup, Mayonnaise: 0.0120
+Granola-Bars, Beer-bottle: 0.0120
+Wine, Peanuts: 0.0120
+Sugar, Beer-bottle: 0.0120
+Coconut-Milk, Oil: 0.0120
+Soda-can, Oil: 0.0120
+Hot-Dog-Buns, Syrup: 0.0120
+Tomato-Paste, Beer-bottle: 0.0159
+Tomato-Paste, Milk-Chocolate-Bar: 0.0120
+Bread, Mayonnaise: 0.0120
+Cocoa-Rice-Cereal, Spaghetti-Sauce: 0.0120
+Coconut-Milk, Ketchup: 0.0120
+Tomato-Paste, Chicken-Noodle-Soup: 0.0199
+White-Bread, Chips: 0.0120
+Soup, Mandarin-Oranges: 0.0120
+Salsa, Spaghetti-Sauce: 0.0120

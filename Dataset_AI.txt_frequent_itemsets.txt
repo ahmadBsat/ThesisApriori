@@ -1,0 +1,52 @@
+Frequent Itemsets
+==================
+T5: 0.1667
+T3: 0.1667
+T4: 0.1667
+T1: 0.1667
+T2: 0.1667
+Bread: 0.5000
+Butter: 0.8333
+Milk: 0.5000
+Jam: 0.3333
+Eggs: 0.3333
+Bread, Jam: 0.1667
+T4, T3: 0.1667
+Bread, Butter: 0.5000
+Bread, Milk: 0.1667
+T5, T3: 0.1667
+Eggs, Milk: 0.1667
+T1, T3: 0.1667
+T1, T5: 0.1667
+Butter, Eggs: 0.3333
+T1, T2: 0.1667
+T4, T1: 0.1667
+T4, T5: 0.1667
+Butter, Milk: 0.5000
+T4, T2: 0.1667
+Jam, Milk: 0.1667
+T2, T5: 0.1667
+T2, T3: 0.1667
+Butter, Jam: 0.3333
+Bread, Eggs: 0.1667
+T4, T1, T3: 0.1667
+T1, T2, T5: 0.1667
+T4, T5, T3: 0.1667
+T4, T2, T3: 0.1667
+Bread, Butter, Jam: 0.1667
+Butter, Jam, Milk: 0.1667
+T1, T2, T3: 0.1667
+T4, T1, T5: 0.1667
+Bread, Butter, Eggs: 0.1667
+T4, T2, T5: 0.1667
+T2, T5, T3: 0.1667
+T4, T1, T2: 0.1667
+T1, T5, T3: 0.1667
+Butter, Eggs, Milk: 0.1667
+Bread, Butter, Milk: 0.1667
+T1, T2, T5, T3: 0.1667
+T4, T1, T2, T3: 0.1667
+T4, T2, T5, T3: 0.1667
+T4, T1, T2, T5: 0.1667
+T4, T1, T5, T3: 0.1667
+T5, T3, T4, T1, T2: 0.1667

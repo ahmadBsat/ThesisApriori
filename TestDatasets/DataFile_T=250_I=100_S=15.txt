@@ -1,0 +1,251 @@
+T T1 T2 T3 T4 T5 T6 T7 T8 T9 T10 T11 T12 T13 T14 T15
+r Shaving-Supplies Cocoa-Rice-Cereal Tash-Bags Veggies Mushrooms Ground-Beef White-Bread        
+r Mustard              
+r Lemons Diapers             
+r Mushrooms Insect-Spray Tomato-Soup Coffee Granola-Bars French-Fries Soap Pasta Cereal Toilet-Paper     
+r Apple-Sauce Apple-Juice Fish            
+r Breakfast-Sausage Milk-Chocolate-Bar Mayonnaise Fish Sunblock Spaghetti-Sauce Croissants Honey-Crunch-Oats Vanilla-Extract Granola-Bars     
+r Barbeque-Sauce Pasta Lemons Carrots Razors Tash-Bags Mustard        
+r Pretzels Insect-Spray Pasta            
+r Milk Wine Sunblock Ice-Cream           
+r Preserves              
+r Carrots Tweezers Barbeque-Sauce            
+r Diapers Tea Mushrooms Lemons Bagles          
+r Water-regular Mushrooms Beer-bottle            
+r Manicure              
+r Water-regular Ice-Cream Chips Peanut-Butter Milk-organic Mayonnaise Mandarin-Oranges        
+r Tea-green              
+r Syrup              
+r Milk Manicure             
+r Razors Carrots Mushrooms            
+r Tomato-Soup Beer-bottle Veggies Ground-Beef Ketchup Cocoa-Rice-Cereal         
+r Plastic-Wrap              
+r Barbeque-Sauce Salt Apples Bread-Crumbs           
+r Tea-green Chicken-Noodle-Soup Tweezers Milk Chips Barbeque-Sauce Grapes Pepper       
+r Barbeque-Sauce              
+r Sugar Tuna             
+r Hand-Sanitizer Milk-organic Bread Spaghetti-Sauce Toilet-Paper          
+r Green-Beans Salsa Coffee            
+r Insect-Spray Tomato-Soup Bread Tomato-Paste           
+r Ice-Cream Tuna             
+r Tweezers Lemons Barbeque-Sauce            
+r Pepper Water-Sparkling Coconut-Milk Flour           
+r Toothpaste Tea-green Apple-Sauce Tomato-Soup           
+r Pasta Corn-Flakes French-Fries Plastic-Wrap           
+r Razors Barbeque-Sauce             
+r Tash-Bags Tea             
+r Baby-Wipes Chips Grapes Tea-green           
+r Water-Sparkling Oat-Meal Cocoa-Rice-Cereal Shaving-Supplies Ground-Beef          
+r Dental-Floss Mustard Tuna Chicken-Breasts Diapers Bread         
+r Orange-Juice Tash-Bags Tea-green            
+r Rice Water-Sparkling Milk-Chocolate-Bar Granola-Bars Tash-Bags Vanilla-Extract Shampoo Tomato-Sauce Deodorant      
+r Tea Soup Mandarin-Oranges Salad-Dressing           
+r Chicken-Breasts              
+r Apple-Sauce Peanut-Butter Oat-Meal            
+r Apple-Sauce              
+r Beer-can Ice-Cream Bagles            
+r Mushrooms Preserves Insect-Spray Oat-Meal Baguette Grapes Salad-Dressing Wine Chips      
+r Bagles Orange-Juice             
+r Soup Barbeque-Sauce             
+r Water-regular Soap Granola-Bars Peanuts Fish Chicken-Tenderloins Deodorant        
+r Spaghetti-Sauce Razors Milk-organic            
+r Spaghetti-Sauce Insect-Spray Salt Chicken-Tenderloins Peanuts          
+r Shampoo Ketchup Soda-bottle Corn-Flakes Granola-Bars Beer-bottle         
+r Shampoo Manicure Plastic-Wrap Toothpaste Soup          
+r Tea-green              
+r Oil              
+r Honey-Crunch-Oats Toothpaste Ground-Beef Veggies Peanut-Butter Rice Beer-bottle Chicken-Nuggets Grapes      
+r Vanilla-Extract Sunblock Dental-Floss Fish Soda-can Chicken-Noodle-Soup         
+r Shampoo              
+r Apple-Juice Bread             
+r Plastic-Wrap Beer-bottle Vanilla-Extract Tea-green Oat-Meal          
+r Breakfast-Sausage              
+r Tweezers Waffles Shampoo Orange-Juice           
+r Plastic-Wrap              
+r Oat-Meal Apples Water-regular Diapers French-Fries          
+r Baby-Wipes              
+r Tomato-Soup              
+r Baby-Wipes              
+r Soap Mustard Salad-Dressing Preserves Beer-can Tea-green Pasta Grapes Diapers      
+r Croissants              
+r Chicken-Nuggets Oil Cocoa-Rice-Cereal Hot-Dog-Buns Bagles Hand-Sanitizer Cheery-Pie-Filling Salsa Syrup      
+r Cocoa-Rice-Cereal              
+r Sugar Ground-Beef Pepper Syrup Toilet-Paper          
+r Soda-bottle Veggies             
+r Soda-can Deodorant Lemons            
+r Baguette Coconut-Milk Beer-can Spaghetti-Sauce Breakfast-Sausage Nutella Syrup Apple-Juice Ketchup Mayonnaise Dental-Floss Bagles Oat-Meal Vanilla-Extract Baby-Wipes
+r Tomato-Soup Peanuts Chicken-Tenderloins Pepper Deodorant Diapers Sugar Coconut-Milk Soup      
+r Manicure Tea Croissants            
+r Tuna              
+r Soap Cereal Tash-Bags Cocoa-Rice-Cereal Chicken-Breasts Apple-Sauce         
+r Vanilla-Extract              
+r Chicken-Noodle-Soup Fruit Tuna Croissants Hand-Sanitizer Honey Baguette Gloves Rice Mayonnaise Tash-Bags Ground-Beef   
+r Nutella Pasta             
+r Chips Hot-Dog-Buns             
+r Mustard Soda-can Salt Chicken-Tenderloins           
+r Plastic-Wrap Diapers Tash-Bags Honey-Crunch-Oats Cheery-Pie-Filling Lemons Hot-Dog-Buns Cocoa-Rice-Cereal Soda-bottle Honey Water-Sparkling Waffles Granola-Bars Chicken-Tenderloins Sunblock
+r Orange-Juice Salad-Dressing Paper-Towles Ice-Cream Oil Corn-Flakes Chicken-Tenderloins Mushrooms Pepper      
+r Gloves Tweezers Shaving-Supplies Cocoa-Rice-Cereal Soup          
+r Honey-Crunch-Oats Beer-bottle Diapers Fish Mandarin-Oranges Tuna Vanilla-Extract Toilet-Paper Peanut-Butter Toothbrushes Oil Tea Honey Ice-Cream Preserves
+r Grapes Tash-Bags Ice-Cream Veggies           
+r Soda-bottle Vanilla-Extract Baguette            
+r Soup Honey Salsa Rice Razors          
+r Bread Pretzels Tea            
+r Ground-Beef Water-Sparkling Apple-Sauce            
+r French-Fries Insect-Spray Chips            
+r Nutella Croissants             
+r Beer-bottle Waffles             
+r Milk-Chocolate-Bar Chicken-Breasts Bread-Crumbs Croissants Bread Peanut-Butter Paper-Towles Honey-Crunch-Oats       
+r Fruit Manicure Salt Honey-Crunch-Oats Veggies          
+r Apple-Sauce              
+r Green-Beans Mustard Cocoa-Rice-Cereal Tea Peanuts Pizza Deodorant Milk-Chocolate-Bar Pretzels Coconut-Milk     
+r Tweezers White-Bread Water-Sparkling Preserves Bagles Mushrooms Croissants Tea Tuna Corn-Flakes Hot-Dog-Buns Ground-Beef   
+r Bread Apple-Sauce Ketchup Veggies Lemons Cocoa-Rice-Cereal Shaving-Supplies Sugar Water-Sparkling White-Bread Toothpaste Grapes Carrots  
+r Beer-can Oil             
+r Soap French-Fries Green-Beans Veggies Baguette Toothbrushes Plastic-Wrap Nutella Baby-Wipes      
+r Flour              
+r Sunblock Fish Nutella Preserves Paper-Towles Bread-Crumbs Mustard Razors Soda-can Chicken-Breasts Mandarin-Oranges Pretzels Wine Coconut-Milk 
+r Spaghetti-Sauce Toilet-Paper             
+r Peanuts Ice-Cream Fish Chips Beer-can Aluminum-Foil Mayonnaise        
+r Baby-Wipes              
+r Carrots Peanut-Butter Lemons            
+r Spaghetti-Sauce Milk-Chocolate-Bar Chicken-Nuggets Mayonnaise           
+r Honey Apple-Sauce Honey-Crunch-Oats            
+r Fish Cocoa-Rice-Cereal Shampoo Beer-can Oat-Meal          
+r Tomato-Paste              
+r Bread Veggies Water-Sparkling Salad-Dressing Corn-Flakes Tomato-Sauce Green-Beans Milk-Chocolate-Bar Tash-Bags Mayonnaise Mustard Peanuts Ketchup Dental-Floss Bread-Crumbs
+r Mushrooms Tuna Manicure Plastic-Wrap           
+r Cocoa-Rice-Cereal Apple-Sauce             
+r Mandarin-Oranges Nutella             
+r Water-regular Corn-Flakes Nutella            
+r Orange-Juice Beer-bottle Cheery-Pie-Filling Apples Croissants Tuna Pepper Honey-Crunch-Oats Ketchup Chicken-Breasts Peanut-Butter Aluminum-Foil   
+r Gloves Toilet-Paper Hot-Dog-Buns Chicken-Breasts           
+r Toothpaste Chicken-Nuggets Cocoa-Rice-Cereal Tea Peanut-Butter          
+r Chicken-Noodle-Soup Soda-bottle Pizza Tomato-Paste Milk Manicure         
+r Peanut-Butter Cheery-Pie-Filling Pizza Croissants           
+r Ground-Beef              
+r Green-Beans              
+r Croissants Chicken-Tenderloins Fish            
+r Beer-bottle              
+r Croissants Barbeque-Sauce Soda-bottle Mushrooms Preserves Plastic-Wrap Aluminum-Foil Insect-Spray Soup Wine Pasta Manicure Chips Mandarin-Oranges Spaghetti-Sauce
+r Corn-Flakes Salt             
+r Breakfast-Sausage              
+r Tea-green Tash-Bags Fish Veggies Cocoa-Rice-Cereal Peanuts Lemons Spaghetti-Sauce Vanilla-Extract Cheery-Pie-Filling Toilet-Paper Hot-Dog-Buns Sugar Bagles French-Fries
+r Milk Cheery-Pie-Filling Shampoo Chicken-Nuggets           
+r Coffee              
+r Chicken-Nuggets Gloves             
+r Beer-can Water-regular Sugar Dental-Floss Orange-Juice          
+r Baby-Wipes              
+r Ice-Cream              
+r Tash-Bags Gloves Baby-Wipes            
+r Deodorant Oat-Meal Shaving-Supplies Cereal Soap          
+r Chicken-Tenderloins Pretzels Orange-Juice Preserves Baby-Wipes Lemons         
+r Cocoa-Rice-Cereal Water-regular Bread-Crumbs Tea           
+r Soap              
+r Cocoa-Rice-Cereal              
+r Spaghetti-Sauce Sunblock Peanut-Butter            
+r Milk-Chocolate-Bar Oil Tomato-Sauce Coffee Paper-Towles Pasta Pepper Cocoa-Rice-Cereal Mandarin-Oranges Lemons Aluminum-Foil    
+r Pizza Sugar             
+r Tweezers Shampoo Toothbrushes Tomato-Paste Ketchup Chicken-Breasts         
+r Mayonnaise Ground-Beef Chicken-Breasts Pretzels Milk-organic Honey-Crunch-Oats Barbeque-Sauce Baby-Wipes Deodorant Paper-Towles Cheery-Pie-Filling Pasta Veggies Coffee Hand-Sanitizer
+r Chicken-Noodle-Soup Waffles Cocoa-Rice-Cereal            
+r Salad-Dressing Chips Orange-Juice            
+r Honey-Crunch-Oats Tuna Oat-Meal Soup Croissants Beer-bottle         
+r Milk-Chocolate-Bar Baguette Chicken-Tenderloins Oat-Meal           
+r Spaghetti-Sauce Tweezers Cocoa-Rice-Cereal Diapers           
+r Gloves Water-regular White-Bread Syrup Bagles Wine Beer-can        
+r Mushrooms              
+r Preserves Apple-Juice             
+r Water-Sparkling Chicken-Breasts Gloves Barbeque-Sauce Bread Oil Coconut-Milk Dental-Floss Hand-Sanitizer      
+r Soda-bottle Gloves Pizza French-Fries Pretzels Apples Toothpaste Bread-Crumbs Salad-Dressing Apple-Sauce Tomato-Sauce Oat-Meal Ketchup Wine Ground-Beef
+r Ground-Beef Fish Waffles            
+r Shaving-Supplies Coconut-Milk Milk-Chocolate-Bar Carrots           
+r Pepper Fruit Flour Waffles Tash-Bags Vanilla-Extract Shampoo Insect-Spray Milk-organic      
+r Paper-Towles Pasta Mayonnaise            
+r Paper-Towles              
+r Vanilla-Extract Ketchup             
+r Soup              
+r Croissants Pizza White-Bread            
+r Syrup Manicure Bagles Tea-green           
+r Cocoa-Rice-Cereal              
+r Preserves Soda-can             
+r Tash-Bags Peanut-Butter Chicken-Breasts Veggies Mustard Shampoo Chicken-Noodle-Soup Cocoa-Rice-Cereal Toothbrushes      
+r Carrots Mushrooms Ground-Beef Chicken-Breasts Pasta          
+r Apples Aluminum-Foil Coconut-Milk Pretzels Flour          
+r Sugar Toothbrushes Dental-Floss Manicure Hot-Dog-Buns Tuna Chicken-Nuggets        
+r Orange-Juice              
+r Beer-bottle Croissants             
+r Mustard              
+r Pasta Beer-can Toothpaste Baguette           
+r Salad-Dressing Granola-Bars Baguette Green-Beans Carrots Diapers Soup Cocoa-Rice-Cereal       
+r Syrup Plastic-Wrap Soup Breakfast-Sausage Grapes          
+r Peanut-Butter Vanilla-Extract Salsa Aluminum-Foil Chicken-Nuggets Mustard Grapes Tomato-Paste Peanuts Honey     
+r Pepper Razors Aluminum-Foil Cheery-Pie-Filling Water-Sparkling Coconut-Milk         
+r Oat-Meal              
+r Toothbrushes Salad-Dressing Bread Soda-bottle Grapes Chicken-Noodle-Soup Chicken-Nuggets Manicure Hot-Dog-Buns Carrots Bagles Soda-can Ice-Cream  
+r Tash-Bags Hot-Dog-Buns Ice-Cream Shaving-Supplies           
+r Tomato-Soup Beer-can Ketchup Shampoo Milk-Chocolate-Bar Rice Apples Baby-Wipes Pretzels Aluminum-Foil Milk-organic Cocoa-Rice-Cereal   
+r Soda-can Nutella Sunblock Salsa Hand-Sanitizer          
+r Toilet-Paper              
+r Rice Shaving-Supplies Cocoa-Rice-Cereal Salad-Dressing           
+r Tomato-Paste Peanut-Butter Grapes Chicken-Breasts Paper-Towles Oat-Meal Beer-can Coconut-Milk       
+r Toothbrushes Shaving-Supplies Hand-Sanitizer Fruit           
+r Tomato-Paste White-Bread Milk-organic Coffee Sunblock Coconut-Milk Wine        
+r Tomato-Paste Vanilla-Extract Bagles Mustard           
+r Granola-Bars Chicken-Noodle-Soup Tash-Bags Peanut-Butter Preserves Oil Cocoa-Rice-Cereal        
+r Syrup Beer-can Fish Milk-organic Shampoo Nutella Bread Milk Cereal Peanuts Coffee Tweezers   
+r Milk-Chocolate-Bar Soda-bottle Tash-Bags Chicken-Nuggets French-Fries Preserves Salt Cocoa-Rice-Cereal Apples Beer-bottle Baby-Wipes    
+r Toilet-Paper Cocoa-Rice-Cereal Mayonnaise Manicure Diapers Rice         
+r Wine Oil Mayonnaise Tweezers Soap Milk-Chocolate-Bar Nutella Chicken-Noodle-Soup Ketchup Apple-Sauce Tash-Bags Sugar Toilet-Paper Deodorant Chicken-Tenderloins
+r Orange-Juice Bread             
+r Diapers Ketchup Peanuts Razors           
+r Water-Sparkling Rice             
+r Razors Apple-Juice Honey Apples Coconut-Milk Flour Peanuts Tuna Diapers Toothbrushes Paper-Towles Syrup Oat-Meal Beer-bottle Vanilla-Extract
+r Peanuts Pizza Diapers Fish Honey-Crunch-Oats Waffles         
+r Tomato-Paste Hand-Sanitizer             
+r Bread Orange-Juice Diapers Spaghetti-Sauce Corn-Flakes Ketchup Insect-Spray Mustard Cheery-Pie-Filling Honey Lemons    
+r Tea              
+r Peanuts              
+r Tuna Chicken-Tenderloins             
+r Peanut-Butter              
+r Chips Water-Sparkling Toothpaste Gloves Milk-Chocolate-Bar          
+r Soda-bottle Pasta             
+r Insect-Spray Razors Tweezers            
+r Mushrooms Gloves Soda-can Soap Ketchup Water-regular Croissants Tomato-Paste Grapes Coffee Apples Tea Granola-Bars Milk-Chocolate-Bar 
+r Wine              
+r Hot-Dog-Buns Cereal             
+r Chicken-Noodle-Soup Ketchup Lemons Dental-Floss Coconut-Milk Razors Croissants        
+r Waffles Diapers Salsa Chicken-Breasts Lemons Tea-green Chicken-Nuggets Mandarin-Oranges Paper-Towles      
+r Cocoa-Rice-Cereal Shaving-Supplies Tea-green Razors French-Fries Hot-Dog-Buns Grapes Water-regular Bread Chicken-Nuggets White-Bread Syrup Beer-bottle Dental-Floss Salsa
+r Coconut-Milk Oil             
+r Cocoa-Rice-Cereal Chips Soda-bottle Toothpaste Beer-bottle          
+r Milk-organic Salsa             
+r Grapes Mushrooms Chicken-Nuggets Fruit Spaghetti-Sauce Mandarin-Oranges Toothbrushes Cheery-Pie-Filling Milk      
+r Mushrooms Chicken-Nuggets Fruit            
+r Croissants Soda-bottle Coconut-Milk Mustard Orange-Juice Preserves Ice-Cream Chicken-Breasts Milk Apple-Sauce     
+r Salad-Dressing Shampoo Ice-Cream Milk Toothpaste          
+r Fruit Spaghetti-Sauce Pizza            
+r Fish Wine Beer-bottle            
+r Pretzels Waffles Chicken-Breasts Deodorant           
+r Water-regular Bagles Water-Sparkling Baguette Chips Cereal Oat-Meal Bread Beer-can      
+r Chicken-Noodle-Soup Chicken-Breasts Razors Barbeque-Sauce Toilet-Paper Mayonnaise         
+r Plastic-Wrap Chicken-Nuggets             
+r Baguette Salad-Dressing Milk Soap           
+r Toothpaste Shaving-Supplies             
+r Beer-bottle Manicure Sunblock Toilet-Paper Vanilla-Extract Grapes Diapers        
+r Fish Honey-Crunch-Oats Honey Chips           
+r Coconut-Milk              
+r Pepper Dental-Floss Diapers Water-regular           
+r Mayonnaise Salsa Dental-Floss Chicken-Tenderloins Mushrooms Water-Sparkling Bread Deodorant Preserves Tea-green     
+r Nutella Chicken-Noodle-Soup Gloves Grapes           
+r Oat-Meal Milk Ice-Cream Pizza Salt Croissants Shaving-Supplies Oil Tea Salsa Toilet-Paper Baby-Wipes   
+r Carrots French-Fries Tomato-Paste            
+r Orange-Juice Sunblock Cocoa-Rice-Cereal Bagles           
+r Veggies Bread-Crumbs Peanuts Toothbrushes Water-Sparkling Waffles Preserves        
+r Razors Breakfast-Sausage Apple-Sauce Shampoo Peanut-Butter          
+r Pretzels Peanut-Butter             
+r Bagles              
+r Bread-Crumbs              
+r Ketchup Spaghetti-Sauce Waffles Ground-Beef           
+r Granola-Bars Corn-Flakes             
+r Rice              

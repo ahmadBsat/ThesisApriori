@@ -1,0 +1,2293 @@
+Frequent Itemsets
+==================
+Oat-Meal: 0.2136
+Hot-Dog-Buns: 0.1996
+Beer-bottle: 0.2395
+Croissants: 0.2375
+Soda-bottle: 0.2236
+Bread: 0.2116
+Beer-can: 0.2295
+Cereal: 0.2176
+Bagles: 0.2196
+Honey-Crunch-Oats: 0.2196
+Granola-Bars: 0.2056
+Apple-Juice: 0.2435
+Corn-Flakes: 0.2375
+Cocoa-Rice-Cereal: 0.2295
+Milk: 0.2275
+Coffee: 0.1996
+Baguette: 0.2016
+Orange-Juice: 0.2335
+Milk-organic: 0.2096
+White-Bread: 0.2196
+Soda-bottle, Milk: 0.0659
+White-Bread, Honey-Crunch-Oats: 0.0758
+Cereal, Coffee: 0.0619
+Soda-bottle, Bread: 0.0699
+Baguette, Milk: 0.0719
+Cocoa-Rice-Cereal, Orange-Juice: 0.0539
+Beer-can, Hot-Dog-Buns: 0.0599
+Corn-Flakes, Orange-Juice: 0.0699
+Honey-Crunch-Oats, Bagles: 0.0679
+Honey-Crunch-Oats, Croissants: 0.0619
+Soda-bottle, Cocoa-Rice-Cereal: 0.0599
+Granola-Bars, Milk-organic: 0.0379
+Baguette, Milk-organic: 0.0499
+Cocoa-Rice-Cereal, Apple-Juice: 0.0798
+Corn-Flakes, Bagles: 0.0679
+Beer-bottle, Coffee: 0.0639
+Baguette, Corn-Flakes: 0.0758
+Cocoa-Rice-Cereal, Croissants: 0.0699
+Corn-Flakes, Apple-Juice: 0.0858
+Milk, Orange-Juice: 0.0719
+Bagles, Beer-bottle: 0.0818
+Cocoa-Rice-Cereal, Milk: 0.0778
+Milk, Corn-Flakes: 0.0699
+White-Bread, Bagles: 0.0639
+Orange-Juice, Apple-Juice: 0.0599
+Honey-Crunch-Oats, Milk: 0.0699
+Soda-bottle, White-Bread: 0.0479
+Coffee, Hot-Dog-Buns: 0.0419
+Apple-Juice, Hot-Dog-Buns: 0.0739
+Croissants, Hot-Dog-Buns: 0.0659
+Honey-Crunch-Oats, Beer-can: 0.0679
+Bagles, Coffee: 0.0599
+Coffee, Croissants: 0.0559
+Soda-bottle, Coffee: 0.0619
+Soda-bottle, Croissants: 0.0639
+Beer-can, Milk-organic: 0.0619
+Oat-Meal, Baguette: 0.0639
+Soda-bottle, Cereal: 0.0439
+Milk-organic, Hot-Dog-Buns: 0.0559
+Cocoa-Rice-Cereal, Hot-Dog-Buns: 0.0599
+Granola-Bars, Cereal: 0.0559
+Oat-Meal, Apple-Juice: 0.0758
+Baguette, Cereal: 0.0519
+Orange-Juice, Beer-bottle: 0.0719
+Milk, Coffee: 0.0579
+White-Bread, Corn-Flakes: 0.0659
+White-Bread, Bread: 0.0599
+Beer-can, Croissants: 0.0798
+Oat-Meal, Orange-Juice: 0.0719
+Bagles, Beer-can: 0.0679
+Oat-Meal, White-Bread: 0.0619
+Beer-can, Coffee: 0.0499
+Baguette, Honey-Crunch-Oats: 0.0719
+Granola-Bars, Beer-can: 0.0659
+Honey-Crunch-Oats, Granola-Bars: 0.0619
+Soda-bottle, Honey-Crunch-Oats: 0.0758
+White-Bread, Milk: 0.0719
+Milk-organic, Croissants: 0.0639
+Bagles, Milk-organic: 0.0679
+Beer-bottle, Cereal: 0.0699
+White-Bread, Baguette: 0.0659
+Baguette, Orange-Juice: 0.0758
+Soda-bottle, Orange-Juice: 0.0639
+Oat-Meal, Beer-bottle: 0.0659
+Beer-can, Cereal: 0.0798
+Bread, Corn-Flakes: 0.0599
+Honey-Crunch-Oats, Cereal: 0.0699
+Bagles, Apple-Juice: 0.0758
+White-Bread, Orange-Juice: 0.0679
+Apple-Juice, Croissants: 0.0719
+Milk, Cereal: 0.0619
+Cocoa-Rice-Cereal, Beer-bottle: 0.0778
+Bread, Milk: 0.0719
+Honey-Crunch-Oats, Beer-bottle: 0.0679
+Oat-Meal, Coffee: 0.0579
+Baguette, Bread: 0.0559
+Bread, Apple-Juice: 0.0719
+Bread, Bagles: 0.0579
+Oat-Meal, Bagles: 0.0639
+White-Bread, Beer-can: 0.0719
+Oat-Meal, Croissants: 0.0659
+Soda-bottle, Oat-Meal: 0.0619
+White-Bread, Beer-bottle: 0.0599
+Bread, Orange-Juice: 0.0539
+Soda-bottle, Corn-Flakes: 0.0639
+Baguette, Beer-bottle: 0.0739
+White-Bread, Cereal: 0.0679
+Baguette, Cocoa-Rice-Cereal: 0.0798
+Apple-Juice, Milk-organic: 0.0519
+Milk-organic, Cereal: 0.0539
+Soda-bottle, Hot-Dog-Buns: 0.0659
+White-Bread, Coffee: 0.0679
+Orange-Juice, Coffee: 0.0659
+Bread, Beer-can: 0.0679
+Orange-Juice, Bagles: 0.0798
+White-Bread, Croissants: 0.0679
+Orange-Juice, Croissants: 0.0739
+White-Bread, Apple-Juice: 0.0699
+Bread, Beer-bottle: 0.0699
+Oat-Meal, Beer-can: 0.0599
+White-Bread, Granola-Bars: 0.0659
+Oat-Meal, Bread: 0.0719
+Cocoa-Rice-Cereal, Corn-Flakes: 0.0778
+Bagles, Croissants: 0.0559
+Baguette, Croissants: 0.0699
+Granola-Bars, Croissants: 0.0639
+Cocoa-Rice-Cereal, Honey-Crunch-Oats: 0.0619
+Bagles, Granola-Bars: 0.0659
+Honey-Crunch-Oats, Corn-Flakes: 0.0818
+Bread, Cereal: 0.0559
+Granola-Bars, Coffee: 0.0619
+Corn-Flakes, Hot-Dog-Buns: 0.0519
+Orange-Juice, Beer-can: 0.0539
+Milk, Bagles: 0.0659
+Milk, Apple-Juice: 0.0898
+Milk, Croissants: 0.0639
+Cereal, Croissants: 0.0659
+Honey-Crunch-Oats, Hot-Dog-Buns: 0.0539
+Bagles, Cereal: 0.0719
+Bread, Granola-Bars: 0.0559
+Honey-Crunch-Oats, Apple-Juice: 0.0898
+Soda-bottle, Beer-bottle: 0.0679
+Apple-Juice, Beer-can: 0.0818
+Baguette, Beer-can: 0.0579
+Honey-Crunch-Oats, Coffee: 0.0699
+Milk, Hot-Dog-Buns: 0.0758
+Cocoa-Rice-Cereal, Bagles: 0.0639
+Corn-Flakes, Croissants: 0.0639
+Milk-organic, Coffee: 0.0479
+Cocoa-Rice-Cereal, Coffee: 0.0519
+Beer-bottle, Croissants: 0.0739
+Corn-Flakes, Coffee: 0.0758
+Beer-bottle, Apple-Juice: 0.0639
+Milk, Milk-organic: 0.0539
+Bread, Milk-organic: 0.0619
+Bagles, Hot-Dog-Buns: 0.0619
+Beer-bottle, Milk-organic: 0.0699
+Baguette, Apple-Juice: 0.0679
+Corn-Flakes, Milk-organic: 0.0579
+Soda-bottle, Granola-Bars: 0.0758
+Cocoa-Rice-Cereal, Milk-organic: 0.0479
+Oat-Meal, Cereal: 0.0579
+Granola-Bars, Apple-Juice: 0.0639
+White-Bread, Hot-Dog-Buns: 0.0639
+Soda-bottle, Baguette: 0.0619
+Soda-bottle, Apple-Juice: 0.0659
+Soda-bottle, Bagles: 0.0679
+Baguette, Granola-Bars: 0.0579
+Beer-bottle, Beer-can: 0.0679
+Bread, Coffee: 0.0619
+Milk, Granola-Bars: 0.0659
+Beer-bottle, Hot-Dog-Buns: 0.0619
+Honey-Crunch-Oats, Orange-Juice: 0.0659
+Bread, Croissants: 0.0579
+Orange-Juice, Milk-organic: 0.0679
+White-Bread, Milk-organic: 0.0619
+Oat-Meal, Granola-Bars: 0.0659
+Apple-Juice, Cereal: 0.0659
+White-Bread, Cocoa-Rice-Cereal: 0.0758
+Corn-Flakes, Granola-Bars: 0.0499
+Cocoa-Rice-Cereal, Granola-Bars: 0.0719
+Soda-bottle, Milk-organic: 0.0539
+Cereal, Hot-Dog-Buns: 0.0459
+Granola-Bars, Beer-bottle: 0.0699
+Bread, Hot-Dog-Buns: 0.0559
+Orange-Juice, Cereal: 0.0699
+Oat-Meal, Hot-Dog-Buns: 0.0539
+Soda-bottle, Beer-can: 0.0519
+Corn-Flakes, Cereal: 0.0699
+Oat-Meal, Honey-Crunch-Oats: 0.0719
+Granola-Bars, Hot-Dog-Buns: 0.0599
+Cocoa-Rice-Cereal, Cereal: 0.0579
+Honey-Crunch-Oats, Bread: 0.0539
+Milk, Beer-bottle: 0.0719
+Baguette, Hot-Dog-Buns: 0.0619
+Milk, Beer-can: 0.0639
+Oat-Meal, Milk-organic: 0.0459
+Cocoa-Rice-Cereal, Bread: 0.0699
+Orange-Juice, Granola-Bars: 0.0519
+Oat-Meal, Cocoa-Rice-Cereal: 0.0639
+Oat-Meal, Corn-Flakes: 0.0659
+Baguette, Coffee: 0.0619
+Baguette, Bagles: 0.0778
+Corn-Flakes, Beer-bottle: 0.0619
+Apple-Juice, Coffee: 0.0778
+Corn-Flakes, Beer-can: 0.0679
+Orange-Juice, Hot-Dog-Buns: 0.0639
+Cocoa-Rice-Cereal, Beer-can: 0.0559
+Honey-Crunch-Oats, Milk-organic: 0.0599
+Oat-Meal, Milk: 0.0699
+Honey-Crunch-Oats, Beer-bottle, Croissants: 0.0180
+Honey-Crunch-Oats, Beer-can, Cereal: 0.0259
+Apple-Juice, Beer-can, Milk-organic: 0.0220
+Bagles, Beer-bottle, Cereal: 0.0299
+Soda-bottle, Beer-can, Croissants: 0.0140
+Honey-Crunch-Oats, Granola-Bars, Cereal: 0.0220
+White-Bread, Corn-Flakes, Cereal: 0.0279
+Honey-Crunch-Oats, Bagles, Beer-can: 0.0299
+Oat-Meal, Granola-Bars, Honey-Crunch-Oats: 0.0319
+White-Bread, Cocoa-Rice-Cereal, Apple-Juice: 0.0240
+Croissants, Cocoa-Rice-Cereal, Hot-Dog-Buns: 0.0220
+Orange-Juice, Beer-bottle, Apple-Juice: 0.0200
+Baguette, Orange-Juice, Honey-Crunch-Oats: 0.0319
+Soda-bottle, Corn-Flakes, Hot-Dog-Buns: 0.0200
+Cocoa-Rice-Cereal, Bagles, Milk-organic: 0.0160
+Soda-bottle, Bread, Corn-Flakes: 0.0160
+Milk-organic, Granola-Bars, Croissants: 0.0140
+Cocoa-Rice-Cereal, Corn-Flakes, Beer-can: 0.0279
+Honey-Crunch-Oats, Orange-Juice, Bagles: 0.0319
+White-Bread, Milk, Honey-Crunch-Oats: 0.0319
+Bagles, Apple-Juice, Coffee: 0.0279
+Baguette, Bread, Beer-can: 0.0180
+Baguette, Granola-Bars, Honey-Crunch-Oats: 0.0220
+Milk-organic, Coffee, Croissants: 0.0220
+Honey-Crunch-Oats, Cocoa-Rice-Cereal, Cereal: 0.0180
+Soda-bottle, Baguette, Orange-Juice: 0.0220
+Oat-Meal, Bread, Cereal: 0.0220
+Soda-bottle, Bread, Beer-bottle: 0.0240
+Cocoa-Rice-Cereal, Bagles, Croissants: 0.0180
+Honey-Crunch-Oats, Bread, Beer-can: 0.0180
+Milk, Beer-bottle, Coffee: 0.0240
+Soda-bottle, Honey-Crunch-Oats, Cocoa-Rice-Cereal: 0.0200
+Milk-organic, Orange-Juice, Cereal: 0.0259
+Hot-Dog-Buns, Beer-bottle, Cereal: 0.0160
+Honey-Crunch-Oats, Orange-Juice, Apple-Juice: 0.0240
+Soda-bottle, Oat-Meal, Hot-Dog-Buns: 0.0220
+Coffee, Beer-bottle, Milk-organic: 0.0180
+Baguette, Bread, Cereal: 0.0140
+Soda-bottle, Oat-Meal, Orange-Juice: 0.0200
+Honey-Crunch-Oats, Apple-Juice, Hot-Dog-Buns: 0.0319
+White-Bread, Honey-Crunch-Oats, Croissants: 0.0259
+Baguette, Beer-bottle, Honey-Crunch-Oats: 0.0299
+Baguette, Granola-Bars, Bagles: 0.0220
+Milk-organic, Hot-Dog-Buns, Cereal: 0.0180
+Baguette, Bagles, Beer-can: 0.0240
+Oat-Meal, Milk, Corn-Flakes: 0.0299
+Bread, Apple-Juice, Coffee: 0.0279
+Soda-bottle, White-Bread, Bagles: 0.0220
+Oat-Meal, Honey-Crunch-Oats, Hot-Dog-Buns: 0.0180
+Baguette, Corn-Flakes, Honey-Crunch-Oats: 0.0299
+Baguette, White-Bread, Coffee: 0.0180
+White-Bread, Orange-Juice, Cereal: 0.0180
+Honey-Crunch-Oats, Milk, Granola-Bars: 0.0259
+Baguette, Milk, Milk-organic: 0.0220
+Cocoa-Rice-Cereal, Corn-Flakes, Apple-Juice: 0.0379
+Baguette, White-Bread, Beer-can: 0.0220
+Baguette, Granola-Bars, White-Bread: 0.0240
+Oat-Meal, Corn-Flakes, Honey-Crunch-Oats: 0.0319
+Apple-Juice, Bagles, Beer-can: 0.0220
+Corn-Flakes, Beer-bottle, Croissants: 0.0180
+Soda-bottle, White-Bread, Coffee: 0.0259
+Corn-Flakes, Beer-can, Cereal: 0.0299
+Hot-Dog-Buns, Orange-Juice, Cereal: 0.0279
+Baguette, Corn-Flakes, Apple-Juice: 0.0339
+Milk, Apple-Juice, Croissants: 0.0180
+White-Bread, Milk, Hot-Dog-Buns: 0.0240
+Oat-Meal, Milk, Milk-organic: 0.0140
+Cocoa-Rice-Cereal, Bread, Apple-Juice: 0.0259
+Baguette, Orange-Juice, White-Bread: 0.0299
+Milk, Orange-Juice, Granola-Bars: 0.0160
+Apple-Juice, Milk, Beer-can: 0.0259
+Oat-Meal, Orange-Juice, Hot-Dog-Buns: 0.0220
+Oat-Meal, Granola-Bars, White-Bread: 0.0240
+Soda-bottle, Baguette, Apple-Juice: 0.0220
+White-Bread, Bread, Corn-Flakes: 0.0240
+Bagles, Beer-bottle, Croissants: 0.0240
+Soda-bottle, Beer-can, Cereal: 0.0180
+White-Bread, Corn-Flakes, Coffee: 0.0259
+Oat-Meal, Bagles, Honey-Crunch-Oats: 0.0259
+White-Bread, Granola-Bars, Apple-Juice: 0.0220
+Baguette, White-Bread, Cocoa-Rice-Cereal: 0.0279
+Orange-Juice, Apple-Juice, Coffee: 0.0259
+Croissants, Granola-Bars, Hot-Dog-Buns: 0.0120
+Soda-bottle, Oat-Meal, Honey-Crunch-Oats: 0.0279
+Bagles, Beer-bottle, Beer-can: 0.0319
+Soda-bottle, Croissants, Cereal: 0.0140
+Oat-Meal, Cocoa-Rice-Cereal, Hot-Dog-Buns: 0.0180
+Soda-bottle, Cocoa-Rice-Cereal, Apple-Juice: 0.0200
+Milk, Orange-Juice, Cereal: 0.0259
+Orange-Juice, Granola-Bars, Croissants: 0.0240
+Honey-Crunch-Oats, Orange-Juice, Coffee: 0.0299
+Bread, Granola-Bars, Corn-Flakes: 0.0200
+Cocoa-Rice-Cereal, Bagles, Apple-Juice: 0.0299
+Bread, Apple-Juice, Croissants: 0.0200
+White-Bread, Bread, Hot-Dog-Buns: 0.0220
+Baguette, Bagles, Honey-Crunch-Oats: 0.0319
+Baguette, Milk, Granola-Bars: 0.0240
+Oat-Meal, White-Bread, Cocoa-Rice-Cereal: 0.0259
+Orange-Juice, Corn-Flakes, Apple-Juice: 0.0299
+Soda-bottle, Baguette, Honey-Crunch-Oats: 0.0259
+Baguette, Croissants, Cereal: 0.0220
+White-Bread, Beer-bottle, Cereal: 0.0180
+Granola-Bars, Bagles, Croissants: 0.0180
+Baguette, Apple-Juice, Croissants: 0.0180
+Corn-Flakes, White-Bread, Bagles: 0.0160
+White-Bread, Orange-Juice, Beer-bottle: 0.0240
+Baguette, White-Bread, Hot-Dog-Buns: 0.0180
+Oat-Meal, Beer-can, Croissants: 0.0200
+White-Bread, Milk, Orange-Juice: 0.0279
+Cocoa-Rice-Cereal, Milk, Beer-bottle: 0.0339
+Oat-Meal, Honey-Crunch-Oats, Coffee: 0.0299
+Oat-Meal, Bread, Honey-Crunch-Oats: 0.0299
+Oat-Meal, Milk, Bagles: 0.0220
+Honey-Crunch-Oats, Coffee, Cereal: 0.0240
+Coffee, Apple-Juice, Milk-organic: 0.0180
+Bread, Apple-Juice, Milk-organic: 0.0160
+Honey-Crunch-Oats, Bread, Cereal: 0.0259
+White-Bread, Cocoa-Rice-Cereal, Coffee: 0.0240
+Oat-Meal, Corn-Flakes, Hot-Dog-Buns: 0.0140
+Baguette, Granola-Bars, Beer-can: 0.0259
+Honey-Crunch-Oats, Corn-Flakes, Cocoa-Rice-Cereal: 0.0339
+Baguette, Bread, Honey-Crunch-Oats: 0.0200
+Beer-bottle, Apple-Juice, Coffee: 0.0240
+Orange-Juice, Beer-can, Cereal: 0.0200
+Coffee, Beer-can, Milk-organic: 0.0120
+Baguette, Beer-bottle, Cocoa-Rice-Cereal: 0.0339
+Granola-Bars, Beer-bottle, Apple-Juice: 0.0240
+Cocoa-Rice-Cereal, Milk, Milk-organic: 0.0240
+Oat-Meal, Orange-Juice, Honey-Crunch-Oats: 0.0299
+White-Bread, Corn-Flakes, Beer-can: 0.0279
+Honey-Crunch-Oats, Orange-Juice, Corn-Flakes: 0.0279
+Oat-Meal, Bread, Beer-bottle: 0.0200
+Honey-Crunch-Oats, Milk, Cocoa-Rice-Cereal: 0.0259
+Soda-bottle, Cocoa-Rice-Cereal, Beer-can: 0.0120
+Baguette, White-Bread, Cereal: 0.0140
+Milk, Bread, Beer-bottle: 0.0259
+Oat-Meal, Honey-Crunch-Oats, Cocoa-Rice-Cereal: 0.0259
+White-Bread, Bagles, Baguette: 0.0240
+Soda-bottle, Bagles, Hot-Dog-Buns: 0.0220
+Milk, Granola-Bars, Bagles: 0.0220
+White-Bread, Apple-Juice, Croissants: 0.0240
+Soda-bottle, White-Bread, Milk-organic: 0.0160
+Coffee, Milk, Milk-organic: 0.0120
+White-Bread, Bagles, Cereal: 0.0200
+Milk, Bread, Milk-organic: 0.0200
+White-Bread, Beer-bottle, Cocoa-Rice-Cereal: 0.0359
+Soda-bottle, Bagles, Apple-Juice: 0.0259
+White-Bread, Granola-Bars, Coffee: 0.0319
+Soda-bottle, Milk, Corn-Flakes: 0.0180
+Cocoa-Rice-Cereal, Beer-bottle, Apple-Juice: 0.0279
+Oat-Meal, Bagles, White-Bread: 0.0220
+Baguette, Honey-Crunch-Oats, Cocoa-Rice-Cereal: 0.0240
+Honey-Crunch-Oats, Corn-Flakes, Coffee: 0.0299
+Honey-Crunch-Oats, Bread, Corn-Flakes: 0.0160
+White-Bread, Granola-Bars, Beer-can: 0.0259
+Soda-bottle, Milk, Beer-bottle: 0.0240
+Honey-Crunch-Oats, Granola-Bars, Beer-bottle: 0.0299
+Milk, Bagles, Beer-bottle: 0.0299
+Baguette, Granola-Bars, Apple-Juice: 0.0220
+Milk, Orange-Juice, Corn-Flakes: 0.0259
+Honey-Crunch-Oats, Bagles, Hot-Dog-Buns: 0.0200
+White-Bread, Corn-Flakes, Cocoa-Rice-Cereal: 0.0339
+Coffee, Milk, Croissants: 0.0200
+Cocoa-Rice-Cereal, Beer-can, Hot-Dog-Buns: 0.0200
+White-Bread, Bread, Baguette: 0.0160
+Baguette, Orange-Juice, Coffee: 0.0279
+Granola-Bars, Beer-can, Cereal: 0.0279
+Soda-bottle, Cocoa-Rice-Cereal, Milk: 0.0240
+Honey-Crunch-Oats, Orange-Juice, Milk-organic: 0.0259
+Soda-bottle, Honey-Crunch-Oats, Corn-Flakes: 0.0259
+Cocoa-Rice-Cereal, Granola-Bars, Apple-Juice: 0.0259
+Cocoa-Rice-Cereal, Orange-Juice, Croissants: 0.0240
+Orange-Juice, Apple-Juice, Cereal: 0.0140
+Milk, Bread, Orange-Juice: 0.0200
+White-Bread, Oat-Meal, Coffee: 0.0220
+Oat-Meal, Bread, White-Bread: 0.0240
+Baguette, Bread, Hot-Dog-Buns: 0.0180
+Cocoa-Rice-Cereal, Orange-Juice, Beer-can: 0.0120
+Corn-Flakes, Honey-Crunch-Oats, Bagles: 0.0279
+Baguette, Coffee, Hot-Dog-Buns: 0.0120
+Soda-bottle, Milk, Milk-organic: 0.0160
+Honey-Crunch-Oats, Beer-can, Milk-organic: 0.0259
+Apple-Juice, Beer-can, Cereal: 0.0319
+Apple-Juice, Beer-bottle, Beer-can: 0.0200
+Soda-bottle, White-Bread, Granola-Bars: 0.0299
+Bread, Beer-can, Coffee: 0.0180
+White-Bread, Granola-Bars, Corn-Flakes: 0.0140
+Oat-Meal, Apple-Juice, Baguette: 0.0299
+Cocoa-Rice-Cereal, Milk, Coffee: 0.0220
+Croissants, Bread, Coffee: 0.0220
+Milk, Corn-Flakes, Milk-organic: 0.0200
+Oat-Meal, Beer-can, Cereal: 0.0299
+Soda-bottle, Cocoa-Rice-Cereal, Hot-Dog-Buns: 0.0240
+Soda-bottle, Honey-Crunch-Oats, Bagles: 0.0240
+Milk, Bagles, Beer-can: 0.0259
+Oat-Meal, Beer-bottle, Croissants: 0.0220
+White-Bread, Beer-can, Hot-Dog-Buns: 0.0259
+Apple-Juice, Beer-can, Croissants: 0.0299
+Cocoa-Rice-Cereal, Milk, Corn-Flakes: 0.0339
+Beer-bottle, Apple-Juice, Cereal: 0.0180
+Honey-Crunch-Oats, Beer-bottle, Milk-organic: 0.0140
+Bagles, Beer-can, Milk-organic: 0.0259
+Baguette, Granola-Bars, Beer-bottle: 0.0220
+Soda-bottle, White-Bread, Cocoa-Rice-Cereal: 0.0200
+Bagles, Beer-bottle, Apple-Juice: 0.0259
+Honey-Crunch-Oats, Corn-Flakes, Hot-Dog-Buns: 0.0180
+Bread, Orange-Juice, Croissants: 0.0259
+Honey-Crunch-Oats, Orange-Juice, Beer-can: 0.0220
+Corn-Flakes, Milk, Beer-bottle: 0.0259
+Honey-Crunch-Oats, Corn-Flakes, Milk-organic: 0.0279
+Corn-Flakes, Apple-Juice, Cereal: 0.0319
+Orange-Juice, Beer-can, Milk-organic: 0.0200
+Milk, Bagles, Cereal: 0.0259
+White-Bread, Coffee, Milk-organic: 0.0160
+Soda-bottle, Honey-Crunch-Oats, Bread: 0.0220
+Soda-bottle, Honey-Crunch-Oats, Coffee: 0.0319
+Corn-Flakes, Orange-Juice, Bagles: 0.0299
+Bread, Bagles, Croissants: 0.0160
+Granola-Bars, Bagles, Hot-Dog-Buns: 0.0220
+Soda-bottle, Milk, Bagles: 0.0279
+Oat-Meal, Cocoa-Rice-Cereal, Cereal: 0.0140
+Corn-Flakes, Bagles, Apple-Juice: 0.0319
+Honey-Crunch-Oats, Cocoa-Rice-Cereal, Croissants: 0.0140
+White-Bread, Granola-Bars, Milk-organic: 0.0200
+White-Bread, Corn-Flakes, Milk-organic: 0.0220
+Soda-bottle, Cocoa-Rice-Cereal, Milk-organic: 0.0160
+Corn-Flakes, Granola-Bars, Beer-bottle: 0.0120
+Orange-Juice, Apple-Juice, Milk-organic: 0.0180
+Corn-Flakes, Bagles, Hot-Dog-Buns: 0.0200
+Baguette, Honey-Crunch-Oats, Coffee: 0.0319
+White-Bread, Bagles, Beer-can: 0.0279
+Honey-Crunch-Oats, Orange-Juice, Cereal: 0.0220
+Bread, Beer-bottle, Apple-Juice: 0.0200
+Orange-Juice, Beer-bottle, Beer-can: 0.0160
+Hot-Dog-Buns, Beer-can, Milk-organic: 0.0200
+Baguette, Cocoa-Rice-Cereal, Cereal: 0.0160
+Soda-bottle, Honey-Crunch-Oats, Orange-Juice: 0.0220
+Soda-bottle, White-Bread, Beer-can: 0.0140
+Honey-Crunch-Oats, Beer-can, Hot-Dog-Buns: 0.0259
+Milk, Granola-Bars, Beer-bottle: 0.0259
+White-Bread, Corn-Flakes, Croissants: 0.0220
+Oat-Meal, Cocoa-Rice-Cereal, Beer-can: 0.0160
+Corn-Flakes, Apple-Juice, Hot-Dog-Buns: 0.0299
+Milk, Bread, Bagles: 0.0200
+White-Bread, Bread, Orange-Juice: 0.0140
+Bread, Granola-Bars, Hot-Dog-Buns: 0.0120
+Baguette, Beer-bottle, White-Bread: 0.0279
+Oat-Meal, Bagles, Hot-Dog-Buns: 0.0240
+White-Bread, Oat-Meal, Milk-organic: 0.0160
+Milk, Hot-Dog-Buns, Cereal: 0.0240
+Milk, Orange-Juice, Beer-bottle: 0.0240
+Honey-Crunch-Oats, Granola-Bars, Corn-Flakes: 0.0240
+Oat-Meal, Bagles, Apple-Juice: 0.0319
+White-Bread, Bread, Beer-can: 0.0259
+Oat-Meal, White-Bread, Cereal: 0.0180
+Milk, Granola-Bars, Milk-organic: 0.0120
+Baguette, Milk, Croissants: 0.0200
+White-Bread, Bread, Coffee: 0.0160
+Oat-Meal, Milk, Beer-bottle: 0.0200
+Honey-Crunch-Oats, Bread, Cocoa-Rice-Cereal: 0.0220
+Soda-bottle, Orange-Juice, Apple-Juice: 0.0259
+Cocoa-Rice-Cereal, Milk, Cereal: 0.0240
+Coffee, Bread, Cereal: 0.0180
+Baguette, Beer-bottle, Milk-organic: 0.0160
+Baguette, Bread, Orange-Juice: 0.0180
+Soda-bottle, Bread, Granola-Bars: 0.0240
+Oat-Meal, Beer-can, Coffee: 0.0120
+Milk, Bread, Hot-Dog-Buns: 0.0279
+Milk, Granola-Bars, Croissants: 0.0140
+Bread, Granola-Bars, Bagles: 0.0140
+Oat-Meal, Milk, Cocoa-Rice-Cereal: 0.0299
+Honey-Crunch-Oats, Bread, Beer-bottle: 0.0220
+Baguette, Bread, Apple-Juice: 0.0299
+Honey-Crunch-Oats, Beer-bottle, Coffee: 0.0339
+Baguette, Apple-Juice, Coffee: 0.0299
+Baguette, Milk, Beer-bottle: 0.0359
+White-Bread, Bread, Bagles: 0.0140
+Croissants, Corn-Flakes, Cereal: 0.0220
+Baguette, Milk, Cereal: 0.0200
+White-Bread, Granola-Bars, Cereal: 0.0140
+Cocoa-Rice-Cereal, Granola-Bars, Corn-Flakes: 0.0200
+Oat-Meal, Orange-Juice, Coffee: 0.0299
+Oat-Meal, Bread, Orange-Juice: 0.0220
+Soda-bottle, Beer-bottle, Milk-organic: 0.0200
+White-Bread, Cocoa-Rice-Cereal, Beer-can: 0.0299
+Cereal, Bagles, Milk-organic: 0.0259
+Honey-Crunch-Oats, Bagles, Apple-Juice: 0.0240
+White-Bread, Milk, Coffee: 0.0240
+Cocoa-Rice-Cereal, Hot-Dog-Buns, Cereal: 0.0120
+Soda-bottle, Oat-Meal, Beer-can: 0.0220
+Honey-Crunch-Oats, Bagles, Cereal: 0.0319
+Bagles, Apple-Juice, Milk-organic: 0.0180
+Milk, Beer-bottle, Croissants: 0.0140
+Honey-Crunch-Oats, Bread, Granola-Bars: 0.0200
+Apple-Juice, Corn-Flakes, Beer-can: 0.0319
+Granola-Bars, Beer-can, Coffee: 0.0200
+Bread, Granola-Bars, Beer-can: 0.0200
+Oat-Meal, Corn-Flakes, Milk-organic: 0.0220
+Bagles, Beer-can, Cereal: 0.0319
+Soda-bottle, Beer-bottle, Croissants: 0.0259
+White-Bread, Orange-Juice, Corn-Flakes: 0.0299
+Corn-Flakes, Cocoa-Rice-Cereal, Beer-bottle: 0.0299
+Soda-bottle, Granola-Bars, Milk-organic: 0.0160
+Oat-Meal, Bread, Milk-organic: 0.0140
+Milk, Bread, Granola-Bars: 0.0240
+Bread, Bagles, Hot-Dog-Buns: 0.0220
+Cocoa-Rice-Cereal, Orange-Juice, Apple-Juice: 0.0180
+Beer-bottle, Beer-can, Coffee: 0.0160
+White-Bread, Bread, Milk-organic: 0.0200
+Hot-Dog-Buns, Beer-can, Cereal: 0.0180
+Soda-bottle, Oat-Meal, Beer-bottle: 0.0220
+Coffee, Orange-Juice, Milk-organic: 0.0220
+Soda-bottle, Oat-Meal, Milk: 0.0240
+Cocoa-Rice-Cereal, Bagles, Cereal: 0.0120
+Oat-Meal, Honey-Crunch-Oats, Beer-can: 0.0279
+Cocoa-Rice-Cereal, Granola-Bars, Coffee: 0.0180
+Baguette, Honey-Crunch-Oats, Hot-Dog-Buns: 0.0180
+Corn-Flakes, Bagles, Coffee: 0.0240
+Oat-Meal, Orange-Juice, Corn-Flakes: 0.0259
+Oat-Meal, Cocoa-Rice-Cereal, Milk-organic: 0.0180
+Granola-Bars, Corn-Flakes, Cereal: 0.0160
+White-Bread, Honey-Crunch-Oats, Cereal: 0.0259
+Croissants, Hot-Dog-Buns, Milk-organic: 0.0200
+White-Bread, Apple-Juice, Milk-organic: 0.0200
+Milk, Bread, Corn-Flakes: 0.0220
+Cocoa-Rice-Cereal, Bread, Orange-Juice: 0.0200
+Corn-Flakes, Bread, Beer-bottle: 0.0180
+White-Bread, Bagles, Croissants: 0.0200
+Bagles, Apple-Juice, Hot-Dog-Buns: 0.0299
+Baguette, Orange-Juice, Corn-Flakes: 0.0279
+Milk, Granola-Bars, Apple-Juice: 0.0319
+White-Bread, Oat-Meal, Beer-can: 0.0279
+Soda-bottle, Oat-Meal, Granola-Bars: 0.0319
+Cocoa-Rice-Cereal, Bagles, Beer-can: 0.0140
+Milk, Orange-Juice, Croissants: 0.0220
+Hot-Dog-Buns, Bagles, Cereal: 0.0180
+Baguette, Corn-Flakes, Cocoa-Rice-Cereal: 0.0339
+Cocoa-Rice-Cereal, Milk, Croissants: 0.0279
+Cocoa-Rice-Cereal, Beer-bottle, Croissants: 0.0319
+Croissants, Beer-can, Coffee: 0.0180
+Bagles, Granola-Bars, Beer-bottle: 0.0259
+Apple-Juice, Granola-Bars, Beer-can: 0.0140
+White-Bread, Beer-can, Coffee: 0.0220
+Honey-Crunch-Oats, Orange-Juice, Croissants: 0.0279
+Bread, Orange-Juice, Beer-can: 0.0160
+Granola-Bars, Beer-bottle, Milk-organic: 0.0220
+Soda-bottle, Cocoa-Rice-Cereal, Corn-Flakes: 0.0160
+Corn-Flakes, Beer-can, Croissants: 0.0279
+Oat-Meal, Bread, Coffee: 0.0240
+Coffee, Granola-Bars, Cereal: 0.0200
+Cocoa-Rice-Cereal, Coffee, Hot-Dog-Buns: 0.0120
+Honey-Crunch-Oats, Beer-bottle, Beer-can: 0.0160
+Baguette, Orange-Juice, Beer-can: 0.0180
+Oat-Meal, Orange-Juice, Apple-Juice: 0.0259
+Milk, Beer-can, Hot-Dog-Buns: 0.0240
+Milk, Granola-Bars, Hot-Dog-Buns: 0.0240
+Honey-Crunch-Oats, Apple-Juice, Milk-organic: 0.0240
+Oat-Meal, Bread, Granola-Bars: 0.0220
+Soda-bottle, Beer-can, Coffee: 0.0140
+Soda-bottle, Granola-Bars, Coffee: 0.0259
+Corn-Flakes, Beer-can, Milk-organic: 0.0240
+Honey-Crunch-Oats, Milk, Coffee: 0.0220
+White-Bread, Bagles, Apple-Juice: 0.0200
+Croissants, Bagles, Hot-Dog-Buns: 0.0160
+Milk, Corn-Flakes, Croissants: 0.0240
+Milk-organic, Beer-bottle, Cereal: 0.0160
+Honey-Crunch-Oats, Beer-bottle, Apple-Juice: 0.0240
+Baguette, Bread, Coffee: 0.0220
+Oat-Meal, Apple-Juice, Croissants: 0.0259
+Oat-Meal, White-Bread, Hot-Dog-Buns: 0.0200
+Baguette, Beer-can, Croissants: 0.0220
+Milk, Corn-Flakes, Beer-can: 0.0200
+Soda-bottle, Orange-Juice, Coffee: 0.0220
+Baguette, Oat-Meal, Cereal: 0.0140
+Croissants, Apple-Juice, Cereal: 0.0220
+Orange-Juice, Granola-Bars, Cereal: 0.0140
+Honey-Crunch-Oats, Croissants, Milk-organic: 0.0240
+White-Bread, Hot-Dog-Buns, Cereal: 0.0140
+White-Bread, Beer-bottle, Coffee: 0.0220
+Soda-bottle, Bread, Orange-Juice: 0.0240
+Baguette, Milk, Bagles: 0.0319
+White-Bread, Bread, Beer-bottle: 0.0180
+Orange-Juice, Bagles, Coffee: 0.0259
+Honey-Crunch-Oats, Milk, Bagles: 0.0200
+Coffee, Hot-Dog-Buns, Croissants: 0.0120
+Orange-Juice, Corn-Flakes, Hot-Dog-Buns: 0.0259
+White-Bread, Apple-Juice, Coffee: 0.0279
+Baguette, Croissants, Milk-organic: 0.0259
+Cocoa-Rice-Cereal, Bagles, Coffee: 0.0200
+Corn-Flakes, Bagles, Milk-organic: 0.0240
+Coffee, Granola-Bars, Croissants: 0.0200
+Baguette, Beer-bottle, Apple-Juice: 0.0339
+Cocoa-Rice-Cereal, Granola-Bars, Beer-bottle: 0.0319
+Soda-bottle, Corn-Flakes, Milk-organic: 0.0200
+Honey-Crunch-Oats, Bread, Coffee: 0.0220
+Oat-Meal, Granola-Bars, Milk-organic: 0.0140
+White-Bread, Granola-Bars, Hot-Dog-Buns: 0.0200
+Granola-Bars, Apple-Juice, Croissants: 0.0220
+Orange-Juice, Beer-bottle, Cereal: 0.0259
+White-Bread, Cocoa-Rice-Cereal, Cereal: 0.0220
+Milk, Hot-Dog-Buns, Milk-organic: 0.0200
+White-Bread, Granola-Bars, Croissants: 0.0180
+Granola-Bars, Apple-Juice, Hot-Dog-Buns: 0.0220
+White-Bread, Honey-Crunch-Oats, Coffee: 0.0359
+Milk, Bagles, Apple-Juice: 0.0279
+Soda-bottle, Bread, Milk-organic: 0.0240
+Croissants, Milk, Milk-organic: 0.0259
+Soda-bottle, Baguette, Hot-Dog-Buns: 0.0220
+Soda-bottle, Cocoa-Rice-Cereal, Bagles: 0.0279
+Honey-Crunch-Oats, Cocoa-Rice-Cereal, Hot-Dog-Buns: 0.0140
+Cocoa-Rice-Cereal, Bread, Coffee: 0.0240
+Baguette, Corn-Flakes, Coffee: 0.0279
+Granola-Bars, Beer-bottle, Beer-can: 0.0240
+Bread, Orange-Juice, Milk-organic: 0.0180
+Bagles, Beer-can, Hot-Dog-Buns: 0.0220
+Soda-bottle, Honey-Crunch-Oats, Beer-can: 0.0299
+Soda-bottle, Bread, Croissants: 0.0240
+Soda-bottle, Coffee, Croissants: 0.0200
+Soda-bottle, Orange-Juice, Corn-Flakes: 0.0180
+Croissants, Beer-can, Cereal: 0.0220
+Soda-bottle, Bagles, Beer-bottle: 0.0220
+Beer-bottle, Apple-Juice, Hot-Dog-Buns: 0.0200
+Corn-Flakes, Bread, Bagles: 0.0160
+White-Bread, Beer-bottle, Croissants: 0.0279
+Milk, Bread, Apple-Juice: 0.0339
+Cocoa-Rice-Cereal, Apple-Juice, Croissants: 0.0200
+White-Bread, Cocoa-Rice-Cereal, Hot-Dog-Buns: 0.0259
+Cocoa-Rice-Cereal, Orange-Juice, Granola-Bars: 0.0140
+Oat-Meal, Corn-Flakes, Coffee: 0.0299
+Granola-Bars, Apple-Juice, Cereal: 0.0200
+Croissants, Orange-Juice, Cereal: 0.0240
+Milk, Corn-Flakes, Coffee: 0.0200
+Honey-Crunch-Oats, Granola-Bars, Milk-organic: 0.0120
+Soda-bottle, Apple-Juice, Coffee: 0.0180
+Bread, Corn-Flakes, Cereal: 0.0180
+Honey-Crunch-Oats, Coffee, Croissants: 0.0200
+Milk, Bagles, Hot-Dog-Buns: 0.0299
+White-Bread, Orange-Juice, Hot-Dog-Buns: 0.0240
+Orange-Juice, Apple-Juice, Croissants: 0.0220
+Baguette, Milk, White-Bread: 0.0279
+Bagles, Bread, Beer-bottle: 0.0279
+Orange-Juice, Bagles, Milk-organic: 0.0259
+Soda-bottle, Milk, Hot-Dog-Buns: 0.0279
+Bread, Beer-bottle, Cereal: 0.0220
+Baguette, Coffee, Milk-organic: 0.0140
+Soda-bottle, Oat-Meal, Bread: 0.0259
+Baguette, Orange-Juice, Cereal: 0.0259
+Bread, Beer-can, Croissants: 0.0240
+Cocoa-Rice-Cereal, Beer-bottle, Beer-can: 0.0180
+Cocoa-Rice-Cereal, Milk, Beer-can: 0.0220
+Soda-bottle, Baguette, Granola-Bars: 0.0220
+Honey-Crunch-Oats, Orange-Juice, Hot-Dog-Buns: 0.0200
+Soda-bottle, Oat-Meal, Apple-Juice: 0.0259
+Baguette, Beer-can, Cereal: 0.0180
+Oat-Meal, Corn-Flakes, Cocoa-Rice-Cereal: 0.0240
+Orange-Juice, Beer-can, Coffee: 0.0180
+Baguette, Cocoa-Rice-Cereal, Hot-Dog-Buns: 0.0259
+Orange-Juice, Granola-Bars, Coffee: 0.0299
+Oat-Meal, Bread, Baguette: 0.0279
+Cocoa-Rice-Cereal, Milk, Orange-Juice: 0.0240
+Soda-bottle, Orange-Juice, Cereal: 0.0140
+Apple-Juice, Bread, Beer-can: 0.0279
+Bread, Granola-Bars, Apple-Juice: 0.0200
+Apple-Juice, Beer-can, Coffee: 0.0200
+Baguette, Beer-bottle, Croissants: 0.0359
+Soda-bottle, Bread, Coffee: 0.0220
+Bread, Beer-can, Cereal: 0.0319
+Bread, Granola-Bars, Cereal: 0.0220
+Soda-bottle, Oat-Meal, Bagles: 0.0240
+Cocoa-Rice-Cereal, Bread, Croissants: 0.0279
+White-Bread, Milk, Corn-Flakes: 0.0279
+Oat-Meal, White-Bread, Apple-Juice: 0.0319
+Cocoa-Rice-Cereal, Orange-Juice, Corn-Flakes: 0.0200
+Oat-Meal, Croissants, Hot-Dog-Buns: 0.0140
+Oat-Meal, Granola-Bars, Coffee: 0.0240
+Cocoa-Rice-Cereal, Bagles, Beer-bottle: 0.0299
+Bread, Beer-bottle, Hot-Dog-Buns: 0.0180
+Bread, Orange-Juice, Cereal: 0.0259
+Soda-bottle, Baguette, Oat-Meal: 0.0220
+Coffee, Orange-Juice, Cereal: 0.0259
+Soda-bottle, Apple-Juice, Croissants: 0.0299
+Soda-bottle, Orange-Juice, Granola-Bars: 0.0279
+Soda-bottle, White-Bread, Hot-Dog-Buns: 0.0120
+Croissants, Milk, Hot-Dog-Buns: 0.0200
+Oat-Meal, Bagles, Baguette: 0.0279
+Corn-Flakes, Honey-Crunch-Oats, Beer-bottle: 0.0240
+White-Bread, Honey-Crunch-Oats, Cocoa-Rice-Cereal: 0.0319
+Baguette, Bread, Granola-Bars: 0.0140
+Cocoa-Rice-Cereal, Apple-Juice, Coffee: 0.0200
+Baguette, Granola-Bars, Coffee: 0.0180
+White-Bread, Orange-Juice, Milk-organic: 0.0240
+Hot-Dog-Buns, Granola-Bars, Milk-organic: 0.0140
+Oat-Meal, Milk, Baguette: 0.0319
+Bagles, Beer-bottle, Milk-organic: 0.0299
+White-Bread, Orange-Juice, Honey-Crunch-Oats: 0.0240
+Honey-Crunch-Oats, Granola-Bars, Hot-Dog-Buns: 0.0180
+Milk, Beer-can, Cereal: 0.0240
+Milk-organic, Corn-Flakes, Cereal: 0.0220
+Soda-bottle, Apple-Juice, Milk-organic: 0.0200
+Corn-Flakes, Baguette, Beer-bottle: 0.0259
+Soda-bottle, Honey-Crunch-Oats, Cereal: 0.0160
+Cocoa-Rice-Cereal, Beer-bottle, Coffee: 0.0200
+Honey-Crunch-Oats, Corn-Flakes, Apple-Juice: 0.0419
+Cocoa-Rice-Cereal, Bread, Beer-bottle: 0.0259
+Oat-Meal, Milk, Honey-Crunch-Oats: 0.0259
+Croissants, Bagles, Cereal: 0.0180
+Soda-bottle, Beer-bottle, Beer-can: 0.0160
+Bread, Granola-Bars, Croissants: 0.0160
+Honey-Crunch-Oats, Milk, Cereal: 0.0200
+Milk, Apple-Juice, Milk-organic: 0.0120
+Cocoa-Rice-Cereal, Orange-Juice, Bagles: 0.0220
+Bread, Apple-Juice, Hot-Dog-Buns: 0.0220
+White-Bread, Milk, Bagles: 0.0180
+Baguette, Bread, Beer-bottle: 0.0220
+White-Bread, Bread, Croissants: 0.0180
+Honey-Crunch-Oats, Apple-Juice, Coffee: 0.0339
+Hot-Dog-Buns, Beer-bottle, Milk-organic: 0.0220
+Milk-organic, Coffee, Cereal: 0.0200
+Oat-Meal, Beer-bottle, White-Bread: 0.0180
+Oat-Meal, Beer-bottle, Apple-Juice: 0.0200
+Granola-Bars, Corn-Flakes, Beer-can: 0.0120
+Oat-Meal, Hot-Dog-Buns, Baguette: 0.0200
+White-Bread, Baguette, Milk-organic: 0.0180
+Oat-Meal, Beer-bottle, Cereal: 0.0180
+White-Bread, Beer-bottle, Apple-Juice: 0.0160
+Croissants, Beer-bottle, Hot-Dog-Buns: 0.0220
+Baguette, White-Bread, Honey-Crunch-Oats: 0.0259
+Oat-Meal, Bagles, Cocoa-Rice-Cereal: 0.0200
+Croissants, Coffee, Cereal: 0.0259
+Bread, Granola-Bars, Beer-bottle: 0.0140
+Croissants, Bread, Cereal: 0.0240
+Baguette, Bagles, Milk-organic: 0.0220
+Baguette, Cereal, Milk-organic: 0.0160
+Baguette, Honey-Crunch-Oats, Apple-Juice: 0.0319
+Bread, Beer-bottle, Coffee: 0.0240
+Oat-Meal, Bread, Croissants: 0.0160
+Baguette, Corn-Flakes, Beer-can: 0.0279
+Oat-Meal, Coffee, Croissants: 0.0160
+White-Bread, Orange-Juice, Beer-can: 0.0180
+Oat-Meal, Granola-Bars, Hot-Dog-Buns: 0.0220
+Oat-Meal, Bagles, Beer-bottle: 0.0180
+Soda-bottle, White-Bread, Honey-Crunch-Oats: 0.0240
+Oat-Meal, Granola-Bars, Apple-Juice: 0.0299
+Bread, Apple-Juice, Cereal: 0.0220
+Honey-Crunch-Oats, Bread, Milk-organic: 0.0140
+Bread, Bagles, Apple-Juice: 0.0220
+Corn-Flakes, Beer-bottle, Hot-Dog-Buns: 0.0200
+Soda-bottle, Corn-Flakes, Coffee: 0.0180
+Corn-Flakes, Granola-Bars, Bagles: 0.0140
+Cocoa-Rice-Cereal, Orange-Juice, Hot-Dog-Buns: 0.0140
+Baguette, Beer-can, Coffee: 0.0140
+Baguette, Bread, Croissants: 0.0160
+Baguette, Milk, Cocoa-Rice-Cereal: 0.0279
+Cocoa-Rice-Cereal, Corn-Flakes, Croissants: 0.0220
+Soda-bottle, Bread, Apple-Juice: 0.0299
+Oat-Meal, Apple-Juice, Coffee: 0.0319
+Granola-Bars, Beer-bottle, Cereal: 0.0200
+Oat-Meal, Orange-Juice, Milk-organic: 0.0200
+Oat-Meal, Coffee, Cereal: 0.0200
+Soda-bottle, Beer-bottle, Coffee: 0.0220
+Bagles, Beer-bottle, Coffee: 0.0180
+Oat-Meal, Beer-bottle, Hot-Dog-Buns: 0.0180
+Apple-Juice, Orange-Juice, Beer-can: 0.0220
+Oat-Meal, Milk, Hot-Dog-Buns: 0.0259
+Orange-Juice, Corn-Flakes, Croissants: 0.0279
+Granola-Bars, Corn-Flakes, Apple-Juice: 0.0220
+Granola-Bars, Beer-can, Croissants: 0.0259
+Baguette, Orange-Juice, Beer-bottle: 0.0339
+Baguette, Milk, Orange-Juice: 0.0339
+Cocoa-Rice-Cereal, Beer-can, Cereal: 0.0180
+Baguette, Hot-Dog-Buns, Milk-organic: 0.0200
+Soda-bottle, Baguette, White-Bread: 0.0220
+Croissants, Bagles, Milk-organic: 0.0220
+Corn-Flakes, Beer-can, Hot-Dog-Buns: 0.0180
+Granola-Bars, Corn-Flakes, Hot-Dog-Buns: 0.0120
+Oat-Meal, Granola-Bars, Baguette: 0.0220
+Oat-Meal, Beer-can, Baguette: 0.0220
+Bread, Orange-Juice, Coffee: 0.0180
+Honey-Crunch-Oats, Milk-organic, Cereal: 0.0200
+White-Bread, Bread, Granola-Bars: 0.0200
+White-Bread, Croissants, Hot-Dog-Buns: 0.0240
+Baguette, Milk, Hot-Dog-Buns: 0.0299
+Soda-bottle, Milk-organic, Croissants: 0.0220
+Beer-bottle, Beer-can, Milk-organic: 0.0200
+Coffee, Corn-Flakes, Hot-Dog-Buns: 0.0160
+Soda-bottle, Baguette, Bread: 0.0160
+Oat-Meal, Orange-Juice, Cereal: 0.0200
+Corn-Flakes, Beer-bottle, Cereal: 0.0200
+Milk, Corn-Flakes, Cereal: 0.0240
+Soda-bottle, Oat-Meal, White-Bread: 0.0220
+Corn-Flakes, Beer-bottle, Apple-Juice: 0.0200
+Cocoa-Rice-Cereal, Beer-can, Croissants: 0.0200
+Milk, Corn-Flakes, Apple-Juice: 0.0339
+Baguette, Orange-Juice, Granola-Bars: 0.0200
+Granola-Bars, Beer-bottle, Hot-Dog-Buns: 0.0200
+Cocoa-Rice-Cereal, Beer-bottle, Cereal: 0.0240
+Milk, Bread, Croissants: 0.0240
+Honey-Crunch-Oats, Milk, Beer-can: 0.0180
+Coffee, Corn-Flakes, Milk-organic: 0.0240
+Soda-bottle, White-Bread, Apple-Juice: 0.0140
+Soda-bottle, Hot-Dog-Buns, Croissants: 0.0240
+Milk, Beer-bottle, Cereal: 0.0240
+Bagles, Beer-can, Coffee: 0.0180
+Bread, Bagles, Beer-can: 0.0259
+Cocoa-Rice-Cereal, Bread, Corn-Flakes: 0.0299
+Milk, Orange-Juice, Coffee: 0.0259
+Oat-Meal, Orange-Juice, Granola-Bars: 0.0220
+Cocoa-Rice-Cereal, Corn-Flakes, Coffee: 0.0200
+Soda-bottle, Baguette, Bagles: 0.0319
+Soda-bottle, Baguette, Milk: 0.0220
+Soda-bottle, Corn-Flakes, Croissants: 0.0259
+Corn-Flakes, Bagles, Beer-can: 0.0220
+Baguette, Honey-Crunch-Oats, Beer-can: 0.0180
+Corn-Flakes, Bagles, Croissants: 0.0180
+Soda-bottle, Bagles, Croissants: 0.0180
+Beer-bottle, Beer-can, Cereal: 0.0299
+Baguette, Beer-can, Milk-organic: 0.0140
+Oat-Meal, Apple-Juice, Milk-organic: 0.0180
+Oat-Meal, Honey-Crunch-Oats, Cereal: 0.0319
+Cocoa-Rice-Cereal, Orange-Juice, Milk-organic: 0.0180
+Soda-bottle, Honey-Crunch-Oats, Milk: 0.0299
+Oat-Meal, Beer-bottle, Beer-can: 0.0180
+Honey-Crunch-Oats, Bread, Hot-Dog-Buns: 0.0160
+Baguette, Honey-Crunch-Oats, Milk-organic: 0.0120
+Baguette, Apple-Juice, Cereal: 0.0180
+Cocoa-Rice-Cereal, Bagles, Hot-Dog-Buns: 0.0240
+Corn-Flakes, Bagles, Cereal: 0.0240
+Croissants, Cocoa-Rice-Cereal, Milk-organic: 0.0180
+Honey-Crunch-Oats, Bread, Orange-Juice: 0.0160
+Coffee, Orange-Juice, Hot-Dog-Buns: 0.0240
+Baguette, Cocoa-Rice-Cereal, Beer-can: 0.0240
+Soda-bottle, White-Bread, Beer-bottle: 0.0180
+Honey-Crunch-Oats, Corn-Flakes, Croissants: 0.0259
+Bread, Corn-Flakes, Beer-can: 0.0259
+Milk-organic, Beer-can, Cereal: 0.0240
+Honey-Crunch-Oats, Apple-Juice, Beer-can: 0.0359
+Baguette, Bagles, Hot-Dog-Buns: 0.0319
+Honey-Crunch-Oats, Granola-Bars, Apple-Juice: 0.0279
+Cocoa-Rice-Cereal, Hot-Dog-Buns, Milk-organic: 0.0160
+Soda-bottle, Beer-bottle, Apple-Juice: 0.0200
+Bread, Bagles, Milk-organic: 0.0200
+White-Bread, Milk, Cereal: 0.0259
+Coffee, Bagles, Milk-organic: 0.0180
+Croissants, Beer-bottle, Milk-organic: 0.0240
+Hot-Dog-Buns, Corn-Flakes, Milk-organic: 0.0120
+Soda-bottle, Beer-bottle, Cereal: 0.0120
+Bagles, Beer-can, Croissants: 0.0160
+Granola-Bars, Beer-bottle, Coffee: 0.0259
+Cocoa-Rice-Cereal, Granola-Bars, Beer-can: 0.0240
+Baguette, Orange-Juice, Croissants: 0.0299
+Oat-Meal, Granola-Bars, Croissants: 0.0200
+Soda-bottle, Corn-Flakes, Apple-Juice: 0.0220
+Honey-Crunch-Oats, Milk, Hot-Dog-Buns: 0.0220
+Croissants, Bagles, Coffee: 0.0160
+Soda-bottle, Granola-Bars, Hot-Dog-Buns: 0.0299
+Soda-bottle, Beer-can, Hot-Dog-Buns: 0.0160
+Croissants, Granola-Bars, Cereal: 0.0200
+White-Bread, Bread, Cocoa-Rice-Cereal: 0.0279
+Granola-Bars, Bagles, Apple-Juice: 0.0279
+Baguette, Bagles, Cocoa-Rice-Cereal: 0.0319
+Oat-Meal, Orange-Juice, Beer-can: 0.0160
+White-Bread, Milk, Croissants: 0.0279
+Milk, Apple-Juice, Hot-Dog-Buns: 0.0419
+Soda-bottle, Orange-Juice, Croissants: 0.0259
+Milk, Granola-Bars, Corn-Flakes: 0.0140
+Baguette, Granola-Bars, Croissants: 0.0220
+Coffee, Apple-Juice, Cereal: 0.0180
+Honey-Crunch-Oats, Coffee, Milk-organic: 0.0200
+Oat-Meal, White-Bread, Honey-Crunch-Oats: 0.0240
+Soda-bottle, Granola-Bars, Apple-Juice: 0.0200
+Baguette, Orange-Juice, Apple-Juice: 0.0240
+Bread, Beer-can, Milk-organic: 0.0240
+Baguette, Coffee, Croissants: 0.0180
+Honey-Crunch-Oats, Cocoa-Rice-Cereal, Apple-Juice: 0.0279
+Oat-Meal, Bread, Apple-Juice: 0.0319
+Oat-Meal, Milk, Coffee: 0.0279
+Baguette, Cocoa-Rice-Cereal, Apple-Juice: 0.0339
+Soda-bottle, Orange-Juice, Milk-organic: 0.0200
+Bagles, Beer-bottle, Hot-Dog-Buns: 0.0259
+Oat-Meal, Beer-bottle, Coffee: 0.0240
+Soda-bottle, Beer-bottle, Hot-Dog-Buns: 0.0240
+White-Bread, Beer-bottle, Milk-organic: 0.0240
+Milk, Bread, Cereal: 0.0180
+Croissants, Cocoa-Rice-Cereal, Cereal: 0.0259
+White-Bread, Apple-Juice, Beer-can: 0.0279
+Croissants, Beer-can, Hot-Dog-Buns: 0.0259
+Oat-Meal, Bread, Bagles: 0.0259
+Bread, Hot-Dog-Buns, Coffee: 0.0140
+Oat-Meal, White-Bread, Baguette: 0.0180
+Orange-Juice, Corn-Flakes, Beer-can: 0.0220
+Honey-Crunch-Oats, Bagles, Cocoa-Rice-Cereal: 0.0140
+Soda-bottle, Baguette, Beer-can: 0.0160
+Orange-Juice, Granola-Bars, Beer-can: 0.0140
+Bread, Beer-bottle, Milk-organic: 0.0299
+Baguette, Coffee, Cereal: 0.0180
+Baguette, Beer-bottle, Hot-Dog-Buns: 0.0240
+Oat-Meal, Croissants, Milk-organic: 0.0120
+Hot-Dog-Buns, Orange-Juice, Croissants: 0.0299
+White-Bread, Orange-Juice, Apple-Juice: 0.0220
+Granola-Bars, Corn-Flakes, Croissants: 0.0160
+Oat-Meal, Hot-Dog-Buns, Milk-organic: 0.0120
+Baguette, Corn-Flakes, Milk-organic: 0.0220
+Croissants, Apple-Juice, Hot-Dog-Buns: 0.0259
+Cocoa-Rice-Cereal, Orange-Juice, Beer-bottle: 0.0200
+Soda-bottle, Granola-Bars, Beer-can: 0.0259
+White-Bread, Apple-Juice, Cereal: 0.0240
+Croissants, Hot-Dog-Buns, Cereal: 0.0160
+White-Bread, Honey-Crunch-Oats, Milk-organic: 0.0279
+Bread, Beer-bottle, Croissants: 0.0200
+Coffee, Beer-bottle, Croissants: 0.0220
+Corn-Flakes, Orange-Juice, Beer-bottle: 0.0259
+Cocoa-Rice-Cereal, Granola-Bars, Hot-Dog-Buns: 0.0240
+Baguette, Corn-Flakes, Croissants: 0.0240
+Oat-Meal, Bread, Beer-can: 0.0259
+White-Bread, Orange-Juice, Bagles: 0.0319
+Hot-Dog-Buns, Orange-Juice, Milk-organic: 0.0220
+Milk, Beer-bottle, Milk-organic: 0.0180
+Corn-Flakes, Beer-bottle, Beer-can: 0.0140
+Bagles, Apple-Juice, Croissants: 0.0220
+White-Bread, Bagles, Hot-Dog-Buns: 0.0259
+White-Bread, Granola-Bars, Beer-bottle: 0.0259
+Orange-Juice, Beer-bottle, Hot-Dog-Buns: 0.0240
+Soda-bottle, Baguette, Beer-bottle: 0.0240
+Honey-Crunch-Oats, Corn-Flakes, Cereal: 0.0279
+Corn-Flakes, Apple-Juice, Milk-organic: 0.0259
+Oat-Meal, Corn-Flakes, Croissants: 0.0240
+Soda-bottle, Honey-Crunch-Oats, Apple-Juice: 0.0319
+Soda-bottle, Milk-organic, Cereal: 0.0120
+Oat-Meal, Bagles, Croissants: 0.0200
+Cocoa-Rice-Cereal, Beer-bottle, Hot-Dog-Buns: 0.0259
+Milk, Beer-bottle, Beer-can: 0.0240
+Soda-bottle, Honey-Crunch-Oats, Beer-bottle: 0.0259
+Honey-Crunch-Oats, Granola-Bars, Coffee: 0.0299
+Oat-Meal, Bagles, Beer-can: 0.0200
+Soda-bottle, Oat-Meal, Croissants: 0.0200
+White-Bread, Cocoa-Rice-Cereal, Milk-organic: 0.0259
+Bread, Orange-Juice, Apple-Juice: 0.0200
+Baguette, Oat-Meal, Corn-Flakes: 0.0279
+Granola-Bars, Beer-can, Hot-Dog-Buns: 0.0220
+Cocoa-Rice-Cereal, Milk, Granola-Bars: 0.0279
+Baguette, Bagles, Croissants: 0.0240
+Oat-Meal, Beer-can, Milk-organic: 0.0120
+White-Bread, Honey-Crunch-Oats, Beer-can: 0.0240
+Baguette, Honey-Crunch-Oats, Cereal: 0.0259
+Soda-bottle, White-Bread, Milk: 0.0180
+Baguette, Apple-Juice, Milk-organic: 0.0140
+Soda-bottle, Baguette, Croissants: 0.0220
+Baguette, Beer-bottle, Beer-can: 0.0180
+Coffee, Apple-Juice, Croissants: 0.0220
+White-Bread, Coffee, Hot-Dog-Buns: 0.0160
+Oat-Meal, Coffee, Milk-organic: 0.0160
+Soda-bottle, Orange-Juice, Beer-bottle: 0.0240
+Bread, Corn-Flakes, Coffee: 0.0200
+Bagles, Orange-Juice, Beer-bottle: 0.0339
+Honey-Crunch-Oats, Orange-Juice, Granola-Bars: 0.0180
+Soda-bottle, Bagles, Beer-can: 0.0200
+Coffee, Orange-Juice, Croissants: 0.0299
+Bread, Beer-bottle, Beer-can: 0.0240
+Orange-Juice, Granola-Bars, Milk-organic: 0.0180
+Soda-bottle, Oat-Meal, Cocoa-Rice-Cereal: 0.0220
+Soda-bottle, Granola-Bars, Croissants: 0.0180
+Soda-bottle, Bread, Hot-Dog-Buns: 0.0220
+Honey-Crunch-Oats, Beer-bottle, Hot-Dog-Buns: 0.0200
+Oat-Meal, Corn-Flakes, Apple-Juice: 0.0399
+Baguette, White-Bread, Croissants: 0.0259
+Baguette, Apple-Juice, Hot-Dog-Buns: 0.0279
+Honey-Crunch-Oats, Granola-Bars, Bagles: 0.0200
+Milk, Bread, Coffee: 0.0259
+Milk, Orange-Juice, Apple-Juice: 0.0299
+Baguette, Granola-Bars, Corn-Flakes: 0.0180
+Oat-Meal, Beer-can, Hot-Dog-Buns: 0.0160
+Cocoa-Rice-Cereal, Bread, Beer-can: 0.0160
+Cocoa-Rice-Cereal, Bread, Granola-Bars: 0.0240
+Granola-Bars, Beer-can, Milk-organic: 0.0120
+Soda-bottle, Orange-Juice, Beer-can: 0.0140
+Oat-Meal, Orange-Juice, Croissants: 0.0279
+Honey-Crunch-Oats, Milk, Orange-Juice: 0.0200
+White-Bread, Milk, Beer-can: 0.0299
+Honey-Crunch-Oats, Orange-Juice, Beer-bottle: 0.0319
+Baguette, Croissants, Hot-Dog-Buns: 0.0220
+White-Bread, Granola-Bars, Cocoa-Rice-Cereal: 0.0240
+White-Bread, Apple-Juice, Baguette: 0.0200
+Cocoa-Rice-Cereal, Beer-bottle, Milk-organic: 0.0259
+Corn-Flakes, Soda-bottle, Granola-Bars: 0.0160
+Orange-Juice, Corn-Flakes, Milk-organic: 0.0220
+Soda-bottle, Milk, Coffee: 0.0240
+Oat-Meal, Milk, Bread: 0.0220
+Honey-Crunch-Oats, Beer-bottle, Cocoa-Rice-Cereal: 0.0220
+Milk, Granola-Bars, Cereal: 0.0200
+Oat-Meal, Cocoa-Rice-Cereal, Croissants: 0.0240
+White-Bread, Orange-Juice, Coffee: 0.0240
+Coffee, Granola-Bars, Hot-Dog-Buns: 0.0140
+Milk, Bagles, Coffee: 0.0220
+White-Bread, Honey-Crunch-Oats, Apple-Juice: 0.0279
+Coffee, Milk, Cereal: 0.0140
+White-Bread, Bagles, Milk-organic: 0.0180
+Oat-Meal, Granola-Bars, Cereal: 0.0120
+White-Bread, Cereal, Milk-organic: 0.0180
+Soda-bottle, Milk, Granola-Bars: 0.0279
+Soda-bottle, Bread, Bagles: 0.0200
+Honey-Crunch-Oats, Hot-Dog-Buns, Croissants: 0.0240
+Oat-Meal, Bagles, Coffee: 0.0279
+Coffee, Corn-Flakes, Croissants: 0.0240
+White-Bread, Milk, Cocoa-Rice-Cereal: 0.0419
+Bread, Corn-Flakes, Croissants: 0.0200
+Honey-Crunch-Oats, Corn-Flakes, Beer-can: 0.0259
+Baguette, Cocoa-Rice-Cereal, Croissants: 0.0299
+Cocoa-Rice-Cereal, Beer-can, Milk-organic: 0.0160
+Corn-Flakes, Soda-bottle, Beer-bottle: 0.0220
+Cocoa-Rice-Cereal, Granola-Bars, Milk-organic: 0.0140
+Milk, Beer-bottle, Apple-Juice: 0.0339
+Baguette, Granola-Bars, Cereal: 0.0120
+Hot-Dog-Buns, Bagles, Milk-organic: 0.0140
+Milk, Beer-can, Milk-organic: 0.0200
+White-Bread, Milk, Beer-bottle: 0.0279
+Baguette, Bread, Bagles: 0.0200
+Baguette, Bagles, Coffee: 0.0299
+Cocoa-Rice-Cereal, Coffee, Milk-organic: 0.0140
+Baguette, Corn-Flakes, Hot-Dog-Buns: 0.0259
+Oat-Meal, Granola-Bars, Beer-can: 0.0220
+Cocoa-Rice-Cereal, Granola-Bars, Croissants: 0.0240
+Cocoa-Rice-Cereal, Bread, Hot-Dog-Buns: 0.0259
+Honey-Crunch-Oats, Cocoa-Rice-Cereal, Coffee: 0.0240
+Milk-organic, Orange-Juice, Croissants: 0.0299
+Cocoa-Rice-Cereal, Milk, Bagles: 0.0240
+Soda-bottle, Bread, Beer-can: 0.0160
+Soda-bottle, Honey-Crunch-Oats, Croissants: 0.0259
+Corn-Flakes, White-Bread, Beer-bottle: 0.0200
+Granola-Bars, Bagles, Coffee: 0.0279
+Honey-Crunch-Oats, Milk, Bread: 0.0220
+Honey-Crunch-Oats, Bagles, Croissants: 0.0160
+Granola-Bars, Beer-bottle, Croissants: 0.0279
+Beer-bottle, Beer-can, Croissants: 0.0220
+Soda-bottle, Bagles, Cereal: 0.0180
+Oat-Meal, Beer-bottle, Cocoa-Rice-Cereal: 0.0220
+Honey-Crunch-Oats, Apple-Juice, Cereal: 0.0279
+Coffee, Milk, Hot-Dog-Buns: 0.0240
+Coffee, Bread, Milk-organic: 0.0200
+Baguette, Beer-bottle, Cereal: 0.0240
+White-Bread, Milk, Granola-Bars: 0.0279
+Bread, Hot-Dog-Buns, Milk-organic: 0.0140
+Coffee, Hot-Dog-Buns, Milk-organic: 0.0120
+Baguette, Oat-Meal, Beer-bottle: 0.0279
+Oat-Meal, Cereal, Milk-organic: 0.0140
+Oat-Meal, Honey-Crunch-Oats, Apple-Juice: 0.0339
+Honey-Crunch-Oats, Milk, Corn-Flakes: 0.0299
+Honey-Crunch-Oats, Orange-Juice, Cocoa-Rice-Cereal: 0.0180
+Granola-Bars, Beer-bottle, Orange-Juice: 0.0200
+Bread, Orange-Juice, Bagles: 0.0240
+Bread, Orange-Juice, Corn-Flakes: 0.0140
+Cocoa-Rice-Cereal, Milk, Bread: 0.0339
+Orange-Juice, Corn-Flakes, Coffee: 0.0220
+Croissants, Beer-bottle, Cereal: 0.0259
+White-Bread, Apple-Juice, Hot-Dog-Buns: 0.0259
+Orange-Juice, Granola-Bars, Apple-Juice: 0.0180
+Baguette, Milk, Corn-Flakes: 0.0359
+Cocoa-Rice-Cereal, Bread, Bagles: 0.0240
+Oat-Meal, Granola-Bars, Cocoa-Rice-Cereal: 0.0240
+Oat-Meal, Beer-bottle, Honey-Crunch-Oats: 0.0259
+Corn-Flakes, Baguette, Bagles: 0.0319
+Honey-Crunch-Oats, Beer-can, Croissants: 0.0220
+Cocoa-Rice-Cereal, Granola-Bars, Cereal: 0.0180
+Soda-bottle, Baguette, Corn-Flakes: 0.0220
+Soda-bottle, Milk, Croissants: 0.0220
+Soda-bottle, Cocoa-Rice-Cereal, Coffee: 0.0240
+Soda-bottle, Cocoa-Rice-Cereal, Bread: 0.0259
+Soda-bottle, Beer-can, Milk-organic: 0.0160
+Baguette, Orange-Juice, Milk-organic: 0.0220
+White-Bread, Milk, Oat-Meal: 0.0259
+Soda-bottle, Corn-Flakes, Cereal: 0.0120
+Orange-Juice, Beer-can, Croissants: 0.0220
+Baguette, Oat-Meal, Croissants: 0.0220
+White-Bread, Corn-Flakes, Apple-Juice: 0.0299
+Croissants, Corn-Flakes, Hot-Dog-Buns: 0.0220
+Soda-bottle, Coffee, Milk-organic: 0.0160
+Oat-Meal, Orange-Juice, Beer-bottle: 0.0279
+Soda-bottle, Milk, Apple-Juice: 0.0259
+Honey-Crunch-Oats, Milk, Croissants: 0.0240
+Coffee, Bagles, Hot-Dog-Buns: 0.0120
+Milk, Bread, Beer-can: 0.0259
+Milk, Beer-can, Coffee: 0.0120
+Milk, Granola-Bars, Coffee: 0.0220
+Corn-Flakes, Oat-Meal, White-Bread: 0.0240
+Soda-bottle, Milk, Cereal: 0.0160
+Oat-Meal, Bread, Hot-Dog-Buns: 0.0240
+Baguette, Bread, Corn-Flakes: 0.0220
+Soda-bottle, Coffee, Hot-Dog-Buns: 0.0120
+Croissants, Corn-Flakes, Milk-organic: 0.0200
+Baguette, Orange-Juice, Hot-Dog-Buns: 0.0240
+Orange-Juice, Bagles, Croissants: 0.0240
+Corn-Flakes, Baguette, White-Bread: 0.0200
+Soda-bottle, Baguette, Cocoa-Rice-Cereal: 0.0299
+White-Bread, Beer-can, Cereal: 0.0359
+Oat-Meal, Apple-Juice, Hot-Dog-Buns: 0.0200
+White-Bread, Oat-Meal, Croissants: 0.0220
+Milk, Orange-Juice, Beer-can: 0.0160
+White-Bread, Beer-bottle, Honey-Crunch-Oats: 0.0279
+Cocoa-Rice-Cereal, Orange-Juice, Coffee: 0.0200
+Baguette, Beer-can, Hot-Dog-Buns: 0.0180
+Oat-Meal, Granola-Bars, Corn-Flakes: 0.0200
+Corn-Flakes, Beer-bottle, Coffee: 0.0180
+Soda-bottle, Milk, Bread: 0.0299
+Bread, Corn-Flakes, Apple-Juice: 0.0299
+Soda-bottle, Cocoa-Rice-Cereal, Croissants: 0.0200
+White-Bread, Milk, Milk-organic: 0.0259
+Coffee, Bagles, Cereal: 0.0180
+Baguette, Orange-Juice, Bagles: 0.0379
+Soda-bottle, Granola-Bars, Bagles: 0.0259
+Soda-bottle, Granola-Bars, Cereal: 0.0180
+Oat-Meal, Granola-Bars, Beer-bottle: 0.0279
+Oat-Meal, Milk, Granola-Bars: 0.0299
+Honey-Crunch-Oats, Granola-Bars, Croissants: 0.0200
+Soda-bottle, Bagles, Coffee: 0.0259
+White-Bread, Corn-Flakes, Honey-Crunch-Oats: 0.0279
+Granola-Bars, Bagles, Cereal: 0.0240
+Cocoa-Rice-Cereal, Corn-Flakes, Cereal: 0.0240
+White-Bread, Milk, Apple-Juice: 0.0299
+Corn-Flakes, Oat-Meal, Beer-bottle: 0.0140
+Oat-Meal, Orange-Juice, Bagles: 0.0339
+Baguette, Milk, Honey-Crunch-Oats: 0.0319
+Bread, Orange-Juice, Granola-Bars: 0.0160
+Oat-Meal, Coffee, Baguette: 0.0279
+Cocoa-Rice-Cereal, Milk, Apple-Juice: 0.0339
+Orange-Juice, Bagles, Cereal: 0.0299
+Oat-Meal, Honey-Crunch-Oats, Milk-organic: 0.0220
+Oat-Meal, Apple-Juice, Cereal: 0.0259
+Cocoa-Rice-Cereal, Bread, Milk-organic: 0.0240
+Orange-Juice, Bagles, Apple-Juice: 0.0299
+Coffee, Beer-can, Cereal: 0.0180
+Beer-bottle, Beer-can, Hot-Dog-Buns: 0.0180
+Baguette, Apple-Juice, Beer-can: 0.0180
+Bread, Bagles, Coffee: 0.0200
+Granola-Bars, Bagles, Beer-can: 0.0259
+White-Bread, Croissants, Milk-organic: 0.0220
+Oat-Meal, Honey-Crunch-Oats, Croissants: 0.0220
+Hot-Dog-Buns, Apple-Juice, Milk-organic: 0.0160
+Honey-Crunch-Oats, Hot-Dog-Buns, Cereal: 0.0160
+Soda-bottle, Cocoa-Rice-Cereal, Beer-bottle: 0.0279
+Soda-bottle, White-Bread, Orange-Juice: 0.0240
+Oat-Meal, Bagles, Cereal: 0.0200
+Soda-bottle, Oat-Meal, Milk-organic: 0.0140
+Orange-Juice, Beer-bottle, Coffee: 0.0259
+Bread, Orange-Juice, Beer-bottle: 0.0200
+Honey-Crunch-Oats, Milk, Apple-Juice: 0.0379
+White-Bread, Bagles, Coffee: 0.0240
+Granola-Bars, Bagles, Orange-Juice: 0.0240
+Milk-organic, Milk, Cereal: 0.0220
+Soda-bottle, Apple-Juice, Beer-can: 0.0160
+Oat-Meal, Bagles, Milk-organic: 0.0160
+Bread, Granola-Bars, Milk-organic: 0.0180
+Coffee, Granola-Bars, Milk-organic: 0.0180
+Oat-Meal, Corn-Flakes, Beer-can: 0.0279
+White-Bread, Cocoa-Rice-Cereal, Croissants: 0.0259
+Cocoa-Rice-Cereal, Apple-Juice, Hot-Dog-Buns: 0.0259
+Baguette, Bagles, Cereal: 0.0200
+White-Bread, Milk, Bread: 0.0220
+Baguette, Bagles, Beer-bottle: 0.0299
+Baguette, Granola-Bars, Hot-Dog-Buns: 0.0140
+Honey-Crunch-Oats, Bagles, Beer-bottle: 0.0279
+Cocoa-Rice-Cereal, Granola-Bars, Bagles: 0.0240
+Baguette, Bagles, Apple-Juice: 0.0279
+Baguette, Corn-Flakes, Cereal: 0.0240
+Croissants, Milk, Cereal: 0.0220
+Corn-Flakes, Beer-bottle, Milk-organic: 0.0200
+Soda-bottle, Cocoa-Rice-Cereal, Granola-Bars: 0.0259
+Cocoa-Rice-Cereal, Bread, Cereal: 0.0200
+Cocoa-Rice-Cereal, Coffee, Cereal: 0.0180
+Oat-Meal, Milk, Beer-can: 0.0259
+White-Bread, Orange-Juice, Croissants: 0.0259
+Orange-Juice, Apple-Juice, Hot-Dog-Buns: 0.0279
+Oat-Meal, Milk, Croissants: 0.0160
+Oat-Meal, Cocoa-Rice-Cereal, Coffee: 0.0200
+Corn-Flakes, Apple-Juice, Croissants: 0.0299
+Honey-Crunch-Oats, Milk, Beer-bottle: 0.0299
+White-Bread, Corn-Flakes, Hot-Dog-Buns: 0.0180
+Oat-Meal, Bread, Cocoa-Rice-Cereal: 0.0339
+Corn-Flakes, Orange-Juice, Granola-Bars: 0.0180
+Baguette, Milk, Apple-Juice: 0.0379
+Milk-organic, Bread, Cereal: 0.0160
+Honey-Crunch-Oats, Bread, Apple-Juice: 0.0279
+Baguette, Beer-bottle, Coffee: 0.0259
+Oat-Meal, Corn-Flakes, Cereal: 0.0259
+Baguette, Hot-Dog-Buns, Cereal: 0.0200
+Baguette, Granola-Bars, Cocoa-Rice-Cereal: 0.0259
+Granola-Bars, Bagles, Milk-organic: 0.0120
+Soda-bottle, Cocoa-Rice-Cereal, Orange-Juice: 0.0160
+White-Bread, Bread, Honey-Crunch-Oats: 0.0180
+Oat-Meal, Milk, Orange-Juice: 0.0259
+Apple-Juice, Beer-can, Hot-Dog-Buns: 0.0240
+White-Bread, Beer-can, Croissants: 0.0240
+Corn-Flakes, Oat-Meal, Bagles: 0.0259
+Baguette, Milk, Beer-can: 0.0160
+Soda-bottle, Oat-Meal, Corn-Flakes: 0.0160
+Orange-Juice, Beer-can, Hot-Dog-Buns: 0.0180
+Oat-Meal, Milk, Apple-Juice: 0.0359
+Cocoa-Rice-Cereal, Orange-Juice, Cereal: 0.0180
+Orange-Juice, Granola-Bars, Hot-Dog-Buns: 0.0120
+Baguette, Cocoa-Rice-Cereal, Coffee: 0.0240
+Oat-Meal, Milk, Cereal: 0.0140
+Orange-Juice, Corn-Flakes, Cereal: 0.0220
+Oat-Meal, Coffee, Hot-Dog-Buns: 0.0160
+White-Bread, Orange-Juice, Cocoa-Rice-Cereal: 0.0259
+Milk, Granola-Bars, Beer-can: 0.0220
+Soda-bottle, Honey-Crunch-Oats, Granola-Bars: 0.0319
+White-Bread, Beer-can, Milk-organic: 0.0240
+Honey-Crunch-Oats, Hot-Dog-Buns, Milk-organic: 0.0140
+White-Bread, Croissants, Cereal: 0.0180
+Cocoa-Rice-Cereal, Apple-Juice, Beer-can: 0.0220
+Hot-Dog-Buns, Apple-Juice, Cereal: 0.0140
+Milk, Apple-Juice, Coffee: 0.0339
+Orange-Juice, Bagles, Beer-can: 0.0279
+Baguette, Oat-Meal, Cocoa-Rice-Cereal: 0.0259
+White-Bread, Bagles, Honey-Crunch-Oats: 0.0299
+Oat-Meal, Bread, Corn-Flakes: 0.0259
+White-Bread, Beer-bottle, Beer-can: 0.0180
+Soda-bottle, White-Bread, Croissants: 0.0120
+Soda-bottle, Apple-Juice, Hot-Dog-Buns: 0.0319
+Milk, Corn-Flakes, Hot-Dog-Buns: 0.0240
+Croissants, Bread, Milk-organic: 0.0240
+Orange-Juice, Beer-bottle, Croissants: 0.0259
+Coffee, Corn-Flakes, Cereal: 0.0240
+Bread, Granola-Bars, Coffee: 0.0200
+Honey-Crunch-Oats, Bread, Croissants: 0.0160
+Soda-bottle, Bread, Cereal: 0.0180
+Corn-Flakes, Apple-Juice, Coffee: 0.0419
+Oat-Meal, Orange-Juice, Baguette: 0.0299
+Bread, Bagles, Cereal: 0.0200
+Oat-Meal, Granola-Bars, Bagles: 0.0259
+Honey-Crunch-Oats, Beer-can, Coffee: 0.0140
+Milk, Orange-Juice, Milk-organic: 0.0220
+Cocoa-Rice-Cereal, Corn-Flakes, Milk-organic: 0.0160
+Orange-Juice, Beer-bottle, Milk-organic: 0.0220
+Soda-bottle, Oat-Meal, Coffee: 0.0200
+Soda-bottle, Granola-Bars, Beer-bottle: 0.0180
+Coffee, Beer-bottle, Cereal: 0.0240
+Honey-Crunch-Oats, Granola-Bars, Beer-can: 0.0220
+White-Bread, Orange-Juice, Granola-Bars: 0.0240
+Milk, Beer-bottle, Hot-Dog-Buns: 0.0200
+Corn-Flakes, Milk, Bagles: 0.0220
+Corn-Flakes, Bagles, Beer-bottle: 0.0240
+Soda-bottle, Orange-Juice, Bagles: 0.0240
+Soda-bottle, Baguette, Coffee: 0.0259
+Honey-Crunch-Oats, Bagles, Milk-organic: 0.0240
+Bagles, Apple-Juice, Cereal: 0.0220
+Soda-bottle, Apple-Juice, Cereal: 0.0120
+Corn-Flakes, Cocoa-Rice-Cereal, Bagles: 0.0259
+Soda-bottle, Honey-Crunch-Oats, Milk-organic: 0.0200
+White-Bread, Honey-Crunch-Oats, Hot-Dog-Buns: 0.0160
+Granola-Bars, Apple-Juice, Coffee: 0.0220
+Soda-bottle, Honey-Crunch-Oats, Hot-Dog-Buns: 0.0240
+Honey-Crunch-Oats, Apple-Juice, Croissants: 0.0299
+Croissants, Milk-organic, Cereal: 0.0240
+Croissants, Apple-Juice, Milk-organic: 0.0140
+White-Bread, Hot-Dog-Buns, Milk-organic: 0.0259
+Honey-Crunch-Oats, Croissants, Cereal: 0.0259
+Bread, Corn-Flakes, Milk-organic: 0.0120
+Honey-Crunch-Oats, Cocoa-Rice-Cereal, Beer-can: 0.0180
+Honey-Crunch-Oats, Granola-Bars, Cocoa-Rice-Cereal: 0.0220
+Croissants, Cocoa-Rice-Cereal, Coffee: 0.0220
+Milk, Beer-can, Croissants: 0.0200
+Oat-Meal, Orange-Juice, White-Bread: 0.0299
+Cocoa-Rice-Cereal, Corn-Flakes, Hot-Dog-Buns: 0.0240
+Oat-Meal, Apple-Juice, Beer-can: 0.0259
+Milk, Orange-Juice, Hot-Dog-Buns: 0.0299
+Croissants, Beer-can, Milk-organic: 0.0259
+Soda-bottle, Bagles, Milk-organic: 0.0200
+Orange-Juice, Bagles, Hot-Dog-Buns: 0.0279
+White-Bread, Granola-Bars, Bagles: 0.0279
+Baguette, Honey-Crunch-Oats, Croissants: 0.0140
+White-Bread, Beer-bottle, Hot-Dog-Buns: 0.0160
+Soda-bottle, Corn-Flakes, Beer-can: 0.0140
+Beer-bottle, Apple-Juice, Croissants: 0.0259
+White-Bread, Bread, Cereal: 0.0200
+White-Bread, Coffee, Cereal: 0.0240
+Milk, Bagles, Milk-organic: 0.0200
+Soda-bottle, Orange-Juice, Hot-Dog-Buns: 0.0259
+White-Bread, Bread, Apple-Juice: 0.0120
+Bread, Hot-Dog-Buns, Croissants: 0.0160
+Cocoa-Rice-Cereal, Milk, Hot-Dog-Buns: 0.0259
+Baguette, Orange-Juice, Cocoa-Rice-Cereal: 0.0259
+Bread, Beer-can, Hot-Dog-Buns: 0.0200
+Honey-Crunch-Oats, Coffee, Hot-Dog-Buns: 0.0120
+Soda-bottle, Milk, Beer-can: 0.0200
+Oat-Meal, Honey-Crunch-Oats, Baguette: 0.0259
+Honey-Crunch-Oats, Beer-bottle, Cereal: 0.0339
+Milk-organic, Apple-Juice, Cereal: 0.0160
+Oat-Meal, Croissants, Cereal: 0.0200
+Oat-Meal, Cocoa-Rice-Cereal, Apple-Juice: 0.0259
+Baguette, Milk, Coffee: 0.0279
+Baguette, Milk, Bread: 0.0299
+White-Bread, Granola-Bars, Honey-Crunch-Oats: 0.0299
+White-Bread, Bagles, Beer-bottle: 0.0220
+White-Bread, Coffee, Croissants: 0.0200
+Coffee, Apple-Juice, Hot-Dog-Buns: 0.0220
+Bread, Orange-Juice, Hot-Dog-Buns: 0.0220
+Oat-Meal, Orange-Juice, Cocoa-Rice-Cereal: 0.0200
+Granola-Bars, Corn-Flakes, Coffee: 0.0140
+Corn-Flakes, Beer-can, Coffee: 0.0180
+Soda-bottle, Milk, Orange-Juice: 0.0259
+Milk, Apple-Juice, Cereal: 0.0259
+Honey-Crunch-Oats, Cocoa-Rice-Cereal, Milk-organic: 0.0200
+Corn-Flakes, Soda-bottle, Bagles: 0.0200
+Honey-Crunch-Oats, Milk, Milk-organic: 0.0200
+Cocoa-Rice-Cereal, Apple-Juice, Cereal: 0.0240
+White-Bread, Bagles, Cocoa-Rice-Cereal: 0.0200
+Baguette, Bread, Cocoa-Rice-Cereal: 0.0240
+Milk, Orange-Juice, Bagles: 0.0259
+Honey-Crunch-Oats, Bagles, Coffee: 0.0220
+Oat-Meal, Milk, Apple-Juice, Coffee: 0.0200
+Oat-Meal, Milk, Orange-Juice, Coffee: 0.0120
+Baguette, Orange-Juice, Apple-Juice, Coffee: 0.0120
+Cocoa-Rice-Cereal, Croissants, Bread, Coffee: 0.0120
+Baguette, Bagles, Beer-bottle, Honey-Crunch-Oats: 0.0140
+Baguette, Croissants, Beer-bottle, Milk-organic: 0.0120
+Cocoa-Rice-Cereal, Bread, Bagles, Croissants: 0.0120
+Cereal, Bread, Orange-Juice, Croissants: 0.0120
+Baguette, Milk, Corn-Flakes, Milk-organic: 0.0120
+Cocoa-Rice-Cereal, Granola-Bars, Beer-can, Baguette: 0.0160
+Baguette, Orange-Juice, Beer-bottle, Cereal: 0.0120
+Baguette, Honey-Crunch-Oats, Apple-Juice, Coffee: 0.0160
+Croissants, Granola-Bars, Orange-Juice, Coffee: 0.0160
+Honey-Crunch-Oats, Oat-Meal, Bread, Cereal: 0.0160
+Oat-Meal, Milk, Granola-Bars, Bagles: 0.0120
+Cocoa-Rice-Cereal, Oat-Meal, Bread, Apple-Juice: 0.0160
+Beer-can, Milk, Oat-Meal, Apple-Juice: 0.0120
+Soda-bottle, Baguette, Honey-Crunch-Oats, Apple-Juice: 0.0120
+Milk, Corn-Flakes, Apple-Juice, Cereal: 0.0120
+Oat-Meal, Milk, Granola-Bars, Beer-can: 0.0120
+Croissants, Milk, Bread, Milk-organic: 0.0120
+White-Bread, Bagles, Beer-can, Hot-Dog-Buns: 0.0120
+Cocoa-Rice-Cereal, Milk, White-Bread, Cereal: 0.0160
+Honey-Crunch-Oats, Orange-Juice, Bagles, Beer-can: 0.0140
+Honey-Crunch-Oats, Granola-Bars, Orange-Juice, Coffee: 0.0160
+Soda-bottle, Granola-Bars, Orange-Juice, Coffee: 0.0140
+White-Bread, Granola-Bars, Bagles, Coffee: 0.0160
+Honey-Crunch-Oats, Bagles, Beer-can, Baguette: 0.0120
+Cocoa-Rice-Cereal, Bagles, Apple-Juice, Baguette: 0.0160
+Honey-Crunch-Oats, Milk, Granola-Bars, Apple-Juice: 0.0160
+Cocoa-Rice-Cereal, Orange-Juice, Beer-bottle, White-Bread: 0.0140
+Oat-Meal, White-Bread, Corn-Flakes, Apple-Juice: 0.0180
+Baguette, Coffee, Beer-bottle, Croissants: 0.0120
+White-Bread, Bread, Beer-can, Cereal: 0.0160
+Baguette, Oat-Meal, Bagles, Apple-Juice: 0.0140
+Croissants, Coffee, Bread, Milk-organic: 0.0120
+Oat-Meal, Granola-Bars, Apple-Juice, Croissants: 0.0120
+Cereal, Corn-Flakes, Beer-can, Croissants: 0.0120
+Bread, Orange-Juice, Beer-bottle, Cereal: 0.0120
+Baguette, Croissants, Orange-Juice, Hot-Dog-Buns: 0.0120
+Cocoa-Rice-Cereal, Bagles, Beer-bottle, Hot-Dog-Buns: 0.0120
+Baguette, Orange-Juice, Corn-Flakes, Beer-bottle: 0.0120
+Soda-bottle, Milk, Granola-Bars, Orange-Juice: 0.0120
+Baguette, Milk, Granola-Bars, Oat-Meal: 0.0120
+Soda-bottle, Bread, Orange-Juice, Apple-Juice: 0.0140
+Oat-Meal, Milk, Corn-Flakes, Coffee: 0.0140
+Honey-Crunch-Oats, Bread, Beer-can, Apple-Juice: 0.0140
+Cocoa-Rice-Cereal, Oat-Meal, Bread, Baguette: 0.0140
+Baguette, Oat-Meal, Bagles, Hot-Dog-Buns: 0.0140
+Cocoa-Rice-Cereal, Beer-bottle, White-Bread, Croissants: 0.0140
+Baguette, Milk, Granola-Bars, White-Bread: 0.0120
+Bagles, Orange-Juice, Beer-bottle, Croissants: 0.0120
+White-Bread, Milk, Orange-Juice, Corn-Flakes: 0.0140
+Oat-Meal, Bread, Bagles, Beer-can: 0.0120
+Honey-Crunch-Oats, Orange-Juice, Beer-bottle, Cereal: 0.0160
+Soda-bottle, Cocoa-Rice-Cereal, Beer-bottle, White-Bread: 0.0120
+Oat-Meal, Orange-Juice, Bagles, Apple-Juice: 0.0180
+Oat-Meal, White-Bread, Honey-Crunch-Oats, Apple-Juice: 0.0140
+Croissants, White-Bread, Beer-can, Hot-Dog-Buns: 0.0120
+Oat-Meal, Corn-Flakes, Beer-can, Croissants: 0.0120
+Croissants, Cereal, Orange-Juice, Coffee: 0.0120
+Soda-bottle, Croissants, Milk, Coffee: 0.0120
+Soda-bottle, Oat-Meal, Milk, Granola-Bars: 0.0140
+Granola-Bars, Beer-bottle, Apple-Juice, Croissants: 0.0120
+Cocoa-Rice-Cereal, Milk, Apple-Juice, Baguette: 0.0180
+Oat-Meal, White-Bread, Orange-Juice, Apple-Juice: 0.0140
+Soda-bottle, Cocoa-Rice-Cereal, Bagles, Beer-bottle: 0.0120
+Honey-Crunch-Oats, Beer-can, Apple-Juice, Milk-organic: 0.0140
+Baguette, Bread, Bagles, Hot-Dog-Buns: 0.0140
+Baguette, Orange-Juice, Beer-bottle, Honey-Crunch-Oats: 0.0180
+White-Bread, Corn-Flakes, Apple-Juice, Milk-organic: 0.0120
+Soda-bottle, Baguette, Bagles, Honey-Crunch-Oats: 0.0120
+Oat-Meal, Granola-Bars, Bagles, Coffee: 0.0140
+Oat-Meal, Bread, White-Bread, Beer-can: 0.0120
+Honey-Crunch-Oats, Croissants, Beer-can, Milk-organic: 0.0120
+Baguette, Oat-Meal, Corn-Flakes, Apple-Juice: 0.0180
+Baguette, Orange-Juice, Beer-bottle, Croissants: 0.0140
+Bagles, Milk, Corn-Flakes, Hot-Dog-Buns: 0.0140
+Baguette, Coffee, Milk, Hot-Dog-Buns: 0.0120
+White-Bread, Milk, Granola-Bars, Coffee: 0.0120
+Granola-Bars, White-Bread, Orange-Juice, Bagles: 0.0120
+Honey-Crunch-Oats, Bagles, Oat-Meal, Corn-Flakes: 0.0120
+Honey-Crunch-Oats, Milk, Bread, Apple-Juice: 0.0140
+Soda-bottle, Honey-Crunch-Oats, Milk, Beer-can: 0.0120
+Milk, Orange-Juice, Apple-Juice, Coffee: 0.0140
+Honey-Crunch-Oats, Bagles, Milk, Beer-bottle: 0.0120
+White-Bread, Granola-Bars, Beer-bottle, Coffee: 0.0140
+Cocoa-Rice-Cereal, Corn-Flakes, Beer-bottle, Baguette: 0.0120
+Honey-Crunch-Oats, Bread, Beer-bottle, Cereal: 0.0120
+Milk, Granola-Bars, Beer-bottle, Apple-Juice: 0.0120
+Baguette, Apple-Juice, Beer-bottle, Honey-Crunch-Oats: 0.0120
+Cocoa-Rice-Cereal, Oat-Meal, Corn-Flakes, Honey-Crunch-Oats: 0.0120
+Granola-Bars, Bagles, Beer-can, Cereal: 0.0160
+Oat-Meal, Bagles, Corn-Flakes, Apple-Juice: 0.0180
+Oat-Meal, Honey-Crunch-Oats, White-Bread, Coffee: 0.0120
+Soda-bottle, Bagles, Apple-Juice, Hot-Dog-Buns: 0.0140
+Baguette, Bagles, Corn-Flakes, Beer-can: 0.0120
+Soda-bottle, Honey-Crunch-Oats, Milk, Apple-Juice: 0.0160
+Cocoa-Rice-Cereal, Hot-Dog-Buns, Corn-Flakes, Baguette: 0.0140
+Oat-Meal, Milk, Orange-Juice, Apple-Juice: 0.0120
+Baguette, Oat-Meal, Bread, Hot-Dog-Buns: 0.0140
+Soda-bottle, Honey-Crunch-Oats, Granola-Bars, Bagles: 0.0120
+Baguette, Orange-Juice, Bagles, Coffee: 0.0160
+Baguette, Oat-Meal, Bread, Coffee: 0.0120
+White-Bread, Corn-Flakes, Beer-can, Cereal: 0.0180
+Oat-Meal, Granola-Bars, White-Bread, Apple-Juice: 0.0120
+Baguette, Orange-Juice, Bagles, Hot-Dog-Buns: 0.0120
+Baguette, Croissants, Bagles, Milk-organic: 0.0120
+Soda-bottle, Milk, Granola-Bars, Bagles: 0.0120
+Soda-bottle, Baguette, Milk, Bagles: 0.0120
+Honey-Crunch-Oats, Corn-Flakes, Beer-can, Milk-organic: 0.0160
+Soda-bottle, Oat-Meal, Granola-Bars, Honey-Crunch-Oats: 0.0160
+Soda-bottle, Oat-Meal, Milk, Hot-Dog-Buns: 0.0120
+Honey-Crunch-Oats, Oat-Meal, Beer-bottle, Coffee: 0.0180
+Soda-bottle, Croissants, Honey-Crunch-Oats, Hot-Dog-Buns: 0.0120
+Baguette, Orange-Juice, Beer-bottle, Coffee: 0.0120
+Baguette, Milk, White-Bread, Apple-Juice: 0.0120
+Oat-Meal, Milk, Orange-Juice, White-Bread: 0.0120
+Bread, Granola-Bars, Beer-bottle, Milk-organic: 0.0120
+Cocoa-Rice-Cereal, White-Bread, Corn-Flakes, Beer-bottle: 0.0160
+Baguette, Orange-Juice, Corn-Flakes, Croissants: 0.0120
+Oat-Meal, Cereal, Apple-Juice, Croissants: 0.0120
+Milk, Corn-Flakes, Apple-Juice, Coffee: 0.0140
+Orange-Juice, Corn-Flakes, Apple-Juice, Coffee: 0.0120
+Cocoa-Rice-Cereal, Granola-Bars, White-Bread, Beer-can: 0.0140
+Honey-Crunch-Oats, Bagles, White-Bread, Cereal: 0.0120
+Baguette, Milk, Orange-Juice, Oat-Meal: 0.0140
+Soda-bottle, White-Bread, Granola-Bars, Honey-Crunch-Oats: 0.0180
+Hot-Dog-Buns, Corn-Flakes, Apple-Juice, Coffee: 0.0120
+White-Bread, Milk, Apple-Juice, Cereal: 0.0120
+Baguette, Orange-Juice, Corn-Flakes, White-Bread: 0.0120
+Cocoa-Rice-Cereal, Milk, White-Bread, Hot-Dog-Buns: 0.0140
+White-Bread, Granola-Bars, Bagles, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Corn-Flakes, Apple-Juice, Baguette: 0.0180
+Soda-bottle, Honey-Crunch-Oats, Beer-can, Apple-Juice: 0.0140
+Honey-Crunch-Oats, Bagles, White-Bread, Coffee: 0.0140
+Honey-Crunch-Oats, Bagles, Beer-bottle, Cereal: 0.0140
+Honey-Crunch-Oats, Beer-bottle, Beer-can, Cereal: 0.0120
+Soda-bottle, Orange-Juice, Corn-Flakes, Croissants: 0.0120
+Orange-Juice, Bagles, Beer-can, Hot-Dog-Buns: 0.0120
+White-Bread, Orange-Juice, Bagles, Coffee: 0.0120
+Honey-Crunch-Oats, Granola-Bars, Bagles, Beer-can: 0.0120
+Honey-Crunch-Oats, White-Bread, Bagles, Beer-can: 0.0160
+Honey-Crunch-Oats, Milk, Orange-Juice, Beer-bottle: 0.0120
+Granola-Bars, Orange-Juice, Bagles, Coffee: 0.0140
+Oat-Meal, Milk, White-Bread, Cocoa-Rice-Cereal: 0.0180
+Soda-bottle, White-Bread, Bagles, Orange-Juice: 0.0120
+Soda-bottle, Honey-Crunch-Oats, Orange-Juice, Corn-Flakes: 0.0120
+Soda-bottle, White-Bread, Orange-Juice, Coffee: 0.0120
+Soda-bottle, Cocoa-Rice-Cereal, Bagles, Apple-Juice: 0.0140
+Baguette, Milk, Orange-Juice, Honey-Crunch-Oats: 0.0140
+Baguette, Cereal, Beer-bottle, Croissants: 0.0120
+Oat-Meal, Bagles, Bread, Corn-Flakes: 0.0120
+Honey-Crunch-Oats, Orange-Juice, Corn-Flakes, Croissants: 0.0160
+Honey-Crunch-Oats, Cereal, Bagles, Baguette: 0.0120
+Cereal, Corn-Flakes, Beer-can, Milk-organic: 0.0120
+Baguette, Bread, Honey-Crunch-Oats, Apple-Juice: 0.0140
+Honey-Crunch-Oats, Hot-Dog-Buns, Beer-can, Croissants: 0.0120
+Honey-Crunch-Oats, Cereal, Beer-bottle, Baguette: 0.0140
+Cocoa-Rice-Cereal, Oat-Meal, Bread, Coffee: 0.0120
+Soda-bottle, Croissants, Orange-Juice, Hot-Dog-Buns: 0.0140
+Cocoa-Rice-Cereal, Honey-Crunch-Oats, White-Bread, Milk-organic: 0.0140
+Croissants, Orange-Juice, Apple-Juice, Hot-Dog-Buns: 0.0120
+Honey-Crunch-Oats, Beer-can, Apple-Juice, Croissants: 0.0140
+Oat-Meal, Corn-Flakes, Apple-Juice, Milk-organic: 0.0140
+Baguette, Orange-Juice, Bagles, Honey-Crunch-Oats: 0.0200
+Honey-Crunch-Oats, Oat-Meal, Bagles, Apple-Juice: 0.0120
+Soda-bottle, Baguette, Orange-Juice, White-Bread: 0.0140
+Cocoa-Rice-Cereal, Corn-Flakes, Apple-Juice, Honey-Crunch-Oats: 0.0180
+Baguette, Milk, Granola-Bars, Apple-Juice: 0.0140
+Cocoa-Rice-Cereal, Beer-bottle, Apple-Juice, Croissants: 0.0120
+Cocoa-Rice-Cereal, Granola-Bars, Beer-bottle, Croissants: 0.0120
+Soda-bottle, Cocoa-Rice-Cereal, Coffee, Baguette: 0.0120
+Baguette, Oat-Meal, Orange-Juice, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Corn-Flakes, Beer-can, Honey-Crunch-Oats: 0.0120
+Oat-Meal, Orange-Juice, Corn-Flakes, Apple-Juice: 0.0140
+Honey-Crunch-Oats, Oat-Meal, Bread, Beer-can: 0.0120
+Honey-Crunch-Oats, Bagles, Corn-Flakes, Beer-can: 0.0120
+Oat-Meal, Granola-Bars, Orange-Juice, White-Bread: 0.0120
+Oat-Meal, Milk, Bread, Coffee: 0.0120
+Oat-Meal, Milk, Granola-Bars, Hot-Dog-Buns: 0.0160
+Honey-Crunch-Oats, Oat-Meal, Granola-Bars, Bagles: 0.0120
+White-Bread, Milk, Beer-can, Cereal: 0.0160
+Milk, Orange-Juice, Bagles, Hot-Dog-Buns: 0.0160
+Soda-bottle, Baguette, Granola-Bars, Bagles: 0.0120
+Coffee, Milk, Orange-Juice, Hot-Dog-Buns: 0.0140
+Oat-Meal, Bagles, Apple-Juice, Hot-Dog-Buns: 0.0120
+Milk, Orange-Juice, Apple-Juice, Hot-Dog-Buns: 0.0180
+Honey-Crunch-Oats, Orange-Juice, Bagles, Cereal: 0.0120
+Cocoa-Rice-Cereal, Milk, Corn-Flakes, Baguette: 0.0180
+Soda-bottle, Baguette, Orange-Juice, Beer-bottle: 0.0120
+Croissants, Orange-Juice, Honey-Crunch-Oats, Milk-organic: 0.0140
+Baguette, Oat-Meal, Orange-Juice, Bagles: 0.0160
+Honey-Crunch-Oats, Bagles, Orange-Juice, Beer-bottle: 0.0160
+Orange-Juice, Corn-Flakes, Beer-can, Croissants: 0.0120
+Cocoa-Rice-Cereal, Bread, Beer-bottle, White-Bread: 0.0120
+Cocoa-Rice-Cereal, Oat-Meal, Orange-Juice, Croissants: 0.0140
+Bread, Corn-Flakes, Apple-Juice, Croissants: 0.0120
+Cocoa-Rice-Cereal, Corn-Flakes, White-Bread, Milk-organic: 0.0120
+Soda-bottle, Honey-Crunch-Oats, Beer-bottle, Coffee: 0.0120
+Cocoa-Rice-Cereal, Coffee, Milk, Croissants: 0.0120
+Soda-bottle, Honey-Crunch-Oats, Milk, Hot-Dog-Buns: 0.0140
+Honey-Crunch-Oats, Milk, Apple-Juice, Coffee: 0.0180
+Cocoa-Rice-Cereal, Croissants, Bread, Milk-organic: 0.0120
+Cocoa-Rice-Cereal, Milk, White-Bread, Beer-can: 0.0180
+Baguette, Corn-Flakes, Apple-Juice, Cereal: 0.0120
+Milk, Bread, Apple-Juice, Hot-Dog-Buns: 0.0160
+Cocoa-Rice-Cereal, Milk, Corn-Flakes, White-Bread: 0.0200
+Soda-bottle, Cocoa-Rice-Cereal, Beer-bottle, Milk-organic: 0.0120
+Cocoa-Rice-Cereal, Granola-Bars, Apple-Juice, Cereal: 0.0120
+Baguette, Beer-bottle, Apple-Juice, Croissants: 0.0140
+Croissants, Orange-Juice, Beer-can, Milk-organic: 0.0120
+Cocoa-Rice-Cereal, Milk, Granola-Bars, Apple-Juice: 0.0120
+Croissants, Coffee, Orange-Juice, Milk-organic: 0.0140
+Oat-Meal, Milk, White-Bread, Beer-can: 0.0140
+Oat-Meal, Bread, Orange-Juice, Bagles: 0.0120
+Soda-bottle, Granola-Bars, Orange-Juice, Milk-organic: 0.0120
+Baguette, Orange-Juice, Beer-bottle, Hot-Dog-Buns: 0.0120
+Baguette, Beer-bottle, Apple-Juice, Hot-Dog-Buns: 0.0120
+Baguette, Bagles, Beer-bottle, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Milk, White-Bread, Milk-organic: 0.0160
+Milk, Corn-Flakes, Apple-Juice, Hot-Dog-Buns: 0.0180
+Bread, Corn-Flakes, Apple-Juice, Cereal: 0.0120
+Milk, Orange-Juice, Corn-Flakes, Hot-Dog-Buns: 0.0140
+Soda-bottle, Corn-Flakes, Apple-Juice, Croissants: 0.0140
+Baguette, Milk, Bread, Apple-Juice: 0.0180
+Honey-Crunch-Oats, Bagles, Beer-bottle, Hot-Dog-Buns: 0.0120
+Baguette, Granola-Bars, White-Bread, Beer-can: 0.0140
+White-Bread, Bagles, Orange-Juice, Beer-bottle: 0.0120
+Baguette, Oat-Meal, Corn-Flakes, Coffee: 0.0160
+Baguette, Oat-Meal, Beer-bottle, Honey-Crunch-Oats: 0.0140
+Baguette, Bagles, Oat-Meal, Corn-Flakes: 0.0160
+Baguette, Milk, Orange-Juice, Corn-Flakes: 0.0160
+Honey-Crunch-Oats, Bread, Granola-Bars, Corn-Flakes: 0.0120
+Honey-Crunch-Oats, White-Bread, Apple-Juice, Coffee: 0.0140
+Cocoa-Rice-Cereal, Oat-Meal, Bread, Honey-Crunch-Oats: 0.0160
+Honey-Crunch-Oats, White-Bread, Apple-Juice, Hot-Dog-Buns: 0.0120
+Oat-Meal, Milk, Bagles, Hot-Dog-Buns: 0.0140
+White-Bread, Milk, Apple-Juice, Coffee: 0.0140
+Baguette, Bread, Apple-Juice, Coffee: 0.0160
+Cereal, Milk, Bagles, Milk-organic: 0.0120
+Soda-bottle, Orange-Juice, Apple-Juice, Croissants: 0.0120
+Honey-Crunch-Oats, Corn-Flakes, White-Bread, Milk-organic: 0.0140
+Cocoa-Rice-Cereal, Milk, Bread, Beer-bottle: 0.0120
+Oat-Meal, Milk, Corn-Flakes, Beer-can: 0.0140
+Honey-Crunch-Oats, Corn-Flakes, Beer-can, Croissants: 0.0140
+Soda-bottle, Cocoa-Rice-Cereal, Milk, Beer-bottle: 0.0140
+Hot-Dog-Buns, Corn-Flakes, Beer-bottle, Croissants: 0.0120
+Soda-bottle, Granola-Bars, Bagles, Hot-Dog-Buns: 0.0120
+Soda-bottle, Baguette, Bagles, White-Bread: 0.0120
+Cocoa-Rice-Cereal, White-Bread, Corn-Flakes, Apple-Juice: 0.0160
+Honey-Crunch-Oats, Corn-Flakes, White-Bread, Coffee: 0.0140
+Cocoa-Rice-Cereal, Corn-Flakes, White-Bread, Cereal: 0.0160
+Oat-Meal, Milk, Corn-Flakes, Apple-Juice: 0.0180
+Baguette, Bagles, Corn-Flakes, Coffee: 0.0160
+Honey-Crunch-Oats, Granola-Bars, Apple-Juice, Coffee: 0.0120
+Baguette, Bagles, Corn-Flakes, Hot-Dog-Buns: 0.0140
+Honey-Crunch-Oats, Oat-Meal, Orange-Juice, Cereal: 0.0140
+Cocoa-Rice-Cereal, Milk, Beer-bottle, White-Bread: 0.0220
+Honey-Crunch-Oats, Corn-Flakes, Apple-Juice, Coffee: 0.0160
+Bagles, Beer-bottle, Beer-can, Milk-organic: 0.0140
+Beer-can, Orange-Juice, Corn-Flakes, Apple-Juice: 0.0120
+Beer-can, Oat-Meal, Apple-Juice, Cereal: 0.0160
+Honey-Crunch-Oats, Orange-Juice, White-Bread, Croissants: 0.0120
+Baguette, Milk, Beer-bottle, White-Bread: 0.0160
+White-Bread, Cereal, Beer-can, Milk-organic: 0.0120
+Cereal, Bagles, Beer-can, Milk-organic: 0.0120
+Baguette, Bagles, Milk, Beer-bottle: 0.0140
+Oat-Meal, Beer-bottle, Apple-Juice, Coffee: 0.0120
+Honey-Crunch-Oats, Coffee, White-Bread, Milk-organic: 0.0140
+Baguette, Milk, Beer-bottle, Coffee: 0.0120
+White-Bread, Milk, Corn-Flakes, Cereal: 0.0160
+Cocoa-Rice-Cereal, Granola-Bars, Beer-bottle, Milk-organic: 0.0120
+Honey-Crunch-Oats, Milk, Beer-bottle, Apple-Juice: 0.0180
+Cocoa-Rice-Cereal, Bread, Beer-bottle, Milk-organic: 0.0120
+Soda-bottle, Baguette, Honey-Crunch-Oats, Coffee: 0.0160
+Cocoa-Rice-Cereal, Bread, White-Bread, Hot-Dog-Buns: 0.0140
+Granola-Bars, Orange-Juice, Bagles, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Milk, White-Bread, Apple-Juice: 0.0180
+Baguette, Milk, Corn-Flakes, Oat-Meal: 0.0180
+Honey-Crunch-Oats, Orange-Juice, Bagles, Coffee: 0.0140
+Cocoa-Rice-Cereal, White-Bread, Honey-Crunch-Oats, Apple-Juice: 0.0120
+Soda-bottle, Orange-Juice, Bagles, Granola-Bars: 0.0120
+Soda-bottle, Honey-Crunch-Oats, Bread, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Milk, Bread, Hot-Dog-Buns: 0.0120
+Soda-bottle, Honey-Crunch-Oats, Corn-Flakes, Croissants: 0.0140
+Beer-can, Oat-Meal, Corn-Flakes, Apple-Juice: 0.0200
+Croissants, Honey-Crunch-Oats, White-Bread, Coffee: 0.0140
+White-Bread, Orange-Juice, Corn-Flakes, Croissants: 0.0140
+Bagles, Milk, Beer-bottle, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, White-Bread, Beer-bottle, Beer-can: 0.0140
+Baguette, Corn-Flakes, Apple-Juice, Hot-Dog-Buns: 0.0140
+Cocoa-Rice-Cereal, Bread, Corn-Flakes, Beer-bottle: 0.0120
+Cereal, Bread, Granola-Bars, Croissants: 0.0120
+Honey-Crunch-Oats, Oat-Meal, Orange-Juice, Croissants: 0.0140
+Baguette, Bagles, Orange-Juice, Corn-Flakes: 0.0160
+Honey-Crunch-Oats, Milk-organic, Corn-Flakes, Coffee: 0.0140
+Baguette, Corn-Flakes, Apple-Juice, Coffee: 0.0160
+Oat-Meal, Bagles, Milk, Corn-Flakes: 0.0120
+Cocoa-Rice-Cereal, White-Bread, Beer-bottle, Honey-Crunch-Oats: 0.0140
+Soda-bottle, Orange-Juice, Beer-bottle, Croissants: 0.0120
+Soda-bottle, Milk, Granola-Bars, Hot-Dog-Buns: 0.0140
+Baguette, Milk, Oat-Meal, Apple-Juice: 0.0200
+Baguette, Croissants, Beer-can, Milk-organic: 0.0120
+Baguette, Oat-Meal, Bread, Beer-can: 0.0120
+Soda-bottle, Cocoa-Rice-Cereal, Milk, Bread: 0.0120
+Milk, Bread, Apple-Juice, Coffee: 0.0120
+Honey-Crunch-Oats, Oat-Meal, Granola-Bars, Apple-Juice: 0.0140
+White-Bread, Milk, Corn-Flakes, Apple-Juice: 0.0140
+Honey-Crunch-Oats, Beer-bottle, White-Bread, Coffee: 0.0180
+Cocoa-Rice-Cereal, Milk, Corn-Flakes, Apple-Juice: 0.0200
+Baguette, Milk, Bagles, Apple-Juice: 0.0140
+Cereal, Corn-Flakes, Apple-Juice, Coffee: 0.0140
+Cocoa-Rice-Cereal, Orange-Juice, Beer-bottle, Baguette: 0.0120
+Soda-bottle, Cocoa-Rice-Cereal, Beer-bottle, Baguette: 0.0140
+Cocoa-Rice-Cereal, Granola-Bars, Honey-Crunch-Oats, Beer-bottle: 0.0120
+Cocoa-Rice-Cereal, Beer-bottle, Apple-Juice, Hot-Dog-Buns: 0.0140
+Honey-Crunch-Oats, Bread, Corn-Flakes, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Oat-Meal, Bread, Granola-Bars: 0.0120
+White-Bread, Milk, Apple-Juice, Hot-Dog-Buns: 0.0140
+Soda-bottle, Honey-Crunch-Oats, Corn-Flakes, Apple-Juice: 0.0140
+Honey-Crunch-Oats, Milk, Granola-Bars, White-Bread: 0.0140
+Cocoa-Rice-Cereal, Orange-Juice, White-Bread, Baguette: 0.0140
+Honey-Crunch-Oats, Cereal, Apple-Juice, Baguette: 0.0140
+Soda-bottle, Oat-Meal, Bagles, Coffee: 0.0120
+Baguette, Oat-Meal, Beer-bottle, Croissants: 0.0140
+Cocoa-Rice-Cereal, Milk, Apple-Juice, Cereal: 0.0140
+Bread, Granola-Bars, Beer-can, Cereal: 0.0140
+Oat-Meal, Bread, Corn-Flakes, Apple-Juice: 0.0200
+Cocoa-Rice-Cereal, Milk, White-Bread, Coffee: 0.0120
+Milk, Orange-Juice, Bagles, Apple-Juice: 0.0160
+Croissants, Milk-organic, Beer-can, Hot-Dog-Buns: 0.0120
+Milk, Granola-Bars, Bagles, Beer-can: 0.0120
+Soda-bottle, White-Bread, Granola-Bars, Bagles: 0.0160
+Cocoa-Rice-Cereal, Milk, White-Bread, Croissants: 0.0160
+Soda-bottle, Cocoa-Rice-Cereal, Croissants, Baguette: 0.0120
+Honey-Crunch-Oats, Milk, Granola-Bars, Beer-bottle: 0.0140
+Soda-bottle, Honey-Crunch-Oats, Corn-Flakes, Milk-organic: 0.0120
+White-Bread, Milk, Corn-Flakes, Croissants: 0.0120
+Honey-Crunch-Oats, Bread, Apple-Juice, Cereal: 0.0120
+Honey-Crunch-Oats, Orange-Juice, Beer-bottle, Croissants: 0.0120
+Soda-bottle, Milk, Bread, Hot-Dog-Buns: 0.0120
+Baguette, Milk, Corn-Flakes, Honey-Crunch-Oats: 0.0140
+Cocoa-Rice-Cereal, Bagles, Corn-Flakes, Baguette: 0.0120
+Honey-Crunch-Oats, Bagles, Orange-Juice, Corn-Flakes: 0.0120
+Oat-Meal, Orange-Juice, Apple-Juice, Coffee: 0.0140
+Cocoa-Rice-Cereal, Bread, Bagles, Baguette: 0.0120
+Baguette, Milk, Bread, Beer-bottle: 0.0120
+Baguette, Bagles, Orange-Juice, Beer-bottle: 0.0160
+Cocoa-Rice-Cereal, Milk, Bread, Milk-organic: 0.0140
+Honey-Crunch-Oats, Oat-Meal, Granola-Bars, Cereal: 0.0120
+Honey-Crunch-Oats, Beer-can, Corn-Flakes, Apple-Juice: 0.0180
+Baguette, Milk, Corn-Flakes, Beer-bottle: 0.0160
+White-Bread, Orange-Juice, Corn-Flakes, Cereal: 0.0120
+Soda-bottle, Oat-Meal, Bread, Coffee: 0.0120
+Baguette, Milk, Bagles, Coffee: 0.0120
+Soda-bottle, White-Bread, Bagles, Honey-Crunch-Oats: 0.0140
+Soda-bottle, White-Bread, Honey-Crunch-Oats, Coffee: 0.0180
+Honey-Crunch-Oats, Milk, Oat-Meal, Apple-Juice: 0.0160
+Honey-Crunch-Oats, Oat-Meal, Granola-Bars, Coffee: 0.0160
+White-Bread, Granola-Bars, Bagles, Beer-can: 0.0160
+Cocoa-Rice-Cereal, Bagles, Corn-Flakes, Apple-Juice: 0.0180
+Croissants, Cereal, Orange-Juice, Milk-organic: 0.0140
+White-Bread, Orange-Juice, Corn-Flakes, Coffee: 0.0120
+White-Bread, Orange-Juice, Bagles, Beer-can: 0.0140
+Baguette, Milk, Orange-Juice, Beer-bottle: 0.0180
+Milk, Granola-Bars, Beer-bottle, Beer-can: 0.0120
+Baguette, Oat-Meal, Beer-bottle, Apple-Juice: 0.0140
+Soda-bottle, Cocoa-Rice-Cereal, Bread, Bagles: 0.0120
+Baguette, Milk, Bagles, Oat-Meal: 0.0160
+Cocoa-Rice-Cereal, Bread, Orange-Juice, Bagles: 0.0120
+Honey-Crunch-Oats, Beer-bottle, White-Bread, Cereal: 0.0140
+Beer-can, Milk, Beer-bottle, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Milk, Honey-Crunch-Oats, Beer-bottle: 0.0120
+Honey-Crunch-Oats, Milk, White-Bread, Milk-organic: 0.0140
+Cocoa-Rice-Cereal, Oat-Meal, Honey-Crunch-Oats, Milk-organic: 0.0120
+Baguette, Orange-Juice, Corn-Flakes, Hot-Dog-Buns: 0.0120
+Cereal, Milk, Orange-Juice, Hot-Dog-Buns: 0.0160
+White-Bread, Milk, Granola-Bars, Beer-can: 0.0140
+Baguette, Milk-organic, Milk, Hot-Dog-Buns: 0.0140
+Honey-Crunch-Oats, Milk, Apple-Juice, Hot-Dog-Buns: 0.0160
+Croissants, Bagles, Beer-bottle, Milk-organic: 0.0140
+Soda-bottle, Honey-Crunch-Oats, Apple-Juice, Croissants: 0.0140
+Cocoa-Rice-Cereal, Bagles, Apple-Juice, Hot-Dog-Buns: 0.0140
+Milk, Bagles, Apple-Juice, Coffee: 0.0120
+Cocoa-Rice-Cereal, Milk, Orange-Juice, White-Bread: 0.0140
+Cocoa-Rice-Cereal, Orange-Juice, Bagles, Baguette: 0.0140
+Honey-Crunch-Oats, Oat-Meal, Corn-Flakes, Cereal: 0.0140
+Honey-Crunch-Oats, Granola-Bars, Beer-can, Cereal: 0.0120
+Honey-Crunch-Oats, Oat-Meal, Corn-Flakes, Apple-Juice: 0.0180
+Cereal, Orange-Juice, Bagles, Milk-organic: 0.0160
+Soda-bottle, Oat-Meal, Bread, Honey-Crunch-Oats: 0.0120
+White-Bread, Bread, Corn-Flakes, Beer-can: 0.0120
+Cocoa-Rice-Cereal, Croissants, White-Bread, Baguette: 0.0120
+White-Bread, Milk, Granola-Bars, Beer-bottle: 0.0140
+Soda-bottle, Croissants, Apple-Juice, Hot-Dog-Buns: 0.0140
+Soda-bottle, Milk, Bread, Croissants: 0.0120
+Oat-Meal, Milk, Granola-Bars, Beer-bottle: 0.0140
+Cocoa-Rice-Cereal, Croissants, Oat-Meal, Baguette: 0.0140
+Cocoa-Rice-Cereal, Milk, Oat-Meal, Apple-Juice: 0.0140
+Orange-Juice, Corn-Flakes, Apple-Juice, Hot-Dog-Buns: 0.0160
+Honey-Crunch-Oats, White-Bread, Corn-Flakes, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Bread, Corn-Flakes, Coffee: 0.0120
+Oat-Meal, Cereal, Orange-Juice, Coffee: 0.0120
+Cocoa-Rice-Cereal, Baguette, Bagles, Hot-Dog-Buns: 0.0140
+Honey-Crunch-Oats, Corn-Flakes, Apple-Juice, Hot-Dog-Buns: 0.0160
+Oat-Meal, Granola-Bars, Bagles, Apple-Juice: 0.0140
+Cocoa-Rice-Cereal, Oat-Meal, Granola-Bars, Honey-Crunch-Oats: 0.0120
+Soda-bottle, Milk, Orange-Juice, Apple-Juice: 0.0120
+Beer-can, Bread, Corn-Flakes, Apple-Juice: 0.0140
+Oat-Meal, Orange-Juice, Bagles, White-Bread: 0.0160
+Cocoa-Rice-Cereal, Bagles, Milk, Corn-Flakes: 0.0120
+Honey-Crunch-Oats, Oat-Meal, Orange-Juice, Corn-Flakes: 0.0120
+Beer-can, Oat-Meal, Bread, Apple-Juice: 0.0140
+Honey-Crunch-Oats, White-Bread, Cocoa-Rice-Cereal, Cereal: 0.0120
+Cocoa-Rice-Cereal, Milk, Bagles, Baguette: 0.0120
+Baguette, Milk, Bread, Corn-Flakes: 0.0140
+Baguette, Milk, Beer-bottle, Oat-Meal: 0.0120
+Cocoa-Rice-Cereal, Beer-bottle, White-Bread, Baguette: 0.0180
+Baguette, Oat-Meal, Apple-Juice, Hot-Dog-Buns: 0.0120
+Honey-Crunch-Oats, Beer-can, White-Bread, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Milk, Honey-Crunch-Oats, Apple-Juice: 0.0120
+Honey-Crunch-Oats, Orange-Juice, Beer-bottle, Coffee: 0.0140
+Oat-Meal, White-Bread, Apple-Juice, Croissants: 0.0140
+Honey-Crunch-Oats, Oat-Meal, Corn-Flakes, Beer-can: 0.0140
+Honey-Crunch-Oats, Granola-Bars, Apple-Juice, Cereal: 0.0120
+Milk, Granola-Bars, Bagles, Hot-Dog-Buns: 0.0120
+Cocoa-Rice-Cereal, Milk, Bread, White-Bread: 0.0180
+Oat-Meal, Orange-Juice, Corn-Flakes, Coffee: 0.0120
+White-Bread, Orange-Juice, Bagles, Hot-Dog-Buns: 0.0140
+Honey-Crunch-Oats, Granola-Bars, White-Bread, Coffee: 0.0200
+Baguette, Milk, Orange-Juice, Apple-Juice: 0.0140
+Honey-Crunch-Oats, Orange-Juice, White-Bread, Coffee: 0.0120
+Cereal, Milk, Bagles, Hot-Dog-Buns: 0.0120
+White-Bread, Corn-Flakes, Apple-Juice, Coffee: 0.0140
+Soda-bottle, Honey-Crunch-Oats, Granola-Bars, Hot-Dog-Buns: 0.0120
+Cocoa-Rice-Cereal, Coffee, Oat-Meal, Baguette: 0.0120
+Honey-Crunch-Oats, Cereal, Oat-Meal, Baguette: 0.0140
+Cocoa-Rice-Cereal, Cereal, Coffee, Croissants: 0.0140
+Cocoa-Rice-Cereal, White-Bread, Beer-can, Milk-organic: 0.0140
+Honey-Crunch-Oats, Orange-Juice, Bagles, Milk-organic: 0.0120
+Baguette, Milk, Honey-Crunch-Oats, White-Bread: 0.0120
+Bagles, Orange-Juice, Beer-bottle, Hot-Dog-Buns: 0.0120
+Baguette, Milk, Orange-Juice, Bagles: 0.0160
+Cocoa-Rice-Cereal, Bread, White-Bread, Milk-organic: 0.0120
+Soda-bottle, Baguette, Bagles, Beer-bottle: 0.0140
+Honey-Crunch-Oats, Oat-Meal, Corn-Flakes, Milk-organic: 0.0140
+Cocoa-Rice-Cereal, Corn-Flakes, Beer-bottle, Cereal: 0.0120
+Croissants, Cereal, Orange-Juice, Hot-Dog-Buns: 0.0120
+White-Bread, Milk, Bread, Milk-organic: 0.0120
+Orange-Juice, Bagles, Beer-can, Milk-organic: 0.0120
+Soda-bottle, Corn-Flakes, Beer-bottle, Hot-Dog-Buns: 0.0120
+Honey-Crunch-Oats, Oat-Meal, Apple-Juice, Coffee: 0.0160
+Honey-Crunch-Oats, Bagles, Corn-Flakes, Cereal: 0.0120
+Baguette, Milk, Bagles, Honey-Crunch-Oats: 0.0120
+White-Bread, Granola-Bars, Beer-bottle, Milk-organic: 0.0120
+Milk, Bread, Beer-bottle, Coffee: 0.0120
+Soda-bottle, Oat-Meal, Bread, Apple-Juice: 0.0120
+White-Bread, Orange-Juice, Corn-Flakes, Hot-Dog-Buns: 0.0120
+Oat-Meal, Milk, Granola-Bars, Coffee: 0.0120
+Cocoa-Rice-Cereal, Milk, Bread, Corn-Flakes: 0.0120
+Oat-Meal, Orange-Juice, White-Bread, Coffee: 0.0120
+Soda-bottle, Baguette, Granola-Bars, Beer-can: 0.0120
+Cocoa-Rice-Cereal, Bread, White-Bread, Beer-can: 0.0120
+Oat-Meal, White-Bread, Corn-Flakes, Beer-can: 0.0140
+Baguette, Bagles, Honey-Crunch-Oats, Coffee: 0.0140
+Cocoa-Rice-Cereal, Milk, Honey-Crunch-Oats, White-Bread: 0.0200
+Honey-Crunch-Oats, Milk, Corn-Flakes, Croissants: 0.0120
+Cocoa-Rice-Cereal, Orange-Juice, Bagles, White-Bread: 0.0120
+Bagles, Bread, Beer-bottle, Beer-can: 0.0140
+Honey-Crunch-Oats, Hot-Dog-Buns, Corn-Flakes, Croissants: 0.0120
+Cocoa-Rice-Cereal, Milk, Oat-Meal, Croissants: 0.0120
+Bread, Bagles, Beer-can, Cereal: 0.0160
+Bagles, Corn-Flakes, Cereal, Milk-organic: 0.0120
+Cocoa-Rice-Cereal, Beer-bottle, White-Bread, Cereal: 0.0140
+Cocoa-Rice-Cereal, Milk, Granola-Bars, White-Bread: 0.0140
+Baguette, Beer-bottle, White-Bread, Croissants: 0.0160
+Soda-bottle, Honey-Crunch-Oats, Orange-Juice, Coffee: 0.0120
+Soda-bottle, White-Bread, Bagles, Coffee: 0.0120
+Baguette, White-Bread, Bagles, Honey-Crunch-Oats: 0.0140
+Granola-Bars, Bagles, Beer-can, Coffee: 0.0120
+Cocoa-Rice-Cereal, Milk, Bread, Apple-Juice: 0.0120
+Honey-Crunch-Oats, Milk, Apple-Juice, Cereal: 0.0120
+Oat-Meal, Milk, Granola-Bars, White-Bread: 0.0120
+Soda-bottle, Oat-Meal, Milk, Baguette: 0.0120
+Baguette, Milk, Honey-Crunch-Oats, Oat-Meal: 0.0120
+Bagles, Bread, Beer-bottle, Milk-organic: 0.0120
+Honey-Crunch-Oats, Milk, Granola-Bars, Oat-Meal: 0.0120
+Soda-bottle, Baguette, Bagles, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Milk, Orange-Juice, Corn-Flakes: 0.0120
+Oat-Meal, Milk, Apple-Juice, Hot-Dog-Buns: 0.0140
+Baguette, Orange-Juice, Bagles, Apple-Juice: 0.0120
+Soda-bottle, Baguette, Beer-bottle, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Bread, Corn-Flakes, Beer-can: 0.0120
+Oat-Meal, Granola-Bars, Beer-bottle, Cocoa-Rice-Cereal: 0.0120
+Croissants, Honey-Crunch-Oats, Apple-Juice, Hot-Dog-Buns: 0.0180
+Cocoa-Rice-Cereal, Beer-bottle, Apple-Juice, Baguette: 0.0180
+Bagles, Milk, Beer-bottle, Beer-can: 0.0120
+Cocoa-Rice-Cereal, Coffee, Bagles, Baguette: 0.0120
+Baguette, Granola-Bars, Bagles, Coffee: 0.0120
+Milk, Corn-Flakes, Beer-can, Cereal: 0.0120
+Oat-Meal, Milk, Granola-Bars, Apple-Juice: 0.0160
+Soda-bottle, Cocoa-Rice-Cereal, Beer-bottle, Hot-Dog-Buns: 0.0120
+Orange-Juice, Bagles, Beer-can, Cereal: 0.0120
+Cocoa-Rice-Cereal, White-Bread, Bagles, Beer-can: 0.0120
+Orange-Juice, Bagles, Apple-Juice, Hot-Dog-Buns: 0.0120
+Oat-Meal, Coffee, Milk, Hot-Dog-Buns: 0.0120
+White-Bread, Milk, Beer-bottle, Milk-organic: 0.0120
+Baguette, Bagles, Apple-Juice, Hot-Dog-Buns: 0.0160
+Baguette, Bagles, Corn-Flakes, Honey-Crunch-Oats: 0.0120
+Honey-Crunch-Oats, Corn-Flakes, Apple-Juice, Croissants: 0.0160
+Cocoa-Rice-Cereal, White-Bread, Apple-Juice, Coffee: 0.0120
+Cocoa-Rice-Cereal, Bread, Orange-Juice, Croissants: 0.0160
+Honey-Crunch-Oats, Orange-Juice, Corn-Flakes, Milk-organic: 0.0140
+Beer-can, Oat-Meal, Apple-Juice, Croissants: 0.0120
+Bagles, Milk, Orange-Juice, Beer-bottle: 0.0120
+Bagles, Orange-Juice, Beer-bottle, Cereal: 0.0160
+Cocoa-Rice-Cereal, Bread, Bagles, Beer-bottle: 0.0120
+Soda-bottle, Granola-Bars, Bagles, Coffee: 0.0120
+White-Bread, Milk-organic, Beer-can, Hot-Dog-Buns: 0.0140
+Baguette, Granola-Bars, Beer-bottle, Croissants: 0.0140
+Baguette, Bagles, Corn-Flakes, Apple-Juice: 0.0160
+Granola-Bars, Bagles, Apple-Juice, Coffee: 0.0120
+Croissants, Orange-Juice, White-Bread, Hot-Dog-Buns: 0.0120
+Baguette, Milk, Oat-Meal, Beer-can: 0.0120
+Oat-Meal, Corn-Flakes, Apple-Juice, Croissants: 0.0140
+Oat-Meal, Apple-Juice, White-Bread, Cocoa-Rice-Cereal: 0.0120
+Oat-Meal, Orange-Juice, Bagles, Coffee: 0.0140
+Honey-Crunch-Oats, Oat-Meal, White-Bread, Beer-can: 0.0120
+Baguette, Oat-Meal, Honey-Crunch-Oats, Apple-Juice: 0.0140
+Oat-Meal, Bread, Corn-Flakes, Beer-can: 0.0140
+Cocoa-Rice-Cereal, Oat-Meal, Bread, Hot-Dog-Buns: 0.0140
+Cocoa-Rice-Cereal, Corn-Flakes, Beer-bottle, Hot-Dog-Buns: 0.0120
+Oat-Meal, Milk, Beer-bottle, Apple-Juice: 0.0120
+Honey-Crunch-Oats, Orange-Juice, Corn-Flakes, Coffee: 0.0120
+Baguette, Milk, Bread, Honey-Crunch-Oats: 0.0140
+Baguette, Milk, Apple-Juice, Coffee: 0.0200
+Baguette, Orange-Juice, Beer-bottle, White-Bread: 0.0120
+Baguette, Milk, Beer-bottle, Hot-Dog-Buns: 0.0120
+Honey-Crunch-Oats, Cereal, Bread, Croissants: 0.0120
+Beer-bottle, Cocoa-Rice-Cereal, Corn-Flakes, Apple-Juice: 0.0120
+Bagles, Orange-Juice, Corn-Flakes, Beer-bottle: 0.0120
+Oat-Meal, Orange-Juice, Beer-bottle, Coffee: 0.0180
+Baguette, Milk, Orange-Juice, White-Bread: 0.0160
+Baguette, Cereal, Orange-Juice, Hot-Dog-Buns: 0.0120
+Honey-Crunch-Oats, Orange-Juice, White-Bread, Milk-organic: 0.0120
+Cocoa-Rice-Cereal, Milk, Orange-Juice, Baguette: 0.0120
+Cocoa-Rice-Cereal, Corn-Flakes, Apple-Juice, Cereal: 0.0140
+Cocoa-Rice-Cereal, Granola-Bars, White-Bread, Baguette: 0.0120
+Soda-bottle, Oat-Meal, White-Bread, Apple-Juice: 0.0120
+Soda-bottle, Oat-Meal, Granola-Bars, Hot-Dog-Buns: 0.0140
+Cocoa-Rice-Cereal, Bread, Apple-Juice, Baguette: 0.0140
+Honey-Crunch-Oats, Milk, White-Bread, Coffee: 0.0120
+Soda-bottle, Oat-Meal, Honey-Crunch-Oats, Apple-Juice: 0.0120
+Baguette, Milk, Bagles, Hot-Dog-Buns: 0.0180
+Oat-Meal, Bread, Apple-Juice, Coffee: 0.0120
+Soda-bottle, Oat-Meal, Bread, Cocoa-Rice-Cereal: 0.0120
+Honey-Crunch-Oats, Oat-Meal, Corn-Flakes, Coffee: 0.0120
+Cocoa-Rice-Cereal, Oat-Meal, Corn-Flakes, Apple-Juice: 0.0160
+Milk, Bread, Beer-can, Hot-Dog-Buns: 0.0120
+Oat-Meal, Granola-Bars, Corn-Flakes, Apple-Juice: 0.0140
+Bagles, Milk, Beer-bottle, Hot-Dog-Buns: 0.0120
+Soda-bottle, Milk, Apple-Juice, Hot-Dog-Buns: 0.0180
+Honey-Crunch-Oats, Milk, White-Bread, Apple-Juice: 0.0140
+Soda-bottle, Honey-Crunch-Oats, Milk, Granola-Bars: 0.0120
+Honey-Crunch-Oats, Coffee, Beer-bottle, Cereal: 0.0160
+Honey-Crunch-Oats, Milk, Beer-bottle, Coffee: 0.0140
+Cereal, Bread, Corn-Flakes, Croissants: 0.0120
+Cocoa-Rice-Cereal, Granola-Bars, Beer-bottle, White-Bread: 0.0160
+Cocoa-Rice-Cereal, Granola-Bars, Beer-bottle, Hot-Dog-Buns: 0.0120
+Bagles, Milk-organic, Corn-Flakes, Coffee: 0.0120
+Cocoa-Rice-Cereal, Oat-Meal, Apple-Juice, Baguette: 0.0120
+White-Bread, Milk, Orange-Juice, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Croissants, Beer-bottle, Baguette: 0.0200
+Milk, Orange-Juice, Corn-Flakes, Cereal: 0.0120
+Soda-bottle, Honey-Crunch-Oats, Bagles, Beer-can: 0.0120
+Baguette, Milk, Corn-Flakes, Apple-Juice: 0.0220
+Baguette, Milk, Corn-Flakes, Cereal: 0.0120
+Soda-bottle, Milk, Bagles, Beer-can: 0.0120
+Soda-bottle, Milk, Granola-Bars, Coffee: 0.0120
+Croissants, Honey-Crunch-Oats, White-Bread, Milk-organic: 0.0120
+Honey-Crunch-Oats, Bagles, Beer-can, Cereal: 0.0160
+Cocoa-Rice-Cereal, Bagles, Corn-Flakes, Beer-bottle: 0.0120
+Cocoa-Rice-Cereal, Honey-Crunch-Oats, Apple-Juice, Baguette: 0.0120
+Oat-Meal, Milk, Beer-bottle, Coffee: 0.0120
+Baguette, Orange-Juice, Corn-Flakes, Milk-organic: 0.0120
+Oat-Meal, Granola-Bars, Beer-bottle, Apple-Juice: 0.0120
+Bread, Beer-bottle, Beer-can, Milk-organic: 0.0120
+Croissants, Bread, Orange-Juice, Coffee: 0.0120
+Baguette, Orange-Juice, Honey-Crunch-Oats, Coffee: 0.0180
+Bagles, Milk, Corn-Flakes, Apple-Juice: 0.0120
+Soda-bottle, Honey-Crunch-Oats, Orange-Juice, Croissants: 0.0120
+Oat-Meal, Bread, Bagles, Hot-Dog-Buns: 0.0140
+Honey-Crunch-Oats, Oat-Meal, Orange-Juice, Beer-bottle: 0.0180
+Baguette, Milk, Bread, Hot-Dog-Buns: 0.0120
+Baguette, Orange-Juice, Corn-Flakes, Apple-Juice: 0.0140
+Soda-bottle, Oat-Meal, Bagles, Hot-Dog-Buns: 0.0120
+Orange-Juice, Bagles, Apple-Juice, Coffee: 0.0140
+Soda-bottle, White-Bread, Milk, Granola-Bars: 0.0140
+Soda-bottle, Cocoa-Rice-Cereal, Bagles, Baguette: 0.0200
+Soda-bottle, Oat-Meal, Granola-Bars, Bagles: 0.0120
+Cocoa-Rice-Cereal, Milk, Oat-Meal, Beer-can: 0.0120
+Cocoa-Rice-Cereal, Bread, Granola-Bars, Honey-Crunch-Oats: 0.0120
+Cocoa-Rice-Cereal, Milk, Corn-Flakes, Oat-Meal: 0.0140
+Cereal, Corn-Flakes, Apple-Juice, Croissants: 0.0140
+Soda-bottle, Cocoa-Rice-Cereal, Granola-Bars, Coffee: 0.0120
+Honey-Crunch-Oats, Beer-bottle, Apple-Juice, Coffee: 0.0140
+Oat-Meal, Orange-Juice, White-Bread, Croissants: 0.0140
+Croissants, Beer-can, Apple-Juice, Hot-Dog-Buns: 0.0120
+Soda-bottle, Baguette, Corn-Flakes, Croissants: 0.0120
+Croissants, Milk, Orange-Juice, Milk-organic: 0.0120
+Cocoa-Rice-Cereal, Honey-Crunch-Oats, White-Bread, Coffee: 0.0160
+Granola-Bars, Bagles, Apple-Juice, Hot-Dog-Buns: 0.0120
+Honey-Crunch-Oats, Orange-Juice, Apple-Juice, Coffee: 0.0120
+Oat-Meal, Corn-Flakes, Apple-Juice, Coffee: 0.0180
+White-Bread, Coffee, Apple-Juice, Hot-Dog-Buns: 0.0120
+Honey-Crunch-Oats, Granola-Bars, Bagles, White-Bread: 0.0120
+Cocoa-Rice-Cereal, Corn-Flakes, Honey-Crunch-Oats, Baguette: 0.0140
+Baguette, Oat-Meal, Bagles, Coffee: 0.0160
+Baguette, Milk, Orange-Juice, Cereal: 0.0120
+Soda-bottle, Milk, Bread, Granola-Bars: 0.0120
+Honey-Crunch-Oats, Milk, Granola-Bars, Coffee: 0.0120
+Coffee, Milk, Apple-Juice, Hot-Dog-Buns: 0.0160
+Oat-Meal, White-Bread, Beer-can, Cereal: 0.0180
+Oat-Meal, Orange-Juice, Bagles, Hot-Dog-Buns: 0.0120
+White-Bread, Orange-Juice, Corn-Flakes, Apple-Juice: 0.0140
+Baguette, Milk, Orange-Juice, Hot-Dog-Buns: 0.0140
+White-Bread, Milk-organic, Beer-bottle, Hot-Dog-Buns: 0.0120
+Milk-organic, Orange-Juice, Cereal, Hot-Dog-Buns: 0.0140
+Baguette, Milk, Orange-Juice, Coffee: 0.0120
+Apple-Juice, Corn-Flakes, Beer-bottle, Hot-Dog-Buns: 0.0120
+Honey-Crunch-Oats, Orange-Juice, Beer-can, Croissants: 0.0120
+White-Bread, Corn-Flakes, Apple-Juice, Cereal: 0.0120
+Granola-Bars, Beer-bottle, Apple-Juice, Coffee: 0.0120
+Oat-Meal, Bagles, Beer-can, Hot-Dog-Buns: 0.0120
+Baguette, Milk, Honey-Crunch-Oats, Coffee: 0.0120
+Beer-bottle, Cocoa-Rice-Cereal, Bagles, Apple-Juice: 0.0120
+Bread, Beer-bottle, Apple-Juice, Coffee: 0.0120
+Soda-bottle, Cocoa-Rice-Cereal, Apple-Juice, Baguette: 0.0120
+Baguette, Orange-Juice, Corn-Flakes, Cereal: 0.0120
+Honey-Crunch-Oats, Oat-Meal, Bread, Granola-Bars: 0.0120
+Oat-Meal, Bagles, Apple-Juice, Coffee: 0.0200
+Cocoa-Rice-Cereal, Corn-Flakes, Apple-Juice, Hot-Dog-Buns: 0.0140
+Oat-Meal, Granola-Bars, Apple-Juice, Coffee: 0.0140
+Soda-bottle, Baguette, Bagles, Beer-can: 0.0120
+Bagles, Corn-Flakes, Apple-Juice, Hot-Dog-Buns: 0.0140
+Cocoa-Rice-Cereal, Corn-Flakes, Beer-can, Cereal: 0.0140
+Honey-Crunch-Oats, Oat-Meal, Bagles, Beer-can: 0.0140
+Baguette, Corn-Flakes, Beer-bottle, Cereal: 0.0120
+Honey-Crunch-Oats, Orange-Juice, Corn-Flakes, Beer-bottle: 0.0120
+Cocoa-Rice-Cereal, Milk, Bread, Coffee: 0.0140
+Cocoa-Rice-Cereal, Milk, Beer-bottle, Apple-Juice: 0.0140
+Bagles, Milk, Beer-bottle, Cereal: 0.0120
+White-Bread, Corn-Flakes, Apple-Juice, Croissants: 0.0120
+Granola-Bars, Orange-Juice, Beer-bottle, Coffee: 0.0140
+Baguette, Milk, Corn-Flakes, Hot-Dog-Buns: 0.0160
+Honey-Crunch-Oats, Granola-Bars, Beer-bottle, White-Bread: 0.0140
+Soda-bottle, Milk, Bread, Orange-Juice: 0.0120
+Baguette, Milk, Corn-Flakes, Coffee: 0.0120
+Milk, Orange-Juice, Corn-Flakes, Apple-Juice: 0.0120
+Honey-Crunch-Oats, Orange-Juice, Bagles, White-Bread: 0.0140
+Oat-Meal, Bagles, Corn-Flakes, Coffee: 0.0160
+Honey-Crunch-Oats, Bread, Beer-can, Cereal: 0.0140
+Baguette, Oat-Meal, Orange-Juice, Corn-Flakes: 0.0140
+Cocoa-Rice-Cereal, Milk, White-Bread, Baguette: 0.0160
+White-Bread, Granola-Bars, Beer-bottle, Croissants: 0.0120
+Croissants, Orange-Juice, Bagles, Milk-organic: 0.0120
+Cocoa-Rice-Cereal, Bagles, Oat-Meal, Corn-Flakes: 0.0120
+Honey-Crunch-Oats, Cereal, Orange-Juice, Baguette: 0.0120
+Milk, Bagles, Apple-Juice, Hot-Dog-Buns: 0.0180
+Oat-Meal, Milk, White-Bread, Coffee: 0.0120
+Honey-Crunch-Oats, Oat-Meal, Bagles, Cereal: 0.0140
+Baguette, Granola-Bars, Bagles, White-Bread: 0.0120
+Cocoa-Rice-Cereal, Oat-Meal, Bread, Bagles: 0.0120
+Cocoa-Rice-Cereal, Milk, Bread, Croissants: 0.0120
+Honey-Crunch-Oats, Oat-Meal, Beer-bottle, Cereal: 0.0120
+Cocoa-Rice-Cereal, Milk, Beer-can, Milk-organic: 0.0120
+Cocoa-Rice-Cereal, Milk, Beer-bottle, Baguette: 0.0160
+Cereal, Milk, Orange-Juice, Milk-organic: 0.0120
+Baguette, Coffee, Beer-bottle, Cereal: 0.0120
+Oat-Meal, Bread, Bagles, Coffee: 0.0120
+Oat-Meal, Bread, White-Bread, Cocoa-Rice-Cereal: 0.0120
+Soda-bottle, Cocoa-Rice-Cereal, Beer-bottle, Croissants: 0.0120
+Honey-Crunch-Oats, Oat-Meal, Orange-Juice, Bagles: 0.0140
+Oat-Meal, Beer-can, White-Bread, Cocoa-Rice-Cereal: 0.0120
+Baguette, Orange-Juice, Bagles, Cereal: 0.0140
+Soda-bottle, Oat-Meal, Orange-Juice, White-Bread: 0.0140
+Oat-Meal, Milk, Bagles, Coffee: 0.0140
+Cereal, Orange-Juice, Bagles, Hot-Dog-Buns: 0.0140
+Bread, Corn-Flakes, Apple-Juice, Coffee: 0.0140
+Croissants, Coffee, Cereal, Milk-organic: 0.0140
+Baguette, Orange-Juice, Beer-bottle, Apple-Juice: 0.0140
+Soda-bottle, Cocoa-Rice-Cereal, White-Bread, Coffee: 0.0120
+Soda-bottle, Granola-Bars, Bagles, Beer-can: 0.0140
+Honey-Crunch-Oats, Granola-Bars, Beer-bottle, Coffee: 0.0180
+Baguette, Oat-Meal, Orange-Juice, Croissants: 0.0140
+Croissants, Corn-Flakes, Apple-Juice, Coffee: 0.0140
+Hot-Dog-Buns, Corn-Flakes, Apple-Juice, Croissants: 0.0140
+Milk, Beer-bottle, Apple-Juice, Coffee: 0.0160
+Honey-Crunch-Oats, Oat-Meal, Granola-Bars, Corn-Flakes: 0.0140
+Honey-Crunch-Oats, Beer-can, Apple-Juice, Cereal: 0.0140
+Oat-Meal, Granola-Bars, Beer-bottle, Coffee: 0.0120
+Baguette, Milk, Bread, Oat-Meal: 0.0140
+Oat-Meal, Corn-Flakes, White-Bread, Cereal: 0.0120
+Soda-bottle, White-Bread, Beer-bottle, Coffee: 0.0120
+Soda-bottle, Honey-Crunch-Oats, Milk, Croissants: 0.0120
+Baguette, Milk, Beer-bottle, Honey-Crunch-Oats: 0.0180
+Baguette, Bagles, Milk, Corn-Flakes: 0.0200
+Honey-Crunch-Oats, Beer-can, Apple-Juice, Hot-Dog-Buns: 0.0140
+Milk, Bagles, Beer-can, Cereal: 0.0120
+Cocoa-Rice-Cereal, Oat-Meal, Bread, Corn-Flakes: 0.0160
+Granola-Bars, Oat-Meal, Orange-Juice, Bagles: 0.0120
+White-Bread, Corn-Flakes, Apple-Juice, Hot-Dog-Buns: 0.0120
+Baguette, Honey-Crunch-Oats, White-Bread, Coffee: 0.0120
+Oat-Meal, Corn-Flakes, Apple-Juice, Cereal: 0.0180
+Soda-bottle, Honey-Crunch-Oats, Granola-Bars, Beer-can: 0.0160
+Honey-Crunch-Oats, Orange-Juice, Corn-Flakes, Apple-Juice: 0.0140
+Oat-Meal, White-Bread, Apple-Juice, Coffee: 0.0140
+Soda-bottle, Honey-Crunch-Oats, Beer-can, Hot-Dog-Buns: 0.0120
+Baguette, Corn-Flakes, Apple-Juice, Honey-Crunch-Oats: 0.0140
+Oat-Meal, White-Bread, Bagles, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Corn-Flakes, Beer-can, Baguette: 0.0120
+Croissants, Granola-Bars, Honey-Crunch-Oats, Coffee: 0.0120
+Honey-Crunch-Oats, Cereal, Oat-Meal, Coffee: 0.0140
+Croissants, Bread, Beer-bottle, Milk-organic: 0.0120
+Soda-bottle, Oat-Meal, Milk, Bagles: 0.0120
+Cocoa-Rice-Cereal, Milk, Honey-Crunch-Oats, Oat-Meal: 0.0120
+Coffee, Granola-Bars, Beer-bottle, Milk-organic: 0.0120
+Baguette, Bagles, Beer-bottle, Hot-Dog-Buns: 0.0140
+Soda-bottle, Baguette, Apple-Juice, Hot-Dog-Buns: 0.0140
+Cocoa-Rice-Cereal, White-Bread, Corn-Flakes, Beer-can: 0.0140
+Baguette, Bread, Beer-bottle, Apple-Juice: 0.0140
+White-Bread, Milk, Beer-can, Milk-organic: 0.0120
+Baguette, Beer-bottle, Honey-Crunch-Oats, Coffee: 0.0160
+Soda-bottle, Cocoa-Rice-Cereal, Bread, Milk-organic: 0.0120
+Cocoa-Rice-Cereal, Coffee, Orange-Juice, Croissants: 0.0120
+Oat-Meal, Milk, White-Bread, Apple-Juice: 0.0140
+Honey-Crunch-Oats, Cereal, Bagles, Milk-organic: 0.0120
+Cocoa-Rice-Cereal, Beer-bottle, White-Bread, Milk-organic: 0.0140
+Cocoa-Rice-Cereal, Bread, Corn-Flakes, Croissants: 0.0120
+Beer-can, Orange-Juice, Bagles, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Orange-Juice, Corn-Flakes, White-Bread: 0.0120
+Bagles, Corn-Flakes, Apple-Juice, Coffee: 0.0160
+Soda-bottle, Oat-Meal, Milk, Honey-Crunch-Oats: 0.0120
+Baguette, Orange-Juice, Bagles, White-Bread: 0.0140
+Cocoa-Rice-Cereal, White-Bread, Beer-can, Hot-Dog-Buns: 0.0120
+Baguette, Bread, Corn-Flakes, Apple-Juice: 0.0120
+Oat-Meal, Orange-Juice, Corn-Flakes, White-Bread: 0.0140
+Soda-bottle, Orange-Juice, Apple-Juice, Hot-Dog-Buns: 0.0160
+Cocoa-Rice-Cereal, Milk, Granola-Bars, Beer-bottle: 0.0140
+Oat-Meal, Cereal, Corn-Flakes, Coffee: 0.0120
+Baguette, Corn-Flakes, Beer-bottle, Hot-Dog-Buns: 0.0120
+Oat-Meal, Bagles, Apple-Juice, Croissants: 0.0120
+Baguette, Oat-Meal, Beer-bottle, Coffee: 0.0140
+Soda-bottle, Honey-Crunch-Oats, Apple-Juice, Hot-Dog-Buns: 0.0160
+Apple-Juice, Milk, Corn-Flakes, Beer-bottle: 0.0140
+Honey-Crunch-Oats, Milk, Apple-Juice, Croissants: 0.0120
+Cocoa-Rice-Cereal, Baguette, Beer-bottle, Hot-Dog-Buns: 0.0120
+Honey-Crunch-Oats, Bagles, Corn-Flakes, Milk-organic: 0.0140
+Soda-bottle, Honey-Crunch-Oats, Apple-Juice, Coffee: 0.0120
+Cocoa-Rice-Cereal, Bagles, Beer-bottle, Baguette: 0.0120
+Croissants, Bread, Orange-Juice, Milk-organic: 0.0120
+Soda-bottle, Baguette, Beer-bottle, Croissants: 0.0120
+Soda-bottle, Cocoa-Rice-Cereal, Milk, Granola-Bars: 0.0120
+Soda-bottle, Oat-Meal, Bagles, White-Bread: 0.0120
+Soda-bottle, Cocoa-Rice-Cereal, Milk, Bagles: 0.0140
+Baguette, Orange-Juice, Apple-Juice, Honey-Crunch-Oats: 0.0120
+Oat-Meal, Beer-can, White-Bread, Apple-Juice: 0.0160
+Baguette, Oat-Meal, Bread, Bagles: 0.0140
+Cocoa-Rice-Cereal, Milk, Beer-bottle, Milk-organic: 0.0120
+Milk, Orange-Juice, Beer-bottle, Apple-Juice: 0.0120
+Honey-Crunch-Oats, Apple-Juice, Oat-Meal, Beer-can: 0.0140
+Cocoa-Rice-Cereal, Bread, Corn-Flakes, White-Bread: 0.0140
+Cocoa-Rice-Cereal, Bread, Granola-Bars, Corn-Flakes: 0.0120
+Honey-Crunch-Oats, Milk, Corn-Flakes, Beer-bottle: 0.0120
+Honey-Crunch-Oats, Oat-Meal, Bread, Apple-Juice: 0.0160
+Soda-bottle, Honey-Crunch-Oats, Oat-Meal, Beer-can: 0.0140
+Beer-bottle, Cocoa-Rice-Cereal, Corn-Flakes, Honey-Crunch-Oats: 0.0120
+Baguette, Croissants, Orange-Juice, Milk-organic: 0.0140
+Soda-bottle, Corn-Flakes, Apple-Juice, Hot-Dog-Buns: 0.0120
+Honey-Crunch-Oats, Milk, Corn-Flakes, White-Bread: 0.0140
+Cocoa-Rice-Cereal, Milk, Corn-Flakes, Honey-Crunch-Oats: 0.0160
+Honey-Crunch-Oats, White-Bread, Beer-can, Cereal: 0.0120
+Cocoa-Rice-Cereal, Coffee, Beer-bottle, Croissants: 0.0120
+Granola-Bars, Orange-Juice, Apple-Juice, Coffee: 0.0120
+Soda-bottle, Oat-Meal, Bread, Bagles: 0.0120
+Baguette, Milk, Honey-Crunch-Oats, Apple-Juice: 0.0200
+Soda-bottle, Oat-Meal, Granola-Bars, Beer-can: 0.0140
+Beer-can, Orange-Juice, Apple-Juice, Hot-Dog-Buns: 0.0120
+Honey-Crunch-Oats, Oat-Meal, Bagles, Coffee: 0.0120
+Baguette, Milk, Bread, Coffee: 0.0160
+Baguette, Oat-Meal, Corn-Flakes, Honey-Crunch-Oats: 0.0140
+Oat-Meal, Bread, Bagles, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Granola-Bars, Beer-bottle, Apple-Juice: 0.0120
+Baguette, Oat-Meal, Apple-Juice, Coffee: 0.0180
+Soda-bottle, Cocoa-Rice-Cereal, Bread, Beer-bottle: 0.0140
+White-Bread, Corn-Flakes, Beer-can, Milk-organic: 0.0120
+Oat-Meal, Granola-Bars, Orange-Juice, Croissants: 0.0120
+Honey-Crunch-Oats, Granola-Bars, Beer-bottle, Cereal: 0.0120
+Honey-Crunch-Oats, Milk, Beer-bottle, White-Bread: 0.0140
+Honey-Crunch-Oats, Beer-bottle, Cocoa-Rice-Cereal, Cereal: 0.0120
+White-Bread, Bagles, Orange-Juice, Croissants: 0.0140
+Baguette, Beer-bottle, Beer-can, Croissants: 0.0120
+Cocoa-Rice-Cereal, Milk, Bread, Granola-Bars: 0.0140
+Bagles, Bread, Orange-Juice, Beer-bottle: 0.0120
+Cocoa-Rice-Cereal, Milk-organic, White-Bread, Hot-Dog-Buns: 0.0120
+Soda-bottle, Bread, Beer-bottle, Milk-organic: 0.0120
+Soda-bottle, Honey-Crunch-Oats, Granola-Bars, Coffee: 0.0160
+Soda-bottle, Milk, Bread, Coffee: 0.0160
+Soda-bottle, White-Bread, Granola-Bars, Orange-Juice: 0.0180
+Honey-Crunch-Oats, Cereal, Corn-Flakes, Baguette: 0.0120
+Oat-Meal, Bread, Granola-Bars, Corn-Flakes: 0.0120
+Beer-can, Bread, Apple-Juice, Cereal: 0.0140
+Milk, Granola-Bars, Apple-Juice, Hot-Dog-Buns: 0.0120
+Milk, Bread, Corn-Flakes, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Orange-Juice, Corn-Flakes, Apple-Juice: 0.0120
+Baguette, Oat-Meal, Orange-Juice, Beer-bottle: 0.0160
+Cocoa-Rice-Cereal, Granola-Bars, Beer-bottle, Baguette: 0.0120
+Oat-Meal, White-Bread, Cocoa-Rice-Cereal, Croissants: 0.0120
+Honey-Crunch-Oats, Oat-Meal, Granola-Bars, Beer-bottle: 0.0180
+White-Bread, Orange-Juice, Corn-Flakes, Beer-bottle: 0.0120
+Croissants, Orange-Juice, Honey-Crunch-Oats, Coffee: 0.0120
+Soda-bottle, Honey-Crunch-Oats, Milk, Beer-bottle: 0.0120
+Oat-Meal, Milk, Bread, Apple-Juice: 0.0140
+Honey-Crunch-Oats, Oat-Meal, Beer-can, Cereal: 0.0160
+Honey-Crunch-Oats, Granola-Bars, Corn-Flakes, Apple-Juice: 0.0140
+Beer-can, Corn-Flakes, Apple-Juice, Cereal: 0.0160
+Bagles, Orange-Juice, Corn-Flakes, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Milk, Bagles, Beer-bottle: 0.0140
+Honey-Crunch-Oats, Cereal, Beer-bottle, Croissants: 0.0120
+Cocoa-Rice-Cereal, Baguette, Apple-Juice, Hot-Dog-Buns: 0.0160
+Cocoa-Rice-Cereal, Bread, Corn-Flakes, Apple-Juice: 0.0140
+Baguette, Orange-Juice, Corn-Flakes, Honey-Crunch-Oats: 0.0140
+Honey-Crunch-Oats, Oat-Meal, Granola-Bars, Beer-can: 0.0140
+Cocoa-Rice-Cereal, Corn-Flakes, Apple-Juice, Coffee: 0.0140
+Honey-Crunch-Oats, Corn-Flakes, Apple-Juice, Cereal: 0.0180
+Oat-Meal, Milk, Beer-can, Hot-Dog-Buns: 0.0120
+Baguette, Oat-Meal, Orange-Juice, Honey-Crunch-Oats: 0.0160
+Soda-bottle, Cocoa-Rice-Cereal, Baguette, Hot-Dog-Buns: 0.0120
+Cocoa-Rice-Cereal, Beer-can, Corn-Flakes, Apple-Juice: 0.0120
+White-Bread, Granola-Bars, Orange-Juice, Coffee: 0.0140
+Soda-bottle, Milk, Orange-Juice, Coffee: 0.0140
+Baguette, Milk, Oat-Meal, Coffee: 0.0220
+Soda-bottle, White-Bread, Granola-Bars, Coffee: 0.0160
+Cocoa-Rice-Cereal, Beer-bottle, White-Bread, Coffee: 0.0120
+Hot-Dog-Buns, Orange-Juice, Corn-Flakes, Croissants: 0.0180
+Bagles, Orange-Juice, Beer-bottle, Beer-can: 0.0120
+Bread, Orange-Juice, Bagles, Hot-Dog-Buns: 0.0140
+Milk, Orange-Juice, Bagles, Cereal: 0.0120
+Soda-bottle, Milk, Bagles, Hot-Dog-Buns: 0.0140
+Baguette, Orange-Juice, Bagles, Beer-can: 0.0120
+Soda-bottle, Oat-Meal, Granola-Bars, White-Bread: 0.0140
+White-Bread, Orange-Juice, Apple-Juice, Hot-Dog-Buns: 0.0120
+Soda-bottle, Cocoa-Rice-Cereal, Honey-Crunch-Oats, Coffee: 0.0120
+White-Bread, Orange-Juice, Bagles, Apple-Juice: 0.0120
+Baguette, Milk, Beer-bottle, Apple-Juice: 0.0200
+Milk-organic, Corn-Flakes, Apple-Juice, Coffee: 0.0140
+Soda-bottle, Cocoa-Rice-Cereal, Bread, Croissants: 0.0120
+White-Bread, Milk, Beer-bottle, Beer-can: 0.0120
+Cocoa-Rice-Cereal, Milk, Corn-Flakes, Beer-bottle: 0.0160
+Baguette, Beer-bottle, Apple-Juice, Coffee: 0.0140
+Honey-Crunch-Oats, Orange-Juice, Corn-Flakes, Beer-can: 0.0120
+Cocoa-Rice-Cereal, Milk, Corn-Flakes, Cereal: 0.0120
+White-Bread, Bread, Beer-bottle, Milk-organic: 0.0120
+Honey-Crunch-Oats, Oat-Meal, Bread, Coffee: 0.0120
+Bread, Corn-Flakes, Beer-can, Cereal: 0.0140
+Honey-Crunch-Oats, Milk, Corn-Flakes, Apple-Juice: 0.0160
+Oat-Meal, Bread, Beer-can, Cereal: 0.0180
+Bread, Granola-Bars, Corn-Flakes, Apple-Juice: 0.0120
+Soda-bottle, Oat-Meal, Orange-Juice, Baguette: 0.0120
+Bagles, Beer-bottle, Beer-can, Cereal: 0.0180
+Baguette, Bagles, Corn-Flakes, Milk-organic: 0.0140
+Baguette, Oat-Meal, Orange-Juice, Coffee: 0.0140
+Honey-Crunch-Oats, Corn-Flakes, Apple-Juice, Milk-organic: 0.0140
+Honey-Crunch-Oats, Granola-Bars, Beer-bottle, Apple-Juice: 0.0120
+Milk, Bagles, Beer-can, Hot-Dog-Buns: 0.0120
+White-Bread, Bagles, Beer-can, Cereal: 0.0160
+Baguette, Oat-Meal, Honey-Crunch-Oats, Coffee: 0.0140
+Baguette, Oat-Meal, Bread, Apple-Juice: 0.0160
+Milk, Orange-Juice, Corn-Flakes, Croissants: 0.0120
+Oat-Meal, Bagles, Orange-Juice, Corn-Flakes: 0.0140
+Milk, Granola-Bars, Apple-Juice, Coffee: 0.0120
+Cocoa-Rice-Cereal, Milk, Apple-Juice, Hot-Dog-Buns: 0.0140
+Oat-Meal, Granola-Bars, Orange-Juice, Coffee: 0.0120
+Beer-can, Milk, Bread, Apple-Juice: 0.0140
+Beer-can, White-Bread, Corn-Flakes, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Milk, Bagles, Apple-Juice: 0.0120
+White-Bread, Milk, Orange-Juice, Coffee: 0.0120
+Cocoa-Rice-Cereal, Oat-Meal, Corn-Flakes, Coffee: 0.0120
+Baguette, Milk, Apple-Juice, Hot-Dog-Buns: 0.0180
+Baguette, Granola-Bars, Honey-Crunch-Oats, Apple-Juice: 0.0120
+Cocoa-Rice-Cereal, Bagles, Beer-bottle, Milk-organic: 0.0120
+Croissants, Orange-Juice, Beer-bottle, Hot-Dog-Buns: 0.0120
+Cocoa-Rice-Cereal, Oat-Meal, Honey-Crunch-Oats, Apple-Juice: 0.0120
+Oat-Meal, Milk, Bagles, Apple-Juice: 0.0120
+Orange-Juice, Corn-Flakes, Beer-bottle, Hot-Dog-Buns: 0.0120
+Croissants, Orange-Juice, Honey-Crunch-Oats, Hot-Dog-Buns: 0.0140
+Honey-Crunch-Oats, Milk, White-Bread, Croissants: 0.0120
+Croissants, Milk, Orange-Juice, Coffee: 0.0120
+Coffee, Granola-Bars, Orange-Juice, Milk-organic: 0.0120
+Baguette, Apple-Juice, Corn-Flakes, Beer-bottle: 0.0160
+Honey-Crunch-Oats, Oat-Meal, Orange-Juice, Coffee: 0.0180
+Cereal, Coffee, Beer-bottle, Croissants: 0.0140
+Oat-Meal, Granola-Bars, Orange-Juice, Apple-Juice: 0.0120
+Soda-bottle, Baguette, Bagles, Hot-Dog-Buns: 0.0140
+Oat-Meal, White-Bread, Cocoa-Rice-Cereal, Baguette: 0.0120
+Cocoa-Rice-Cereal, Milk, Bread, Oat-Meal: 0.0140
+Oat-Meal, Orange-Juice, White-Bread, Hot-Dog-Buns: 0.0120
+Beer-can, White-Bread, Apple-Juice, Cereal: 0.0160
+Bread, Orange-Juice, Beer-can, Cereal: 0.0120
+Coffee, Granola-Bars, Beer-bottle, Croissants: 0.0120
+Bread, Orange-Juice, Bagles, Cereal: 0.0120
+Honey-Crunch-Oats, Oat-Meal, Apple-Juice, Cereal: 0.0160
+Soda-bottle, Baguette, Bagles, Coffee: 0.0140
+Oat-Meal, Milk, Bread, Corn-Flakes: 0.0120
+Cocoa-Rice-Cereal, Oat-Meal, Bread, Croissants: 0.0120
+Baguette, Corn-Flakes, Beer-bottle, Honey-Crunch-Oats: 0.0120
+Honey-Crunch-Oats, Bagles, Beer-can, Hot-Dog-Buns: 0.0120
+Honey-Crunch-Oats, Milk, Beer-bottle, Cereal: 0.0120
+Soda-bottle, Hot-Dog-Buns, Corn-Flakes, Croissants: 0.0120
+Beer-can, Corn-Flakes, Apple-Juice, Croissants: 0.0140
+Honey-Crunch-Oats, Oat-Meal, Orange-Juice, Milk-organic: 0.0120
+Oat-Meal, Bagles, Orange-Juice, Croissants: 0.0120
+Cocoa-Rice-Cereal, Milk, Oat-Meal, Baguette: 0.0140
+Soda-bottle, Cocoa-Rice-Cereal, Bagles, Hot-Dog-Buns: 0.0140
+Orange-Juice, Corn-Flakes, Apple-Juice, Croissants: 0.0140
+Soda-bottle, Milk, Bread, Apple-Juice: 0.0140
+Oat-Meal, Corn-Flakes, Beer-can, Cereal: 0.0180
+Soda-bottle, White-Bread, Granola-Bars, Beer-can: 0.0120
+Croissants, Milk-organic, Orange-Juice, Hot-Dog-Buns: 0.0120
+White-Bread, Milk, Corn-Flakes, Beer-can: 0.0120
+Soda-bottle, Bread, Apple-Juice, Hot-Dog-Buns: 0.0120
+Cocoa-Rice-Cereal, White-Bread, Corn-Flakes, Honey-Crunch-Oats: 0.0160
+Soda-bottle, Oat-Meal, Milk, Coffee: 0.0120
+Honey-Crunch-Oats, Bagles, Corn-Flakes, Apple-Juice: 0.0160
+Honey-Crunch-Oats, Milk, Oat-Meal, Beer-can: 0.0120
+Milk, Apple-Juice, Baguette, Corn-Flakes, Beer-bottle: 0.0120
+Milk, Apple-Juice, Baguette, Corn-Flakes, Oat-Meal: 0.0120
+Bread, Apple-Juice, Corn-Flakes, Beer-can, Oat-Meal: 0.0120
+Honey-Crunch-Oats, Milk, Apple-Juice, Beer-bottle, Coffee: 0.0120
+Apple-Juice, Corn-Flakes, Beer-can, Cereal, Oat-Meal: 0.0140
+Hot-Dog-Buns, Milk, Apple-Juice, Baguette, Corn-Flakes: 0.0120
+Honey-Crunch-Oats, Baguette, Beer-bottle, Oat-Meal, Orange-Juice: 0.0120
+Cocoa-Rice-Cereal, White-Bread, Milk, Apple-Juice, Corn-Flakes: 0.0120
+Apple-Juice, Baguette, Corn-Flakes, Coffee, Oat-Meal: 0.0120
+Honey-Crunch-Oats, Milk, Apple-Juice, Baguette, Beer-bottle: 0.0120
+Cocoa-Rice-Cereal, White-Bread, Milk, Corn-Flakes, Cereal: 0.0120
+Bagles, Milk, Baguette, Corn-Flakes, Oat-Meal: 0.0120
+Honey-Crunch-Oats, Milk, Apple-Juice, Baguette, Coffee: 0.0120
+Bread, Milk, Baguette, Coffee, Oat-Meal: 0.0120
+Cocoa-Rice-Cereal, White-Bread, Milk, Granola-Bars, Beer-bottle: 0.0120
+Honey-Crunch-Oats, Granola-Bars, Beer-bottle, Coffee, Oat-Meal: 0.0120
+Soda-bottle, White-Bread, Honey-Crunch-Oats, Granola-Bars, Coffee: 0.0120
+White-Bread, Cocoa-Rice-Cereal, Milk, Baguette, Beer-bottle: 0.0120
+Bread, Bagles, Hot-Dog-Buns, Baguette, Oat-Meal: 0.0120
+Milk, Baguette, Corn-Flakes, Coffee, Oat-Meal: 0.0120
+White-Bread, Milk, Corn-Flakes, Beer-can, Cereal: 0.0120
+Bagles, Milk, Apple-Juice, Baguette, Corn-Flakes: 0.0120
+Honey-Crunch-Oats, Apple-Juice, Corn-Flakes, Cereal, Oat-Meal: 0.0120
+Bread, Milk, Apple-Juice, Baguette, Coffee: 0.0120
+Hot-Dog-Buns, Apple-Juice, Corn-Flakes, Croissants, Orange-Juice: 0.0120
+Milk, Apple-Juice, Baguette, Coffee, Oat-Meal: 0.0160
+Cocoa-Rice-Cereal, Milk, Apple-Juice, Baguette, Corn-Flakes: 0.0120
+Bagles, Apple-Juice, Corn-Flakes, Coffee, Oat-Meal: 0.0120
+Bread, Honey-Crunch-Oats, Beer-can, Cereal, Oat-Meal: 0.0120
+Bagles, Apple-Juice, Coffee, Oat-Meal, Orange-Juice: 0.0120
+White-Bread, Corn-Flakes, Beer-can, Cereal, Oat-Meal: 0.0120
+Honey-Crunch-Oats, Beer-bottle, Coffee, Oat-Meal, Orange-Juice: 0.0140
+Bagles, Milk, Baguette, Coffee, Oat-Meal: 0.0120
+White-Bread, Honey-Crunch-Oats, Granola-Bars, Beer-bottle, Coffee: 0.0120
+Bagles, Honey-Crunch-Oats, Baguette, Coffee, Orange-Juice: 0.0120
+Bagles, Baguette, Corn-Flakes, Coffee, Oat-Meal: 0.0120
+Bagles, Hot-Dog-Buns, Milk, Baguette, Corn-Flakes: 0.0140

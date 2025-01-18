@@ -1,0 +1,751 @@
+T T1 T2 T3 T4 T5 T6 T7 T8 T9 T10 T11 T12 T13 T14 T15
+r Mustard Oat-Meal White-Bread            
+r Cocoa-Rice-Cereal              
+r Milk Mustard White-Bread            
+r Honey              
+r Salt Rice Honey-Crunch-Oats Croissants           
+r Syrup Flour Oil Honey-Crunch-Oats Tomato-Sauce Pepper Water-regular Water-Sparkling Cheery-Pie-Filling Sugar     
+r Cereal              
+r Pepper Bagles Mayonnaise Soda-can Apple-Sauce Baguette Salt Beer-bottle Chips Cereal Tomato-Paste    
+r Hot-Dog-Buns Corn-Flakes Spaghetti-Sauce Honey-Crunch-Oats Flour Bread Tomato-Paste Croissants Milk-Chocolate-Bar      
+r Milk-Chocolate-Bar Apple-Sauce Oil            
+r Cheery-Pie-Filling Apple-Sauce Coffee Mustard Pretzels Nutella Corn-Flakes Soda-bottle       
+r Mustard Baguette Coconut-Milk White-Bread           
+r Orange-Juice              
+r Flour Orange-Juice Rice Milk-Chocolate-Bar Ketchup Apple-Juice         
+r Chips Oil Bread Rice Ketchup Corn-Flakes Granola-Bars Water-Sparkling Mandarin-Oranges Salt Pasta Chicken-Noodle-Soup Milk-Chocolate-Bar Nutella Bagles
+r Baguette Coconut-Milk Soup Oat-Meal Ketchup Oil         
+r Cereal Sugar Pasta Peanuts Salad-Dressing Salsa Orange-Juice Milk-organic Cocoa-Rice-Cereal Bagles Coffee Croissants Apple-Juice White-Bread Preserves
+r Pretzels Bagles Ketchup Honey Milk Coffee Apple-Juice Milk-organic Cocoa-Rice-Cereal      
+r Flour Croissants             
+r Soup              
+r Oil Spaghetti-Sauce Orange-Juice Sugar           
+r Pretzels Tomato-Sauce Coconut-Milk Bread-Crumbs Rice Barbeque-Sauce Cheery-Pie-Filling Ketchup       
+r Salsa Mayonnaise Mushrooms Coffee Syrup Bagles Cocoa-Rice-Cereal Coconut-Milk       
+r Cocoa-Rice-Cereal Oil Oat-Meal Ketchup Pepper Hot-Dog-Buns Pasta        
+r Salsa Granola-Bars             
+r Soda-can Coffee             
+r Milk Granola-Bars Tea-green Bagles Cheery-Pie-Filling          
+r Apple-Sauce Mustard Tomato-Paste Oil           
+r Croissants              
+r Flour Syrup Salsa Water-Sparkling Milk-organic          
+r Mustard Syrup Chicken-Noodle-Soup            
+r Soda-bottle Preserves Coffee Mushrooms Chicken-Noodle-Soup Salad-Dressing Water-regular Granola-Bars       
+r Salsa Cereal             
+r Cheery-Pie-Filling Honey-Crunch-Oats Coconut-Milk            
+r Cheery-Pie-Filling Wine Pretzels Mustard           
+r Corn-Flakes Pretzels Mustard Soda-can Rice          
+r Salt              
+r Soup Honey             
+r Spaghetti-Sauce Oil Coconut-Milk Baguette           
+r Honey-Crunch-Oats Bread             
+r Pretzels Milk Cereal Peanuts Soup Oat-Meal Spaghetti-Sauce        
+r Peanuts Rice             
+r Tomato-Paste Soda-can Cheery-Pie-Filling Honey-Crunch-Oats Croissants Bread Water-Sparkling        
+r Ketchup              
+r Oil Salt Chips            
+r Corn-Flakes Mayonnaise Pretzels Rice Bread Mandarin-Oranges Honey-Crunch-Oats Cocoa-Rice-Cereal Bread-Crumbs Peanuts Chips Wine Milk-Chocolate-Bar  
+r Hot-Dog-Buns Bagles Apple-Juice            
+r Salad-Dressing Coffee Tomato-Paste Cereal Mustard Croissants Water-regular Pasta Honey Spaghetti-Sauce Ketchup Tomato-Sauce Beer-bottle Apple-Juice Chips
+r Bagles Croissants Coconut-Milk Chips Green-Beans Mushrooms Syrup Sugar Apple-Juice Milk Oil Barbeque-Sauce Water-Sparkling Peanuts White-Bread
+r Salad-Dressing Pretzels             
+r Corn-Flakes Soda-can Baguette Oil Milk Bagles         
+r Cocoa-Rice-Cereal Mushrooms Green-Beans Beer-bottle           
+r Mushrooms Water-Sparkling Beer-can Coffee Pepper Rice Oil Nutella Water-regular Chips Wine Soda-bottle Milk Cocoa-Rice-Cereal Beer-bottle
+r Barbeque-Sauce Spaghetti-Sauce Honey Rice Milk-Chocolate-Bar Baguette Chips Honey-Crunch-Oats Bread Water-Sparkling White-Bread    
+r Soda-bottle              
+r Soda-bottle Preserves Granola-Bars Green-Beans Salad-Dressing Chips         
+r Chicken-Noodle-Soup Wine             
+r Tomato-Sauce Coffee Flour Pretzels           
+r Flour Barbeque-Sauce Croissants Mushrooms Bagles Salt Soda-can Preserves Nutella Pasta Salsa Milk-Chocolate-Bar Cereal  
+r Rice Wine Water-Sparkling Honey Soup          
+r Soda-can              
+r Bread-Crumbs Honey Soup            
+r Green-Beans Beer-can             
+r Spaghetti-Sauce Nutella Orange-Juice Soup Oat-Meal          
+r Granola-Bars Tea-green             
+r Peanuts Oil             
+r Nutella Spaghetti-Sauce Soup Pretzels Corn-Flakes Oat-Meal Honey-Crunch-Oats Milk-Chocolate-Bar Salad-Dressing Sugar Hot-Dog-Buns Tea-green   
+r White-Bread Oat-Meal Cocoa-Rice-Cereal            
+r Peanuts              
+r Salsa Honey-Crunch-Oats Orange-Juice Flour Water-regular          
+r Water-regular              
+r Mushrooms Wine Syrup Salsa Beer-can          
+r Bread Green-Beans Chips Hot-Dog-Buns Mushrooms Cocoa-Rice-Cereal Tea        
+r Pepper Beer-can Tea Bread-Crumbs Orange-Juice Oil         
+r Oat-Meal Baguette             
+r Beer-bottle Soda-bottle Flour Wine Coffee Bread         
+r Cocoa-Rice-Cereal Granola-Bars Beer-can Bagles Apple-Sauce Soup         
+r Oil White-Bread Tea-green Water-Sparkling           
+r Milk Oil Cereal White-Bread           
+r Coconut-Milk Salt Milk Honey-Crunch-Oats Barbeque-Sauce Beer-can Peanuts Chips Nutella Soda-bottle Tea Tomato-Paste Coffee Baguette 
+r Pretzels              
+r Beer-can              
+r Milk-Chocolate-Bar Pepper Mustard Salad-Dressing Orange-Juice Chicken-Noodle-Soup White-Bread Chips       
+r Croissants Honey Sugar Pepper Pretzels Coconut-Milk Flour Salt Salsa Spaghetti-Sauce Beer-bottle    
+r Soda-can Honey-Crunch-Oats Apple-Juice Granola-Bars Mustard Oat-Meal Preserves Mandarin-Oranges Syrup Pepper     
+r Pretzels              
+r Peanuts Corn-Flakes Sugar Ketchup Water-Sparkling Tomato-Paste         
+r Cereal Oil Tomato-Paste Beer-bottle Salt Soda-can Soup        
+r Honey-Crunch-Oats              
+r Mustard Peanuts             
+r Bread-Crumbs              
+r Pasta Honey-Crunch-Oats             
+r Green-Beans Ketchup Rice Peanut-Butter           
+r Tomato-Sauce Wine             
+r Croissants Apple-Juice Salsa Tea Soda-bottle Nutella Green-Beans Mayonnaise       
+r Chips Salsa Bagles Rice Cereal Bread-Crumbs Milk        
+r Water-Sparkling Bagles Honey-Crunch-Oats Cereal Tea Pretzels Salt        
+r Chicken-Noodle-Soup Tea-green Beer-can Spaghetti-Sauce Beer-bottle Pasta Wine Croissants Bagles      
+r Mayonnaise Pasta Mandarin-Oranges Soda-can           
+r Green-Beans Bagles Water-regular Baguette Oil          
+r White-Bread Bagles Coffee Salt Orange-Juice Baguette Nutella        
+r Preserves Peanut-Butter Rice Apple-Sauce Nutella Bread         
+r Wine Soup Oat-Meal            
+r Salsa              
+r Cocoa-Rice-Cereal Soda-can Bread-Crumbs            
+r Croissants Water-Sparkling Oat-Meal Soda-bottle           
+r Spaghetti-Sauce              
+r Soup Granola-Bars Pepper            
+r Mayonnaise Orange-Juice             
+r Cheery-Pie-Filling White-Bread Pasta Milk-organic Honey-Crunch-Oats Beer-can Preserves Soda-bottle Bagles      
+r Chips Mustard Rice Nutella Bread-Crumbs Orange-Juice Milk-organic Beer-bottle       
+r Water-Sparkling              
+r Baguette Milk-organic Oil            
+r Cocoa-Rice-Cereal Soup Mayonnaise Tea Orange-Juice Soda-can Syrup Mustard Rice Baguette Corn-Flakes Flour Cereal Spaghetti-Sauce Soda-bottle
+r Pretzels Flour             
+r Oat-Meal Nutella Mushrooms Water-regular Pretzels Baguette Bread Soup Cereal Salt Mayonnaise Croissants Barbeque-Sauce Wine Salad-Dressing
+r Soda-bottle Syrup Orange-Juice Preserves Sugar Cereal Cocoa-Rice-Cereal Bread-Crumbs       
+r Cereal Milk-organic Chips Salt           
+r Salt Water-Sparkling Chips            
+r Milk-Chocolate-Bar Honey-Crunch-Oats Coffee Baguette Pretzels Salsa Oat-Meal Pepper Flour Honey Tomato-Sauce Apple-Juice Mustard Preserves Milk
+r Bread Nutella Chips Apple-Sauce Honey-Crunch-Oats          
+r Tea Tomato-Sauce Mushrooms            
+r Mayonnaise Pretzels             
+r Pepper Milk-organic             
+r Chips Bread-Crumbs Bread Coconut-Milk Coffee          
+r Tea              
+r Granola-Bars Soda-can Syrup Bread-Crumbs Peanut-Butter          
+r Cheery-Pie-Filling Honey Beer-bottle Honey-Crunch-Oats Tomato-Paste          
+r Baguette Water-regular Rice            
+r Rice              
+r Oat-Meal Wine Milk-Chocolate-Bar Mushrooms Tomato-Paste Green-Beans Soda-can Rice Mustard Beer-bottle Salt Croissants   
+r Rice              
+r Soda-bottle Orange-Juice Water-Sparkling Wine Preserves Salt         
+r Hot-Dog-Buns Oil Soda-bottle Croissants Mandarin-Oranges Rice Cereal Pasta Bread Coffee Apple-Juice    
+r Ketchup Rice Honey Sugar Baguette Mayonnaise         
+r Preserves              
+r Coffee Wine             
+r Peanuts              
+r Mayonnaise Milk-organic Granola-Bars Bread           
+r Water-regular Coconut-Milk Croissants Peanut-Butter Baguette Mushrooms Honey-Crunch-Oats Ketchup Syrup      
+r Tea              
+r Soda-can Bread-Crumbs Barbeque-Sauce Apple-Juice Beer-bottle Tea-green Water-regular Mandarin-Oranges       
+r Milk-Chocolate-Bar Honey Cereal            
+r Mushrooms Flour Honey-Crunch-Oats Bread Syrup Pasta Corn-Flakes Salad-Dressing       
+r Salsa Chips             
+r Pasta Milk Tomato-Sauce            
+r Honey Peanuts Green-Beans Cocoa-Rice-Cereal Flour Mandarin-Oranges         
+r Tomato-Sauce              
+r Mandarin-Oranges Tea-green             
+r Pepper              
+r Chicken-Noodle-Soup Soup Tomato-Sauce Beer-can           
+r Oil Mandarin-Oranges Bread-Crumbs Cereal Corn-Flakes Chips Baguette Soda-bottle       
+r Cocoa-Rice-Cereal              
+r Rice Apple-Juice Milk-organic Nutella Tomato-Sauce Granola-Bars         
+r Tea-green Soda-can Water-regular Peanuts Croissants Pepper Baguette Milk-Chocolate-Bar Barbeque-Sauce      
+r Water-Sparkling Pasta Chicken-Noodle-Soup            
+r Water-regular Granola-Bars Bread            
+r Apple-Juice Coconut-Milk             
+r Apple-Juice Tea-green Mandarin-Oranges Tomato-Sauce Corn-Flakes          
+r Tea-green Cheery-Pie-Filling Rice Honey-Crunch-Oats Soup Baguette Coffee Salsa Water-regular Chips Milk-Chocolate-Bar Honey Nutella Tea Soda-bottle
+r Tomato-Paste Baguette Oat-Meal Flour           
+r Rice Sugar             
+r Milk-Chocolate-Bar              
+r Mandarin-Oranges Nutella Beer-bottle Syrup Milk Oat-Meal         
+r Rice Milk-organic             
+r Barbeque-Sauce Cocoa-Rice-Cereal Cheery-Pie-Filling            
+r Sugar Wine Honey Green-Beans Croissants Bread-Crumbs Bagles Mushrooms Milk-Chocolate-Bar      
+r Honey-Crunch-Oats Orange-Juice Bread-Crumbs Water-regular Sugar Honey         
+r Peanut-Butter Bread Soda-bottle Baguette Milk-Chocolate-Bar Soda-can Beer-bottle White-Bread Salsa Corn-Flakes Honey    
+r Tomato-Paste Soda-bottle Nutella            
+r Beer-bottle Tea-green Croissants Tea Mushrooms Wine White-Bread Salsa Corn-Flakes      
+r Pepper Corn-Flakes Milk-organic Tomato-Paste White-Bread Wine Coffee Green-Beans Rice      
+r Cheery-Pie-Filling Mushrooms             
+r Cereal Apple-Juice Water-Sparkling Oil Mustard Sugar Barbeque-Sauce Green-Beans Cheery-Pie-Filling Mayonnaise Chicken-Noodle-Soup White-Bread Syrup  
+r Pasta White-Bread Corn-Flakes Soda-bottle Tea-green Cheery-Pie-Filling Wine Mandarin-Oranges Barbeque-Sauce Sugar Coffee    
+r Cheery-Pie-Filling Bagles Apple-Juice            
+r Corn-Flakes Green-Beans             
+r Salsa Granola-Bars Bread Bread-Crumbs Barbeque-Sauce          
+r Water-regular Oil Pasta Tomato-Sauce Barbeque-Sauce Tea-green Salsa Hot-Dog-Buns Bread-Crumbs Peanuts Tomato-Paste Milk-Chocolate-Bar White-Bread Mandarin-Oranges Soda-can
+r Syrup Beer-bottle Tea-green Cocoa-Rice-Cereal           
+r Hot-Dog-Buns Oil Pepper Cheery-Pie-Filling Peanut-Butter Mustard Mushrooms Chicken-Noodle-Soup Soda-can      
+r Green-Beans Coconut-Milk Croissants            
+r Syrup              
+r Cereal Coconut-Milk Flour Beer-can Baguette Bagles Green-Beans Mandarin-Oranges Spaghetti-Sauce Mayonnaise     
+r Barbeque-Sauce Peanuts             
+r Bread-Crumbs              
+r Cereal Corn-Flakes Milk-Chocolate-Bar Honey           
+r Preserves Sugar Tea-green Apple-Juice Flour Mustard Soda-bottle Croissants Ketchup Nutella Pepper Salsa   
+r Cocoa-Rice-Cereal Salt Mushrooms Honey-Crunch-Oats Preserves Pepper Cereal Syrup Baguette      
+r Nutella Milk-organic Salsa            
+r Bread-Crumbs Apple-Sauce             
+r Mandarin-Oranges Bread-Crumbs Tomato-Sauce Flour Milk Water-Sparkling Cereal        
+r Honey-Crunch-Oats Croissants Oil Tea White-Bread Baguette         
+r Bread Cheery-Pie-Filling             
+r Tea-green Oat-Meal Honey White-Bread           
+r Preserves Corn-Flakes Cereal Cheery-Pie-Filling           
+r Coffee Milk-organic Water-regular Peanuts Granola-Bars Wine Coconut-Milk Cereal       
+r Croissants Mustard Nutella            
+r Croissants Oil Salsa Orange-Juice Honey Cereal Milk-organic Rice Beer-bottle      
+r Ketchup              
+r Water-regular Peanuts             
+r Mustard Hot-Dog-Buns Nutella Salt Milk Water-regular Spaghetti-Sauce Pasta Barbeque-Sauce      
+r Apple-Sauce Orange-Juice Croissants            
+r Apple-Juice Spaghetti-Sauce Salad-Dressing Sugar Croissants          
+r Beer-bottle Pretzels Apple-Sauce            
+r Cheery-Pie-Filling Sugar             
+r Apple-Juice Apple-Sauce             
+r Mustard Bread-Crumbs             
+r Croissants Oil Salsa Apple-Sauce Salad-Dressing Milk Beer-bottle Milk-Chocolate-Bar       
+r Preserves Beer-can Peanuts            
+r Coffee              
+r Cocoa-Rice-Cereal Honey-Crunch-Oats Tea Soda-can Milk-Chocolate-Bar          
+r Apple-Sauce Pretzels Bread-Crumbs Milk Soup Milk-Chocolate-Bar         
+r Soda-can Chicken-Noodle-Soup Cocoa-Rice-Cereal            
+r Coconut-Milk              
+r Salsa              
+r Ketchup Green-Beans Chips Orange-Juice Honey Soda-bottle Mushrooms Salad-Dressing       
+r White-Bread Pasta Mayonnaise Pepper Granola-Bars Soda-can Tea-green Tea Croissants Cereal Sugar Apple-Juice Bread  
+r Milk Water-Sparkling Soda-can Honey Flour          
+r Bread-Crumbs Granola-Bars             
+r Beer-can Ketchup Barbeque-Sauce Preserves           
+r Milk Soup Honey-Crunch-Oats Milk-organic Salt White-Bread Croissants Wine Water-regular Cereal Green-Beans Honey Baguette Granola-Bars Peanut-Butter
+r Rice              
+r Salad-Dressing Bread             
+r Coffee Pretzels White-Bread Tea Nutella          
+r Peanut-Butter              
+r Pretzels Preserves Croissants Cereal White-Bread Oat-Meal Coconut-Milk        
+r Rice Oat-Meal Mayonnaise Green-Beans Salad-Dressing Wine Pepper Cheery-Pie-Filling Salsa Ketchup Soda-can    
+r Coffee Mandarin-Oranges Tea Granola-Bars Oil Salt Milk-organic Coconut-Milk Wine Baguette Milk Cereal Salsa Tomato-Paste Cocoa-Rice-Cereal
+r Wine Cereal Coffee Tea-green Flour Cheery-Pie-Filling Chicken-Noodle-Soup Croissants       
+r Mayonnaise Salsa Wine            
+r Pretzels Corn-Flakes             
+r Bread-Crumbs Salad-Dressing Cheery-Pie-Filling Oil           
+r Cereal White-Bread Oat-Meal Soda-bottle Cocoa-Rice-Cereal Mayonnaise         
+r Milk-organic              
+r Mustard              
+r Baguette Granola-Bars Apple-Sauce Water-Sparkling Pasta          
+r Water-regular White-Bread Tomato-Sauce Milk-organic Honey-Crunch-Oats Milk-Chocolate-Bar Tea-green Oat-Meal Mustard Orange-Juice Mayonnaise Cocoa-Rice-Cereal Salsa Coconut-Milk Sugar
+r Salad-Dressing Apple-Sauce Water-Sparkling Mustard           
+r Salt Soda-can Barbeque-Sauce Water-regular Salad-Dressing Bagles Soup Bread Nutella      
+r Honey Chips Coconut-Milk            
+r Oat-Meal Wine Bread-Crumbs Coffee           
+r Bagles Beer-bottle Apple-Sauce Barbeque-Sauce           
+r Croissants Coffee             
+r Water-Sparkling              
+r Orange-Juice Oat-Meal             
+r Milk Apple-Sauce Milk-organic Rice Soda-can Mushrooms Bread Green-Beans Cocoa-Rice-Cereal Bagles     
+r Peanut-Butter Tomato-Paste Mandarin-Oranges            
+r Peanuts Tea Pepper            
+r Preserves Rice Oat-Meal Cheery-Pie-Filling Orange-Juice Salt Chips        
+r Salad-Dressing Wine Green-Beans Peanuts Soda-bottle Chicken-Noodle-Soup         
+r Tomato-Sauce Peanut-Butter Pasta Chips Bread-Crumbs Tea Bread Water-Sparkling Soup Salt White-Bread Salad-Dressing Milk-organic Barbeque-Sauce Coconut-Milk
+r Bread-Crumbs Tea-green Salsa Mushrooms Cheery-Pie-Filling Bread White-Bread Tomato-Paste Tea Water-Sparkling Oil    
+r Mayonnaise Sugar             
+r Honey              
+r Spaghetti-Sauce Apple-Sauce Hot-Dog-Buns Apple-Juice Tomato-Paste Beer-can Pretzels        
+r Chips Mayonnaise Salt Preserves Sugar Nutella Mushrooms Hot-Dog-Buns Beer-bottle Wine Bread Milk-Chocolate-Bar Oil Flour Soda-can
+r Syrup Tomato-Sauce Mandarin-Oranges Bagles Salad-Dressing Nutella Apple-Sauce        
+r Pepper Water-Sparkling             
+r Peanut-Butter Honey-Crunch-Oats Flour Sugar           
+r Coconut-Milk Bread-Crumbs Pretzels Tea Spaghetti-Sauce Hot-Dog-Buns         
+r Wine              
+r Beer-bottle Honey Pepper            
+r Tomato-Paste Granola-Bars Honey-Crunch-Oats Coconut-Milk Sugar Bread-Crumbs Pasta Wine Tea Baguette     
+r Preserves Soup Coconut-Milk Tea Syrup Tomato-Sauce Rice Beer-bottle Salt      
+r Coconut-Milk Flour Milk            
+r Cheery-Pie-Filling Salad-Dressing Mustard            
+r Water-regular              
+r Salt              
+r Hot-Dog-Buns              
+r Spaghetti-Sauce Chips Bagles Ketchup Orange-Juice Salsa Flour Cheery-Pie-Filling Peanut-Butter Baguette     
+r Pretzels Beer-can Tea Pepper Granola-Bars          
+r Salt Mandarin-Oranges Oat-Meal White-Bread           
+r Corn-Flakes Sugar             
+r Honey Soup             
+r Beer-bottle Honey-Crunch-Oats Salt Chicken-Noodle-Soup Ketchup Spaghetti-Sauce         
+r Orange-Juice Rice Milk-Chocolate-Bar Chips Cocoa-Rice-Cereal Water-Sparkling Bagles Milk Nutella Milk-organic Salsa Pepper Sugar  
+r Corn-Flakes Water-Sparkling Cocoa-Rice-Cereal Cereal Tea          
+r Soup Mushrooms White-Bread Milk-organic Bread Milk Coffee Apple-Juice       
+r Soda-can Oat-Meal Sugar Baguette           
+r Cereal Granola-Bars Tea            
+r Mayonnaise White-Bread Chicken-Noodle-Soup Mandarin-Oranges Water-Sparkling Pepper Tea Tomato-Paste Corn-Flakes Milk-organic Sugar Honey-Crunch-Oats Honey Chips 
+r Water-Sparkling Baguette Soup Syrup           
+r Bread-Crumbs Sugar Salt Cocoa-Rice-Cereal           
+r Mustard              
+r Sugar              
+r Sugar Pretzels             
+r Cocoa-Rice-Cereal Bagles Milk Peanuts           
+r Mustard              
+r Coconut-Milk Nutella Bread Beer-can           
+r Beer-bottle              
+r Peanut-Butter Soup Water-Sparkling            
+r Honey-Crunch-Oats Oat-Meal Beer-can            
+r Mayonnaise Mustard Coconut-Milk Croissants Spaghetti-Sauce Rice Chips Salsa Apple-Juice Beer-can Nutella Chicken-Noodle-Soup   
+r Rice Soda-bottle Salsa Spaghetti-Sauce Oil Beer-bottle Flour        
+r Ketchup Bagles Beer-can Tea-green Oat-Meal Pretzels Mayonnaise Preserves White-Bread Flour Milk-Chocolate-Bar    
+r Beer-can Oil Syrup Beer-bottle Chips Pasta Tomato-Sauce        
+r Coconut-Milk Tomato-Paste Soda-can            
+r Salad-Dressing Chicken-Noodle-Soup Mushrooms Tea-green Chips Honey Tomato-Sauce Bread-Crumbs Oil Pretzels Beer-can Milk-organic Spaghetti-Sauce Tomato-Paste Cocoa-Rice-Cereal
+r Cocoa-Rice-Cereal Tomato-Sauce             
+r Chicken-Noodle-Soup Water-regular Tomato-Paste Milk-Chocolate-Bar Cheery-Pie-Filling Green-Beans Mushrooms White-Bread Barbeque-Sauce      
+r Barbeque-Sauce Chips Pretzels Sugar Tomato-Paste Water-regular         
+r Granola-Bars Mushrooms Salad-Dressing Hot-Dog-Buns Soda-bottle          
+r Soda-can              
+r Apple-Juice              
+r Oil Apple-Sauce Beer-can Cereal Bread-Crumbs Ketchup Salsa Honey Flour Salad-Dressing     
+r Water-regular Nutella Apple-Juice Tomato-Sauce Water-Sparkling          
+r Ketchup              
+r Chicken-Noodle-Soup Apple-Juice             
+r Barbeque-Sauce Apple-Sauce Honey Milk-Chocolate-Bar           
+r Water-Sparkling              
+r Chips Croissants Peanut-Butter            
+r Oil Honey-Crunch-Oats             
+r Pepper Salt             
+r Bread-Crumbs Tea Beer-can Tea-green           
+r Hot-Dog-Buns              
+r Salt              
+r Ketchup              
+r Milk Water-regular Tomato-Paste Soda-bottle           
+r Hot-Dog-Buns              
+r Honey-Crunch-Oats Mushrooms Milk-organic Soup Baguette Mandarin-Oranges Rice Wine       
+r Ketchup Green-Beans             
+r Peanuts Mayonnaise Milk Croissants Coconut-Milk Water-Sparkling Soda-can Honey Apple-Sauce Salt Mandarin-Oranges Preserves Mustard Nutella Spaghetti-Sauce
+r Soup Granola-Bars Corn-Flakes Baguette Beer-can          
+r Baguette              
+r Granola-Bars              
+r Bread-Crumbs Pasta Sugar Honey Milk-organic Chicken-Noodle-Soup Croissants Oat-Meal Chips      
+r Oat-Meal Wine             
+r Apple-Sauce Beer-bottle Sugar Ketchup Baguette Croissants Soda-can        
+r Croissants              
+r Bread Mustard Oat-Meal Cheery-Pie-Filling Mushrooms Sugar         
+r Water-regular Beer-bottle Peanut-Butter Rice Cheery-Pie-Filling Syrup         
+r Milk Honey-Crunch-Oats             
+r Syrup Orange-Juice             
+r Mustard White-Bread Preserves            
+r Green-Beans Tomato-Sauce Mustard Soda-can Spaghetti-Sauce          
+r Apple-Juice Bread-Crumbs Honey-Crunch-Oats Salsa Peanuts          
+r Sugar              
+r Mandarin-Oranges              
+r Mustard Spaghetti-Sauce Granola-Bars Salsa Preserves Water-regular         
+r Mustard              
+r Pasta Soup Mushrooms Syrup Soda-bottle Bagles         
+r Salt              
+r Coffee Tea-green             
+r Oil Tea-green Salsa Hot-Dog-Buns Salt Soup         
+r Peanut-Butter Cocoa-Rice-Cereal Apple-Sauce Green-Beans Wine Bagles Milk-Chocolate-Bar Rice Orange-Juice Preserves     
+r Cheery-Pie-Filling              
+r Oil Salt             
+r Orange-Juice Honey Water-Sparkling Coffee           
+r Wine Oat-Meal Soda-bottle Mustard Apple-Sauce          
+r Salt Soda-can Cocoa-Rice-Cereal Green-Beans Ketchup Granola-Bars Rice Milk-Chocolate-Bar Sugar Baguette Beer-bottle Bread   
+r Soup              
+r Pasta Croissants Nutella Bread Hot-Dog-Buns Pepper Oat-Meal        
+r Chips Rice Pepper Cocoa-Rice-Cereal           
+r Orange-Juice Soup Honey-Crunch-Oats            
+r Honey-Crunch-Oats Soup Corn-Flakes Water-regular Bagles          
+r Honey Chicken-Noodle-Soup Peanut-Butter            
+r Bagles Wine Cheery-Pie-Filling Tea-green           
+r Preserves              
+r Tomato-Sauce Preserves Bread Bread-Crumbs Cereal Soda-can Nutella Green-Beans       
+r Ketchup Soup             
+r Beer-can Mayonnaise Water-Sparkling Salsa Coffee Coconut-Milk Tea Milk-Chocolate-Bar Mushrooms Beer-bottle     
+r Croissants White-Bread Apple-Sauce Beer-can Nutella          
+r Peanuts Coconut-Milk Flour Apple-Juice           
+r Tea Wine             
+r Mandarin-Oranges Tea             
+r Mustard Wine Flour Honey-Crunch-Oats Cheery-Pie-Filling          
+r Milk-Chocolate-Bar Cereal Spaghetti-Sauce Milk Salt Bread         
+r Cocoa-Rice-Cereal Beer-can Ketchup Honey-Crunch-Oats Cereal          
+r Pepper Mandarin-Oranges Baguette Rice Soup          
+r Milk-organic              
+r Salad-Dressing Honey             
+r Honey Soup Water-regular Flour           
+r Orange-Juice Preserves             
+r Bagles Cereal Hot-Dog-Buns Salad-Dressing           
+r Honey-Crunch-Oats Coffee Mandarin-Oranges Preserves           
+r Oil              
+r Cheery-Pie-Filling Milk-Chocolate-Bar Beer-can            
+r Peanut-Butter              
+r Water-regular Baguette Cereal            
+r Oil Flour Pepper            
+r Bread              
+r Oat-Meal Rice Tomato-Sauce Spaghetti-Sauce           
+r Salt Rice Coconut-Milk Sugar Syrup Bagles Honey-Crunch-Oats Milk-organic Preserves Soda-can Oil    
+r Bread-Crumbs Apple-Sauce Soda-bottle            
+r Green-Beans              
+r Tomato-Paste Mandarin-Oranges Hot-Dog-Buns            
+r Bagles              
+r Nutella Milk Honey Oil           
+r Mandarin-Oranges              
+r Mandarin-Oranges Rice Cocoa-Rice-Cereal            
+r Tomato-Paste Oat-Meal Milk-Chocolate-Bar Wine Barbeque-Sauce Cheery-Pie-Filling Honey-Crunch-Oats Spaghetti-Sauce Tea Soda-can Croissants Orange-Juice   
+r Tomato-Paste Oil             
+r Pepper              
+r Chicken-Noodle-Soup Milk-Chocolate-Bar Nutella Mustard           
+r Ketchup              
+r Cocoa-Rice-Cereal              
+r Tomato-Paste Pretzels Tea Chips Barbeque-Sauce Spaghetti-Sauce Salad-Dressing Granola-Bars       
+r Barbeque-Sauce Croissants             
+r Mandarin-Oranges Pepper Peanut-Butter            
+r Chicken-Noodle-Soup Baguette Mushrooms Milk Mustard Coconut-Milk Peanut-Butter Hot-Dog-Buns Wine Green-Beans     
+r Bread-Crumbs Bagles Tea Tomato-Paste Wine          
+r Green-Beans Barbeque-Sauce Hot-Dog-Buns Orange-Juice Tea Soup Salt Water-regular Bagles Granola-Bars Water-Sparkling Croissants Ketchup Chicken-Noodle-Soup Soda-bottle
+r Beer-bottle Tomato-Paste Water-Sparkling Mandarin-Oranges           
+r Apple-Sauce              
+r Water-regular Cocoa-Rice-Cereal Soda-bottle Orange-Juice Hot-Dog-Buns          
+r Baguette Peanuts Cheery-Pie-Filling Soup Pepper Preserves         
+r Chicken-Noodle-Soup Mushrooms Coconut-Milk            
+r Flour Spaghetti-Sauce Bagles Apple-Juice Barbeque-Sauce Soda-can Chicken-Noodle-Soup Chips Soda-bottle Salsa Oil Mushrooms Mayonnaise Cocoa-Rice-Cereal 
+r Water-Sparkling Soup Water-regular Rice Pasta Orange-Juice Coconut-Milk Chips Tomato-Paste      
+r Milk-organic              
+r Apple-Juice Milk Soda-can Coconut-Milk Baguette Peanuts         
+r Pasta Beer-can Preserves Honey           
+r Mandarin-Oranges Salad-Dressing Cocoa-Rice-Cereal Pretzels Pasta Barbeque-Sauce Water-regular Oil Nutella Ketchup Milk    
+r Water-regular              
+r Mustard Wine             
+r Syrup Sugar White-Bread Bagles           
+r Bread-Crumbs Soda-bottle Apple-Sauce Salt Milk White-Bread Mushrooms Syrup       
+r Cocoa-Rice-Cereal Beer-bottle Granola-Bars Oat-Meal Milk-Chocolate-Bar Sugar Tomato-Sauce Honey Coconut-Milk      
+r Cheery-Pie-Filling Peanuts Pasta Tomato-Paste Water-Sparkling Milk-organic Preserves Soup Salsa Apple-Juice     
+r Syrup              
+r Apple-Sauce Peanut-Butter Spaghetti-Sauce Honey-Crunch-Oats           
+r Tomato-Sauce Mustard             
+r Sugar Bagles Peanuts Coconut-Milk Mushrooms Salsa Spaghetti-Sauce        
+r Soup Soda-bottle             
+r Peanut-Butter Bagles Hot-Dog-Buns            
+r Salt Salad-Dressing Oil Croissants Tea Mushrooms Spaghetti-Sauce Barbeque-Sauce       
+r Cereal Apple-Juice Salad-Dressing Coconut-Milk Bread Water-regular Soda-bottle Milk-organic Mustard      
+r Mayonnaise Pepper Salad-Dressing Syrup Chicken-Noodle-Soup Granola-Bars Sugar Bread-Crumbs       
+r Mustard Pretzels Ketchup Syrup Coffee Cereal Chicken-Noodle-Soup        
+r Pepper              
+r Wine Honey-Crunch-Oats Tea-green Soda-bottle Croissants Coffee Sugar        
+r Peanut-Butter Apple-Juice             
+r Cheery-Pie-Filling Hot-Dog-Buns Ketchup Water-Sparkling           
+r Coconut-Milk Barbeque-Sauce             
+r Soup Soda-can Coconut-Milk Salt           
+r Cocoa-Rice-Cereal Cereal Barbeque-Sauce            
+r Cocoa-Rice-Cereal Peanut-Butter Cereal Hot-Dog-Buns Soda-bottle Corn-Flakes         
+r Salad-Dressing Oil Oat-Meal Soup           
+r Apple-Sauce              
+r Syrup Milk Peanut-Butter Preserves           
+r Honey-Crunch-Oats Beer-can             
+r Tomato-Paste Orange-Juice             
+r Preserves              
+r Honey Mayonnaise Cheery-Pie-Filling Beer-can Orange-Juice Bagles         
+r Beer-bottle Milk             
+r Orange-Juice Coffee Flour Hot-Dog-Buns           
+r Barbeque-Sauce Mustard Bread-Crumbs Honey Spaghetti-Sauce Wine Flour        
+r Pasta              
+r Tea-green Pretzels Beer-bottle Oat-Meal Green-Beans Nutella Preserves White-Bread       
+r Preserves Oat-Meal Sugar Salsa Mayonnaise Rice Granola-Bars Tomato-Sauce Pepper Barbeque-Sauce Honey Syrup   
+r Soda-bottle Water-regular Salsa Soup Bread          
+r Tea-green Beer-can Milk-organic Croissants Coconut-Milk Ketchup         
+r Beer-bottle Spaghetti-Sauce Soda-bottle Mandarin-Oranges           
+r Pepper Preserves Wine Pasta Mustard Hot-Dog-Buns Honey Corn-Flakes Bread      
+r Chicken-Noodle-Soup              
+r Flour Chips Cereal Pretzels Tomato-Paste Bread Preserves        
+r Baguette              
+r Green-Beans Chips Ketchup Oil Bread Nutella         
+r Beer-bottle Cocoa-Rice-Cereal Coffee Croissants Peanut-Butter Oil Soup Soda-can Beer-can Milk Preserves Syrup Chicken-Noodle-Soup Tea-green Mayonnaise
+r Peanuts Cereal Orange-Juice Nutella Tomato-Paste Bagles Preserves        
+r Milk Beer-bottle Bread-Crumbs Mayonnaise Tea Cheery-Pie-Filling Honey Cereal Cocoa-Rice-Cereal Pretzels Soda-can Honey-Crunch-Oats Rice Spaghetti-Sauce Pepper
+r Mandarin-Oranges              
+r Soda-can Apple-Sauce             
+r Apple-Juice Cheery-Pie-Filling Oil Pasta Chicken-Noodle-Soup Beer-bottle Flour Tea       
+r Rice Tea-green Chips Cereal Bread Flour Mustard        
+r Bread-Crumbs Nutella             
+r Cocoa-Rice-Cereal              
+r Preserves Mayonnaise             
+r Cocoa-Rice-Cereal Baguette Pepper Soda-can Honey Bagles Croissants Mustard Wine Corn-Flakes Ketchup Green-Beans Orange-Juice  
+r White-Bread Nutella Chips Mustard Honey-Crunch-Oats          
+r Nutella Sugar             
+r Mandarin-Oranges Chicken-Noodle-Soup             
+r Mushrooms Croissants Bagles Mandarin-Oranges Salsa Water-regular         
+r Syrup Baguette Mandarin-Oranges Water-Sparkling Cocoa-Rice-Cereal Chips Honey Pepper Peanuts      
+r Milk-Chocolate-Bar Spaghetti-Sauce Oat-Meal Pepper Green-Beans Pasta Ketchup Tea Bread Beer-bottle Tomato-Paste Cheery-Pie-Filling Wine Tomato-Sauce Milk
+r Mustard Coffee Mayonnaise            
+r Mushrooms Tomato-Paste Corn-Flakes            
+r Chicken-Noodle-Soup Rice Water-Sparkling Cheery-Pie-Filling           
+r Spaghetti-Sauce Oil             
+r Croissants Salad-Dressing Soda-bottle            
+r Baguette Pasta Hot-Dog-Buns            
+r Beer-can              
+r Pepper Mushrooms Corn-Flakes Soda-bottle Tomato-Paste Baguette White-Bread Peanuts Coconut-Milk Croissants Cereal Rice Mandarin-Oranges Beer-bottle Honey-Crunch-Oats
+r Oat-Meal Bread-Crumbs Tomato-Paste Barbeque-Sauce Apple-Juice          
+r Pasta Barbeque-Sauce             
+r Milk-organic Peanuts Coconut-Milk            
+r Mayonnaise Milk-Chocolate-Bar Oat-Meal Apple-Juice Spaghetti-Sauce Preserves Honey-Crunch-Oats Cheery-Pie-Filling       
+r Mushrooms Water-Sparkling Honey-Crunch-Oats Chicken-Noodle-Soup Coffee          
+r Tomato-Sauce Water-regular Cereal Peanut-Butter Soda-bottle          
+r Chips Orange-Juice Preserves Barbeque-Sauce           
+r Tea              
+r Hot-Dog-Buns Pepper Chips Pasta Honey Pretzels Coconut-Milk Nutella Spaghetti-Sauce Water-Sparkling Salt    
+r Salt              
+r Hot-Dog-Buns Peanuts Barbeque-Sauce            
+r Cereal Salad-Dressing Tomato-Sauce Tea Water-Sparkling Flour Rice Croissants       
+r Ketchup Pepper Orange-Juice Oat-Meal           
+r Oat-Meal Pepper Apple-Sauce Preserves Oil          
+r Mandarin-Oranges Water-Sparkling Apple-Sauce Honey           
+r Mandarin-Oranges Granola-Bars Tea-green            
+r Spaghetti-Sauce Tea Barbeque-Sauce            
+r Milk-Chocolate-Bar              
+r Cheery-Pie-Filling Apple-Sauce Soda-bottle Tomato-Paste Barbeque-Sauce          
+r Mustard Milk-Chocolate-Bar Spaghetti-Sauce Apple-Sauce Tomato-Sauce Milk-organic Croissants Salad-Dressing Corn-Flakes Peanut-Butter Salt Barbeque-Sauce Honey Honey-Crunch-Oats 
+r Beer-can              
+r Corn-Flakes Chips Preserves            
+r Soup Barbeque-Sauce Rice Nutella Cheery-Pie-Filling Tomato-Paste         
+r Baguette Mayonnaise Salad-Dressing Water-Sparkling Syrup Beer-bottle Chicken-Noodle-Soup        
+r Honey-Crunch-Oats              
+r Orange-Juice Rice Milk-organic Bread Croissants          
+r Chips Hot-Dog-Buns Ketchup Milk-organic Corn-Flakes Soup Chicken-Noodle-Soup        
+r Bread              
+r Corn-Flakes Milk-Chocolate-Bar Cocoa-Rice-Cereal            
+r Peanuts Sugar             
+r Cereal Granola-Bars Bread-Crumbs Milk-Chocolate-Bar Peanuts Tomato-Sauce Pasta        
+r Oil Milk-organic Flour Spaghetti-Sauce           
+r Chips Mayonnaise Mushrooms Sugar Hot-Dog-Buns Milk Honey-Crunch-Oats Milk-Chocolate-Bar Pretzels Peanuts     
+r Beer-can Chips White-Bread Milk-Chocolate-Bar Granola-Bars Tomato-Paste Tea-green Bagles Sugar Flour Coffee Honey Milk Salad-Dressing Spaghetti-Sauce
+r Oil Croissants Apple-Juice Bagles Bread Ketchup Peanuts Pepper Barbeque-Sauce Cocoa-Rice-Cereal Syrup Water-Sparkling Honey-Crunch-Oats  
+r Honey-Crunch-Oats Spaghetti-Sauce             
+r Mustard Beer-can Soda-bottle Pepper           
+r Corn-Flakes              
+r Cocoa-Rice-Cereal Tea-green Soup Preserves Beer-bottle          
+r Corn-Flakes              
+r Tea-green Salad-Dressing Mushrooms Ketchup Chips Barbeque-Sauce Coffee Cocoa-Rice-Cereal Coconut-Milk Cereal Oil Pasta Cheery-Pie-Filling Wine Peanut-Butter
+r Water-regular Orange-Juice Spaghetti-Sauce            
+r Cereal Coffee Cocoa-Rice-Cereal Baguette Spaghetti-Sauce          
+r Pretzels Cereal Sugar Flour Coconut-Milk          
+r Pasta Tea Beer-can Salsa White-Bread Apple-Juice Green-Beans Peanut-Butter Salad-Dressing Oat-Meal Wine Honey Mandarin-Oranges Orange-Juice Chicken-Noodle-Soup
+r Chicken-Noodle-Soup              
+r Corn-Flakes Green-Beans Flour Oat-Meal White-Bread Bread-Crumbs Coffee Ketchup Bagles Honey-Crunch-Oats Soup Hot-Dog-Buns Nutella Milk-Chocolate-Bar Tomato-Paste
+r Mandarin-Oranges Bread Corn-Flakes            
+r Bread-Crumbs Soda-bottle Orange-Juice Beer-bottle Bagles Nutella Apple-Sauce Water-regular Salt Soda-can Croissants Tea-green Cheery-Pie-Filling Honey-Crunch-Oats Milk-organic
+r Cereal Coffee Cocoa-Rice-Cereal Beer-bottle Green-Beans Granola-Bars Bread-Crumbs Oat-Meal Ketchup Mushrooms Milk-organic Water-regular Mayonnaise White-Bread Oil
+r Water-regular Pasta Cereal Soup Mandarin-Oranges          
+r White-Bread Peanut-Butter Nutella Sugar Coffee Cocoa-Rice-Cereal         
+r Syrup Rice Beer-bottle Soda-can Preserves Bagles         
+r Tea-green              
+r Beer-can Apple-Juice Honey Cocoa-Rice-Cereal Corn-Flakes Croissants Hot-Dog-Buns Tomato-Sauce       
+r Baguette Tomato-Sauce Chips Oat-Meal Corn-Flakes Mustard Peanuts Green-Beans Peanut-Butter Orange-Juice Mayonnaise Pretzels Salt Cereal Water-Sparkling
+r Soup              
+r Peanuts Apple-Juice             
+r Baguette Pretzels Soda-can Peanut-Butter Mushrooms          
+r Tomato-Sauce Honey Orange-Juice Corn-Flakes Peanut-Butter Oat-Meal Milk-Chocolate-Bar Milk-organic Peanuts      
+r Beer-can              
+r Mushrooms Mandarin-Oranges Granola-Bars Honey Chips Soup Cereal Salad-Dressing Bread Bagles     
+r Wine Tomato-Sauce Croissants Mustard Apple-Sauce          
+r Honey Pretzels Apple-Juice Salad-Dressing Granola-Bars White-Bread         
+r Tomato-Paste Mayonnaise             
+r Salsa Preserves Salt Salad-Dressing Beer-can Mushrooms Tea Orange-Juice       
+r Bread-Crumbs Honey Baguette            
+r Soda-can Beer-bottle Milk-organic            
+r Cereal Granola-Bars Beer-can            
+r Pasta Beer-can Wine Coffee Mustard Croissants Milk-Chocolate-Bar Milk Soup      
+r Granola-Bars Pasta Bread Ketchup Spaghetti-Sauce          
+r Water-Sparkling Mushrooms Orange-Juice Beer-can Milk-organic Chips Tomato-Sauce Salt Pretzels Chicken-Noodle-Soup Peanut-Butter Bread Pepper Soda-bottle Tea-green
+r Water-regular White-Bread Beer-bottle            
+r Mushrooms Soda-bottle Mayonnaise            
+r Soup Bread             
+r White-Bread Cocoa-Rice-Cereal Salsa Milk-organic Tea          
+r Barbeque-Sauce Salsa Salad-Dressing Bread Mayonnaise Oat-Meal Pepper        
+r Bread              
+r Soup Pepper Spaghetti-Sauce Green-Beans Tomato-Sauce Pasta Mandarin-Oranges Cereal Coffee Preserves Bread-Crumbs Beer-bottle Granola-Bars Coconut-Milk Barbeque-Sauce
+r White-Bread              
+r Pepper Barbeque-Sauce Hot-Dog-Buns            
+r Barbeque-Sauce Orange-Juice             
+r Chicken-Noodle-Soup              
+r Water-regular Syrup             
+r Rice              
+r Mustard Green-Beans Coconut-Milk Wine Barbeque-Sauce          
+r Bagles Salsa             
+r Mustard              
+r Ketchup Cocoa-Rice-Cereal Peanut-Butter            
+r Beer-bottle              
+r Bagles              
+r Mayonnaise              
+r Barbeque-Sauce              
+r Salsa Apple-Sauce Pepper            
+r Tea              
+r Milk-organic Honey Sugar            
+r Oat-Meal Sugar Croissants Coconut-Milk Salad-Dressing          
+r Cheery-Pie-Filling Soup Honey Coffee Rice Pasta Bread-Crumbs Baguette Tea      
+r White-Bread Barbeque-Sauce Peanuts Green-Beans           
+r Soda-can Nutella Mandarin-Oranges Soda-bottle Ketchup          
+r Rice Ketchup Soda-bottle Flour Cocoa-Rice-Cereal Mayonnaise Granola-Bars Water-Sparkling White-Bread      
+r Chips              
+r Milk Salt Wine            
+r Oil Soda-bottle Green-Beans Chicken-Noodle-Soup Baguette Chips Apple-Juice Wine Tea-green Oat-Meal Tea Mushrooms   
+r Tea Salt Baguette Peanuts Mayonnaise Green-Beans Hot-Dog-Buns        
+r Pepper Preserves Pasta Croissants Orange-Juice Rice Bagles Ketchup Pretzels Tea-green Apple-Juice Green-Beans Nutella  
+r Tea              
+r Soda-can Salt Pasta Milk-organic Pepper Salad-Dressing Ketchup Honey Cereal Bagles Honey-Crunch-Oats    
+r Beer-bottle              
+r Granola-Bars              
+r Corn-Flakes              
+r Soup Chips Honey-Crunch-Oats Syrup Ketchup Coffee Cheery-Pie-Filling Green-Beans Wine Tea Apple-Juice Mushrooms Hot-Dog-Buns  
+r Peanut-Butter Tea-green             
+r Bread Hot-Dog-Buns             
+r Orange-Juice Honey-Crunch-Oats             
+r Soda-can Apple-Juice Mayonnaise Mustard Cheery-Pie-Filling          
+r Bagles Pepper Bread Water-Sparkling Cheery-Pie-Filling Mandarin-Oranges Pasta Beer-can Croissants Green-Beans     
+r Green-Beans              
+r Nutella              
+r Cocoa-Rice-Cereal              
+r Sugar Salt Preserves            
+r Peanut-Butter Croissants             
+r Cocoa-Rice-Cereal Honey-Crunch-Oats             
+r Pepper Wine             
+r Soup Water-regular Apple-Sauce Tomato-Sauce Oat-Meal Baguette Pepper Preserves Milk-organic Coffee Granola-Bars    
+r Mandarin-Oranges Salt Tea Oil           
+r Coffee              
+r Coconut-Milk Baguette Tea-green Orange-Juice Honey Bread-Crumbs Salsa        
+r Corn-Flakes Mandarin-Oranges Barbeque-Sauce            
+r Peanut-Butter              
+r Baguette Milk Barbeque-Sauce            
+r Bread-Crumbs Pepper Soup Apple-Juice           
+r Soup Apple-Juice Mandarin-Oranges Pepper Beer-can Soda-can Chips Baguette Mustard Orange-Juice Cheery-Pie-Filling Coconut-Milk   
+r Peanuts Nutella Milk Wine           
+r Flour Soda-can Apple-Juice Apple-Sauce Coffee Cocoa-Rice-Cereal Soda-bottle Bagles Orange-Juice      
+r Mandarin-Oranges Mayonnaise Tomato-Paste Tomato-Sauce Barbeque-Sauce Peanut-Butter Corn-Flakes        
+r Cocoa-Rice-Cereal Orange-Juice Oat-Meal Beer-bottle Milk-Chocolate-Bar Corn-Flakes Rice Coconut-Milk Tomato-Sauce Mayonnaise Milk-organic Salad-Dressing Bagles Tea Coffee
+r Mushrooms              
+r Bagles Milk-organic Coconut-Milk Syrup Corn-Flakes Green-Beans         
+r Tomato-Sauce Salt Tea Cocoa-Rice-Cereal Wine          
+r Cereal Spaghetti-Sauce             
+r Wine Apple-Sauce Mandarin-Oranges Milk-organic Apple-Juice          
+r Cocoa-Rice-Cereal Preserves Baguette Soda-can Tomato-Paste Chips         
+r Baguette Ketchup Pepper Bread-Crumbs Bagles Chicken-Noodle-Soup Milk-Chocolate-Bar Beer-bottle Rice Hot-Dog-Buns     
+r Oil Pepper Soda-can Rice           
+r Soda-can Mayonnaise Flour            
+r Preserves Salsa Coffee Flour           
+r Chicken-Noodle-Soup Pretzels Beer-bottle Milk-Chocolate-Bar Corn-Flakes Mushrooms         
+r Baguette Cheery-Pie-Filling Barbeque-Sauce Rice           
+r Mayonnaise Water-Sparkling             
+r Milk Syrup Salsa Mandarin-Oranges           
+r Rice Milk Sugar            
+r Oil Hot-Dog-Buns Rice Water-regular Honey Chips White-Bread Chicken-Noodle-Soup       
+r Peanut-Butter Peanuts Tomato-Sauce Mushrooms Soda-bottle Tea-green Mustard Pretzels White-Bread Honey-Crunch-Oats Soup Water-regular Salad-Dressing Flour Water-Sparkling
+r Corn-Flakes Salad-Dressing Rice Cocoa-Rice-Cereal Chicken-Noodle-Soup Mustard Coffee Water-Sparkling Nutella      
+r Milk Hot-Dog-Buns Nutella Croissants Beer-can Honey-Crunch-Oats         
+r Coconut-Milk Baguette Pasta Granola-Bars Wine Cereal Ketchup Apple-Juice Peanut-Butter Beer-bottle Soup Coffee Corn-Flakes  
+r Water-Sparkling Milk-organic             
+r Cereal              
+r Croissants Soup Tomato-Paste Syrup Beer-can Salt         
+r Pepper Salsa Oat-Meal            
+r Peanuts Coffee Syrup Spaghetti-Sauce Orange-Juice Milk-Chocolate-Bar Sugar Soda-can Oat-Meal Pasta Granola-Bars    
+r Chips Tea-green Coffee Soda-bottle Milk-organic Granola-Bars Peanut-Butter Cereal       
+r Water-regular Soup             
+r Granola-Bars Mustard             
+r Tomato-Sauce Water-Sparkling Ketchup Corn-Flakes Honey Milk-organic Cheery-Pie-Filling        
+r Bread-Crumbs Peanuts             
+r Preserves Beer-can Honey-Crunch-Oats            
+r Cheery-Pie-Filling Apple-Sauce Bread            
+r Syrup Oat-Meal Milk-Chocolate-Bar Barbeque-Sauce Mushrooms Water-Sparkling Peanuts        
+r Coffee Chicken-Noodle-Soup Corn-Flakes Mandarin-Oranges Pasta Salad-Dressing Coconut-Milk Salsa Honey Mushrooms Water-Sparkling Milk Tomato-Sauce Soup Cocoa-Rice-Cereal
+r Mustard Soda-can Oil Oat-Meal Ketchup Salt Mushrooms Sugar Chips Mayonnaise Green-Beans    
+r Tomato-Sauce Cereal Soda-bottle Peanuts Chicken-Noodle-Soup Sugar Oil Tea-green Beer-can Soup Croissants Pretzels Chips Milk-Chocolate-Bar Apple-Juice
+r Salad-Dressing              
+r Flour              
+r Cheery-Pie-Filling Cocoa-Rice-Cereal Coffee Pasta Sugar Milk-Chocolate-Bar         
+r Hot-Dog-Buns Beer-can Mayonnaise Beer-bottle           
+r Oil Pepper Cocoa-Rice-Cereal Syrup Peanut-Butter Water-Sparkling         
+r Chips              
+r Tomato-Paste Honey Flour            
+r Oat-Meal Bread Syrup Baguette Salad-Dressing Green-Beans Tea Chips Spaghetti-Sauce Water-regular     
+r Milk-organic              
+r Cheery-Pie-Filling Apple-Juice Cereal Pepper Peanuts Soda-bottle Peanut-Butter Syrup Soup Beer-can     
+r Apple-Juice Cheery-Pie-Filling             
+r Apple-Sauce              
+r Apple-Juice Mustard Ketchup Coffee Orange-Juice Soda-can Mayonnaise Bagles Tomato-Paste Apple-Sauce Chicken-Noodle-Soup Peanut-Butter Tea-green Soda-bottle Coconut-Milk
+r Milk-organic Chicken-Noodle-Soup Corn-Flakes Pasta Apple-Juice Salad-Dressing Croissants        
+r White-Bread Bagles Milk-organic            
+r Tomato-Sauce Honey             
+r Tea-green Salsa             
+r Flour Oil Tomato-Sauce Bread-Crumbs Tea          
+r Salt Water-regular Honey-Crunch-Oats Coconut-Milk           
+r Water-Sparkling Wine Tea Milk           
+r Tomato-Paste Flour Coconut-Milk Honey-Crunch-Oats           
+r Pepper              
+r Beer-can Green-Beans Syrup            
+r Apple-Sauce Cocoa-Rice-Cereal             
+r Sugar Syrup             
+r Honey-Crunch-Oats Oil Coffee            
+r Cocoa-Rice-Cereal Cereal Bagles            
+r Peanut-Butter Green-Beans             
+r Cheery-Pie-Filling              
+r Chicken-Noodle-Soup              
+r Hot-Dog-Buns Preserves Peanuts Peanut-Butter Water-regular          
+r Ketchup Apple-Sauce Cocoa-Rice-Cereal Peanut-Butter           
+r Oil Green-Beans             
+r Honey-Crunch-Oats              
+r Nutella Chips Preserves Coconut-Milk Milk-organic Peanuts         
+r Green-Beans Water-Sparkling Milk-Chocolate-Bar            
+r Hot-Dog-Buns              
+r Milk-Chocolate-Bar Water-Sparkling Pepper Barbeque-Sauce           
+r Milk-Chocolate-Bar Salad-Dressing             
+r Honey-Crunch-Oats Tomato-Sauce Beer-bottle Pepper Beer-can Milk-Chocolate-Bar Peanuts Spaghetti-Sauce White-Bread Apple-Sauce Tea Green-Beans Granola-Bars Sugar 
+r Cocoa-Rice-Cereal Tea-green Peanut-Butter Oil Tomato-Paste Beer-bottle Salad-Dressing Ketchup Preserves Soup Mayonnaise Mandarin-Oranges Milk-Chocolate-Bar Mushrooms 
+r Oil Corn-Flakes             
+r Hot-Dog-Buns Mandarin-Oranges Chips Bread           
+r Cheery-Pie-Filling Preserves Bread Salsa Beer-bottle          
+r Milk-Chocolate-Bar Water-regular             
+r Apple-Sauce              
+r Rice Mushrooms             
+r Granola-Bars              
+r Salt Rice             
+r Coffee Water-regular Salad-Dressing Milk           
+r Salsa Syrup Barbeque-Sauce Water-Sparkling Cheery-Pie-Filling Coconut-Milk         
+r Pretzels              
+r Mushrooms              
+r Salt              
+r Salt Water-Sparkling             
+r Water-Sparkling Nutella Apple-Sauce Milk           
+r Cereal Beer-can Granola-Bars            
+r Pretzels Spaghetti-Sauce             
+r Mustard Orange-Juice Oat-Meal Flour White-Bread Beer-can Soda-bottle Cereal Milk Sugar     
+r Honey-Crunch-Oats              
+r Mustard Salt Pepper Granola-Bars           
+r Honey-Crunch-Oats Peanuts Tea Green-Beans Tomato-Paste          
+r Honey-Crunch-Oats Bread-Crumbs Tea-green Beer-bottle Water-Sparkling Mushrooms Wine Sugar Preserves      
+r Coffee Pasta Soda-bottle Tea Soup Spaghetti-Sauce Oat-Meal Water-regular Green-Beans Honey-Crunch-Oats Salt Peanuts Bagles  
+r Mandarin-Oranges White-Bread Honey            
+r Wine Water-Sparkling Apple-Juice Tomato-Sauce Honey Chicken-Noodle-Soup Tomato-Paste        
+r Tomato-Sauce              
+r Nutella Peanut-Butter Chicken-Noodle-Soup Coffee Tomato-Sauce Beer-bottle Salt Granola-Bars Preserves Milk-Chocolate-Bar     
+r Bread Oil Salt Milk-Chocolate-Bar Rice Granola-Bars Nutella Tomato-Paste Milk-organic Cereal Hot-Dog-Buns Salad-Dressing Chicken-Noodle-Soup Pasta Mushrooms
+r Salt Tea Tomato-Sauce Chicken-Noodle-Soup Honey-Crunch-Oats          
+r Mushrooms Croissants Oil Mustard           
+r Milk-organic Tea-green Milk Croissants Rice Water-regular Salad-Dressing Flour Salt Cheery-Pie-Filling Coffee Sugar Water-Sparkling  
+r Baguette              
+r Nutella Bread-Crumbs Bagles            
+r Salt Green-Beans Water-Sparkling Baguette Cocoa-Rice-Cereal Tea Corn-Flakes Milk-Chocolate-Bar       
+r Salt              
+r Ketchup Soup Tomato-Paste Preserves Coconut-Milk Beer-can Water-regular Hot-Dog-Buns Nutella Chips Salad-Dressing Peanuts Honey-Crunch-Oats  
+r Bread-Crumbs              
+r Cheery-Pie-Filling Beer-bottle Ketchup            
+r Hot-Dog-Buns Cheery-Pie-Filling Nutella Apple-Juice Salt Sugar Tea-green        
+r Salad-Dressing White-Bread Croissants            
+r Mustard Nutella White-Bread Milk-Chocolate-Bar           
+r Baguette Orange-Juice Hot-Dog-Buns Nutella Sugar Salad-Dressing Pasta Preserves Croissants      
+r Salsa Soda-bottle Nutella Orange-Juice Preserves Pasta Bagles Milk-Chocolate-Bar Chicken-Noodle-Soup Pepper     
+r Bagles Pepper Apple-Sauce            
+r Croissants              
+r Flour              
+r Honey-Crunch-Oats Sugar Wine Baguette White-Bread          
+r Tomato-Paste Tomato-Sauce Oat-Meal            
+r Peanuts              
+r Apple-Sauce Chicken-Noodle-Soup Tea-green Soup           
+r Mayonnaise Beer-can Rice Croissants Hot-Dog-Buns Tomato-Sauce Milk-Chocolate-Bar Bagles       
+r Pasta              

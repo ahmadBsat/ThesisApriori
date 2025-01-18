@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1039d851-d304-4a2b-a94d-6ef9cadeb3d3" name="Changes" comment="First Push with mainTrie and mainApriori.py">
-      <change afterPath="$PROJECT_DIR$/TestDatasets/DataFile_T=250_I=20_S=10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestDatasets/DataFile_T=250_I=20_S=15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestDatasets/DataFile_T=250_I=20_S=20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestDatasets/DataFile_T=250_I=20_S=5.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Combined_Results.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/TrieClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrieClass.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset_size_1000_frequent_itemsets.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset_size_1000_rules.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset_size_100_frequent_itemsets.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset_size_100_rules.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset_size_500_frequent_itemsets.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset_size_500_rules.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/enhancedPerf.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainApriori.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainApriori.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mainTRIE.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainTRIE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/originalPerf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/originalPerf.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.ToCopy.executor&quot;: &quot;Run&quot;,
     &quot;Python.TrieClass.executor&quot;: &quot;Run&quot;,
     &quot;Python.asda.executor&quot;: &quot;Run&quot;,
     &quot;Python.comparision.executor&quot;: &quot;Run&quot;,
@@ -63,7 +56,8 @@
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Thesis/aprioriAlgo/TestDatasets&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/Thesis/aprioriAlgo/SingleDataset&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;ChangesTree.GroupingKeys&quot;: []
@@ -71,6 +65,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Thesis\aprioriAlgo\SingleDataset" />
       <recent name="D:\Thesis\aprioriAlgo\TestDatasets" />
       <recent name="D:\Thesis\aprioriAlgo" />
     </key>

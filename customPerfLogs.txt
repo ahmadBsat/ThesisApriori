@@ -1,0 +1,11 @@
+2024-12-25 15:10:04,000 - INFO - Processing dataset: DataFile_T=1000_I=100_S=5.txt
+2024-12-25 15:10:04,017 - INFO - Iteration 1: Generating candidates of size 2
+2024-12-25 15:10:04,017 - INFO - Iteration 2: Generating candidates of size 3
+2024-12-25 15:10:04,017 - INFO - Iteration 3: Generating candidates of size 4
+2024-12-25 15:10:14,996 - INFO - Total time taken: 10.99 seconds
+2024-12-25 15:10:14,997 - INFO - Memory used (psutil): 21.77 MB
+2024-12-25 15:10:14,997 - INFO - Peak memory (tracemalloc): 44.22 MB
+2024-12-25 15:10:14,997 - INFO - Number of frequent itemsets found: 201
+2024-12-25 15:10:14,998 - INFO - Frequent itemsets saved to SingleDataset/DataFile_T=1000_I=100_S=5.txt_frequent_itemsets.txt
+2024-12-25 15:10:15,001 - INFO - Combined results saved to Combined_Results.csv
+2024-12-25 15:10:15,001 - INFO - Visualizing results for DataFile_T=1000_I=100_S=5.txt

@@ -1,7 +1,6 @@
 class Trie:
     def __init__(self):
         self.trie = {}
-
     def insert(self, itemset):
         """
         Insert a sorted itemset into the Trie.
@@ -13,7 +12,6 @@ class Trie:
             current_node = current_node[item]
         # Mark the end of this itemset in the Trie
         current_node['*'] = current_node.get('*', 0) + 1
-
     def get_support(self, itemset):
         """
         Retrieve the support count for a sorted itemset from the Trie.
@@ -24,7 +22,6 @@ class Trie:
                 return 0
             current_node = current_node[item]
         return current_node.get('*', 0)
-
     def generate_candidates(self, current_level_itemsets):
         """
         Generate candidate itemsets of size k+1 from frequent k-itemsets
@@ -49,7 +46,6 @@ class Trie:
                         candidates.add(candidate)
 
         return candidates
-
     def compress(self):
         """
         Compress the Trie by collapsing single-child nodes.

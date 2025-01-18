@@ -1,0 +1,1001 @@
+T T1 T2 T3 T4 T5
+r Milk Honey-Crunch-Oats   
+r Honey-Crunch-Oats Beer-can   
+r White-Bread    
+r Beer-bottle Apple-Juice Orange-Juice  
+r Bread Orange-Juice Milk Beer-bottle Honey-Crunch-Oats
+r Bread Bagles Apple-Juice  
+r Beer-can White-Bread Honey-Crunch-Oats Hot-Dog-Buns Milk
+r Bread Honey-Crunch-Oats Corn-Flakes Hot-Dog-Buns 
+r Bagles Beer-bottle Oat-Meal Beer-can White-Bread
+r Beer-bottle White-Bread   
+r Apple-Juice    
+r Oat-Meal    
+r Beer-bottle Oat-Meal Bagles Granola-Bars Corn-Flakes
+r Coffee Bread Beer-can Soda-bottle Oat-Meal
+r Cocoa-Rice-Cereal    
+r Bagles White-Bread Orange-Juice Baguette Granola-Bars
+r Bread Cereal Soda-bottle White-Bread Beer-can
+r Milk-organic    
+r Milk-organic Cereal Orange-Juice Croissants Hot-Dog-Buns
+r Milk-organic Granola-Bars Corn-Flakes  
+r Milk-organic Bagles Oat-Meal Beer-bottle Apple-Juice
+r Croissants Apple-Juice Orange-Juice Granola-Bars Corn-Flakes
+r Beer-bottle Hot-Dog-Buns Coffee Cereal Granola-Bars
+r Milk Orange-Juice   
+r Corn-Flakes Bagles   
+r Milk Beer-can Baguette Croissants 
+r Apple-Juice Orange-Juice   
+r Bread Milk-organic   
+r Soda-bottle    
+r Milk-organic    
+r White-Bread    
+r Granola-Bars Honey-Crunch-Oats   
+r Cereal Oat-Meal   
+r Baguette    
+r Cereal Beer-can Corn-Flakes  
+r Croissants Baguette Beer-can Oat-Meal Corn-Flakes
+r Honey-Crunch-Oats Cereal Hot-Dog-Buns Oat-Meal Milk
+r Honey-Crunch-Oats    
+r Milk-organic Beer-can Soda-bottle Honey-Crunch-Oats 
+r Honey-Crunch-Oats Soda-bottle Baguette  
+r Bagles White-Bread   
+r Baguette    
+r Honey-Crunch-Oats Bread Apple-Juice Beer-can Baguette
+r Beer-can    
+r Cocoa-Rice-Cereal Beer-can Beer-bottle  
+r Corn-Flakes Hot-Dog-Buns Baguette Coffee White-Bread
+r White-Bread Hot-Dog-Buns   
+r Milk Honey-Crunch-Oats Coffee Bread White-Bread
+r Orange-Juice    
+r Coffee    
+r White-Bread Milk Honey-Crunch-Oats  
+r Apple-Juice Granola-Bars Baguette Milk Oat-Meal
+r Bagles Milk   
+r Milk Honey-Crunch-Oats   
+r Cocoa-Rice-Cereal Croissants Milk Orange-Juice Bagles
+r Orange-Juice    
+r Milk Granola-Bars Croissants Oat-Meal Cereal
+r Hot-Dog-Buns Beer-can Coffee White-Bread Milk-organic
+r Granola-Bars Coffee Beer-bottle Soda-bottle Apple-Juice
+r Milk Hot-Dog-Buns   
+r Honey-Crunch-Oats Orange-Juice Beer-bottle Corn-Flakes Cereal
+r Milk Coffee Croissants Baguette Beer-can
+r Bagles    
+r Baguette Bagles Beer-can Apple-Juice Cocoa-Rice-Cereal
+r Baguette Bagles Granola-Bars Cereal Cocoa-Rice-Cereal
+r Oat-Meal Beer-can Orange-Juice  
+r Baguette Beer-bottle   
+r Milk-organic    
+r Croissants Soda-bottle Oat-Meal  
+r Honey-Crunch-Oats Orange-Juice Bread  
+r Granola-Bars Soda-bottle Bagles Cereal Beer-bottle
+r Cereal White-Bread Croissants Milk 
+r Corn-Flakes Coffee Beer-bottle  
+r Granola-Bars Hot-Dog-Buns Soda-bottle Orange-Juice Cocoa-Rice-Cereal
+r Baguette Coffee Beer-bottle Hot-Dog-Buns Soda-bottle
+r Bread Oat-Meal   
+r Corn-Flakes White-Bread Honey-Crunch-Oats Croissants Beer-bottle
+r Cocoa-Rice-Cereal Oat-Meal Orange-Juice  
+r Soda-bottle Apple-Juice Cereal Bagles 
+r Baguette Milk-organic   
+r Croissants Granola-Bars Bread Milk Honey-Crunch-Oats
+r Milk Beer-bottle Coffee Beer-can Soda-bottle
+r Honey-Crunch-Oats Corn-Flakes Croissants  
+r White-Bread Milk   
+r Cocoa-Rice-Cereal Cereal Granola-Bars Beer-bottle 
+r Milk    
+r Milk Beer-can Honey-Crunch-Oats Coffee 
+r Apple-Juice Hot-Dog-Buns Milk Honey-Crunch-Oats Bagles
+r White-Bread Soda-bottle Coffee Granola-Bars Corn-Flakes
+r Milk-organic Granola-Bars Orange-Juice Beer-bottle Cereal
+r Orange-Juice    
+r Cereal Milk-organic Milk Bread 
+r Beer-bottle Cocoa-Rice-Cereal Bagles Beer-can Honey-Crunch-Oats
+r Baguette White-Bread Coffee  
+r Corn-Flakes Beer-bottle Bread Apple-Juice 
+r Milk    
+r Honey-Crunch-Oats Milk Coffee  
+r Baguette Oat-Meal Bagles Granola-Bars 
+r Granola-Bars Baguette Hot-Dog-Buns Cocoa-Rice-Cereal Apple-Juice
+r Milk-organic Baguette Soda-bottle Granola-Bars Hot-Dog-Buns
+r Milk Croissants Cereal Corn-Flakes 
+r Granola-Bars Oat-Meal Milk Baguette Cocoa-Rice-Cereal
+r Coffee Cocoa-Rice-Cereal Corn-Flakes Orange-Juice 
+r Orange-Juice    
+r Hot-Dog-Buns    
+r Granola-Bars Oat-Meal Bread  
+r Apple-Juice    
+r Orange-Juice Beer-can White-Bread Soda-bottle Oat-Meal
+r Orange-Juice Milk   
+r Croissants Orange-Juice Soda-bottle Beer-bottle Corn-Flakes
+r White-Bread Orange-Juice Milk-organic  
+r Beer-can White-Bread Apple-Juice Cocoa-Rice-Cereal Soda-bottle
+r Cereal Baguette Beer-bottle Bagles Soda-bottle
+r Croissants Bagles Milk-organic  
+r Orange-Juice White-Bread Coffee Beer-bottle Croissants
+r Corn-Flakes Beer-can Milk-organic Cocoa-Rice-Cereal Oat-Meal
+r Honey-Crunch-Oats Soda-bottle Beer-bottle Bread Beer-can
+r Cereal    
+r Soda-bottle Cereal Bagles Milk-organic Beer-can
+r Coffee    
+r Orange-Juice Hot-Dog-Buns   
+r White-Bread Baguette   
+r White-Bread Orange-Juice   
+r White-Bread    
+r Coffee Cereal Cocoa-Rice-Cereal Milk-organic Soda-bottle
+r Beer-can Cereal Coffee Apple-Juice Cocoa-Rice-Cereal
+r Orange-Juice Granola-Bars   
+r Soda-bottle Apple-Juice   
+r Bagles    
+r Coffee Cereal   
+r Croissants White-Bread Bread Apple-Juice Hot-Dog-Buns
+r Granola-Bars    
+r Cereal    
+r Milk-organic Croissants White-Bread Hot-Dog-Buns Corn-Flakes
+r Beer-bottle White-Bread Granola-Bars Soda-bottle Coffee
+r Milk-organic    
+r Bagles    
+r White-Bread Coffee Baguette Hot-Dog-Buns 
+r Croissants Granola-Bars Corn-Flakes Beer-can Hot-Dog-Buns
+r Croissants Hot-Dog-Buns Bread Milk Beer-bottle
+r White-Bread Coffee Soda-bottle Milk 
+r Beer-can    
+r Orange-Juice Honey-Crunch-Oats   
+r Bagles Baguette   
+r White-Bread    
+r Hot-Dog-Buns    
+r Coffee Beer-bottle Bagles Cocoa-Rice-Cereal Honey-Crunch-Oats
+r Coffee Beer-bottle Soda-bottle Bagles Granola-Bars
+r Granola-Bars    
+r Milk-organic Orange-Juice Coffee Honey-Crunch-Oats 
+r Honey-Crunch-Oats Hot-Dog-Buns   
+r Baguette Honey-Crunch-Oats Oat-Meal Cocoa-Rice-Cereal Milk
+r White-Bread    
+r Coffee Honey-Crunch-Oats Cocoa-Rice-Cereal Orange-Juice 
+r Honey-Crunch-Oats Soda-bottle White-Bread Bagles Cereal
+r Granola-Bars Oat-Meal Soda-bottle Bagles Apple-Juice
+r Bagles Cocoa-Rice-Cereal Milk-organic  
+r Oat-Meal Milk Milk-organic Apple-Juice Coffee
+r Cereal Granola-Bars   
+r Orange-Juice Cocoa-Rice-Cereal Beer-bottle Apple-Juice Hot-Dog-Buns
+r Corn-Flakes Cocoa-Rice-Cereal Cereal Croissants Orange-Juice
+r White-Bread    
+r Beer-can Orange-Juice Milk White-Bread Cocoa-Rice-Cereal
+r Hot-Dog-Buns Apple-Juice Orange-Juice Corn-Flakes 
+r White-Bread    
+r Orange-Juice Milk   
+r Corn-Flakes Granola-Bars Baguette Oat-Meal Croissants
+r Soda-bottle Bread White-Bread Apple-Juice Baguette
+r Corn-Flakes Croissants Hot-Dog-Buns  
+r Soda-bottle Orange-Juice   
+r Cereal    
+r Beer-can    
+r Milk Croissants Bread  
+r Hot-Dog-Buns Bread Cereal  
+r Milk Milk-organic Hot-Dog-Buns Honey-Crunch-Oats Bread
+r Honey-Crunch-Oats    
+r Corn-Flakes Milk Honey-Crunch-Oats Granola-Bars 
+r Orange-Juice    
+r Baguette    
+r Croissants    
+r Beer-can Soda-bottle Milk Baguette 
+r Honey-Crunch-Oats Soda-bottle Granola-Bars Cocoa-Rice-Cereal 
+r Croissants Hot-Dog-Buns   
+r Bagles Soda-bottle Milk Oat-Meal Bread
+r Soda-bottle Granola-Bars Honey-Crunch-Oats  
+r Apple-Juice Croissants Bread Honey-Crunch-Oats Coffee
+r Honey-Crunch-Oats Milk   
+r Granola-Bars Beer-can Apple-Juice Orange-Juice Coffee
+r Coffee Corn-Flakes Milk-organic Granola-Bars Milk
+r Coffee Croissants Orange-Juice Corn-Flakes Hot-Dog-Buns
+r Soda-bottle Milk-organic Cereal White-Bread 
+r Croissants Beer-bottle Soda-bottle Granola-Bars Honey-Crunch-Oats
+r Apple-Juice Milk-organic   
+r Milk-organic Honey-Crunch-Oats   
+r Coffee Hot-Dog-Buns Beer-can Orange-Juice Oat-Meal
+r Beer-bottle Milk-organic Soda-bottle Oat-Meal 
+r Oat-Meal Beer-bottle Bagles  
+r White-Bread Milk Bagles Honey-Crunch-Oats Beer-bottle
+r Coffee Milk-organic Beer-can Apple-Juice Cocoa-Rice-Cereal
+r Oat-Meal Soda-bottle Granola-Bars Apple-Juice 
+r Hot-Dog-Buns Croissants Oat-Meal Coffee Milk
+r Bread Corn-Flakes Cereal Beer-can 
+r Bagles    
+r Milk-organic Bread Croissants  
+r Beer-can Soda-bottle Baguette Apple-Juice Croissants
+r Croissants    
+r White-Bread    
+r Beer-bottle Milk-organic   
+r Apple-Juice Beer-can   
+r Coffee Honey-Crunch-Oats Soda-bottle  
+r Oat-Meal Milk-organic Cereal Milk Baguette
+r Orange-Juice Coffee   
+r Honey-Crunch-Oats Cereal White-Bread  
+r Apple-Juice Granola-Bars Beer-bottle Croissants Orange-Juice
+r Soda-bottle Cocoa-Rice-Cereal Milk Croissants 
+r Coffee Granola-Bars Oat-Meal White-Bread Cocoa-Rice-Cereal
+r Baguette Cocoa-Rice-Cereal Bagles Milk Soda-bottle
+r Oat-Meal Corn-Flakes Bread  
+r Milk    
+r Croissants Bagles Beer-bottle  
+r Croissants    
+r Beer-can White-Bread   
+r White-Bread Bagles Corn-Flakes Cereal Beer-can
+r Cocoa-Rice-Cereal Bagles Oat-Meal Beer-can Coffee
+r Beer-bottle    
+r Honey-Crunch-Oats Granola-Bars Beer-can Hot-Dog-Buns Cocoa-Rice-Cereal
+r Milk Beer-bottle Soda-bottle Bagles Bread
+r Bagles Granola-Bars Milk-organic Milk Baguette
+r Milk-organic Baguette   
+r Milk Bread Soda-bottle Cocoa-Rice-Cereal White-Bread
+r Corn-Flakes Coffee Granola-Bars Soda-bottle Cocoa-Rice-Cereal
+r Hot-Dog-Buns Granola-Bars Milk Corn-Flakes Apple-Juice
+r Oat-Meal Cereal Corn-Flakes  
+r Orange-Juice Milk-organic Coffee Beer-can Hot-Dog-Buns
+r Granola-Bars Corn-Flakes   
+r Coffee Orange-Juice Croissants Bread 
+r Cereal    
+r Granola-Bars Cocoa-Rice-Cereal Cereal Honey-Crunch-Oats 
+r Corn-Flakes Coffee Hot-Dog-Buns Orange-Juice 
+r Beer-can    
+r Oat-Meal    
+r Cereal Granola-Bars Beer-can Coffee Bagles
+r White-Bread Beer-can Oat-Meal Cereal Soda-bottle
+r Milk-organic Beer-can Soda-bottle Croissants Hot-Dog-Buns
+r Cereal Granola-Bars Milk-organic Beer-bottle Apple-Juice
+r Croissants    
+r White-Bread    
+r Apple-Juice Cereal   
+r Bagles Cereal Hot-Dog-Buns Milk Cocoa-Rice-Cereal
+r Corn-Flakes Soda-bottle   
+r Apple-Juice Milk   
+r Soda-bottle Bread   
+r Cocoa-Rice-Cereal    
+r Honey-Crunch-Oats Beer-bottle Cereal Cocoa-Rice-Cereal Beer-can
+r Milk-organic Granola-Bars   
+r Granola-Bars Apple-Juice Bagles  
+r Corn-Flakes Orange-Juice Milk Granola-Bars Bagles
+r Milk-organic Corn-Flakes   
+r Orange-Juice Honey-Crunch-Oats Apple-Juice Oat-Meal Milk-organic
+r Corn-Flakes    
+r Hot-Dog-Buns Orange-Juice   
+r White-Bread Bagles Oat-Meal Hot-Dog-Buns 
+r Oat-Meal Granola-Bars Milk-organic Soda-bottle 
+r Coffee Beer-can Beer-bottle  
+r Soda-bottle Baguette   
+r Baguette    
+r Soda-bottle    
+r Milk-organic Croissants Soda-bottle Orange-Juice Beer-can
+r Apple-Juice    
+r Honey-Crunch-Oats Soda-bottle Coffee Granola-Bars 
+r Beer-bottle Oat-Meal Apple-Juice Hot-Dog-Buns 
+r Croissants Corn-Flakes White-Bread Soda-bottle Bread
+r Baguette Orange-Juice   
+r Cereal Bagles Oat-Meal Croissants Baguette
+r Milk Oat-Meal Beer-can Honey-Crunch-Oats 
+r Cocoa-Rice-Cereal    
+r Milk-organic Bread Granola-Bars  
+r Cereal Orange-Juice Hot-Dog-Buns Soda-bottle Beer-can
+r Croissants Cocoa-Rice-Cereal Orange-Juice Corn-Flakes Milk-organic
+r Bread Honey-Crunch-Oats   
+r White-Bread    
+r Cocoa-Rice-Cereal Milk-organic Coffee Oat-Meal Bread
+r White-Bread Orange-Juice Beer-can Hot-Dog-Buns 
+r Orange-Juice Cereal Oat-Meal  
+r Oat-Meal Beer-can Bread Cereal 
+r Cereal    
+r Honey-Crunch-Oats Cereal Apple-Juice  
+r Cereal Milk Croissants Granola-Bars Hot-Dog-Buns
+r Orange-Juice Apple-Juice Bagles White-Bread Baguette
+r Granola-Bars    
+r Milk-organic Cocoa-Rice-Cereal   
+r Honey-Crunch-Oats Milk-organic Milk Croissants Cereal
+r Coffee Cocoa-Rice-Cereal Corn-Flakes Croissants Hot-Dog-Buns
+r White-Bread Baguette Cereal Granola-Bars Milk
+r Milk-organic    
+r Apple-Juice    
+r Baguette    
+r Croissants Apple-Juice Hot-Dog-Buns Milk Oat-Meal
+r Milk    
+r Beer-can Milk Honey-Crunch-Oats  
+r Soda-bottle Cereal Bagles Granola-Bars 
+r Baguette    
+r Hot-Dog-Buns Milk Corn-Flakes Bread White-Bread
+r Beer-can Milk-organic   
+r Hot-Dog-Buns    
+r Oat-Meal Granola-Bars Cereal Milk-organic Honey-Crunch-Oats
+r Beer-can Cocoa-Rice-Cereal   
+r Corn-Flakes Apple-Juice Cereal Honey-Crunch-Oats Beer-can
+r Cereal White-Bread Soda-bottle Granola-Bars Beer-bottle
+r Granola-Bars Bread Croissants Soda-bottle Cereal
+r Milk-organic Bagles Cereal Beer-can Granola-Bars
+r Beer-bottle Cocoa-Rice-Cereal Bagles Beer-can Apple-Juice
+r Baguette Coffee Granola-Bars Milk-organic Oat-Meal
+r Apple-Juice Baguette Hot-Dog-Buns White-Bread Beer-can
+r Milk Granola-Bars   
+r Croissants Granola-Bars   
+r Orange-Juice    
+r Baguette Granola-Bars   
+r Beer-can Granola-Bars Milk Oat-Meal Soda-bottle
+r Cereal Orange-Juice Beer-can Hot-Dog-Buns White-Bread
+r Beer-can Oat-Meal Granola-Bars Soda-bottle Hot-Dog-Buns
+r Corn-Flakes Apple-Juice Cereal Baguette Beer-bottle
+r Croissants Milk Bagles Beer-bottle Hot-Dog-Buns
+r Cocoa-Rice-Cereal Baguette Oat-Meal Corn-Flakes Bread
+r Soda-bottle Beer-can   
+r Baguette Oat-Meal Orange-Juice Bagles 
+r Soda-bottle Croissants Orange-Juice Bagles 
+r Cocoa-Rice-Cereal Hot-Dog-Buns Orange-Juice Beer-bottle Bread
+r Honey-Crunch-Oats Bread Bagles  
+r Beer-bottle Oat-Meal Bread Beer-can Coffee
+r Cocoa-Rice-Cereal    
+r Cereal Milk-organic Bread  
+r Cocoa-Rice-Cereal Bagles Granola-Bars  
+r Coffee Beer-can Beer-bottle Baguette 
+r Bread Honey-Crunch-Oats Milk Soda-bottle 
+r Hot-Dog-Buns    
+r Honey-Crunch-Oats Corn-Flakes Oat-Meal Beer-can White-Bread
+r Hot-Dog-Buns Beer-can   
+r Beer-bottle Bread Soda-bottle Granola-Bars White-Bread
+r Soda-bottle    
+r Milk Soda-bottle   
+r Oat-Meal Honey-Crunch-Oats   
+r Baguette    
+r Beer-bottle    
+r Croissants Honey-Crunch-Oats   
+r Coffee Milk   
+r Cereal    
+r Beer-bottle    
+r Honey-Crunch-Oats Milk Cocoa-Rice-Cereal Beer-bottle Milk-organic
+r Oat-Meal Honey-Crunch-Oats Milk Coffee Cocoa-Rice-Cereal
+r Croissants Honey-Crunch-Oats Beer-can Bread Cocoa-Rice-Cereal
+r Honey-Crunch-Oats Beer-bottle Coffee Orange-Juice 
+r Baguette Beer-bottle Bagles  
+r Oat-Meal Beer-bottle Apple-Juice  
+r Bread Baguette Hot-Dog-Buns Corn-Flakes Milk-organic
+r Milk-organic Soda-bottle Hot-Dog-Buns Milk Bagles
+r Granola-Bars Bagles Baguette Beer-bottle Beer-can
+r Soda-bottle Oat-Meal Hot-Dog-Buns Baguette Orange-Juice
+r Beer-can Honey-Crunch-Oats Baguette Granola-Bars Milk-organic
+r White-Bread Granola-Bars   
+r Granola-Bars Croissants   
+r Corn-Flakes Granola-Bars Cocoa-Rice-Cereal  
+r Cocoa-Rice-Cereal Honey-Crunch-Oats   
+r Cocoa-Rice-Cereal Cereal   
+r Orange-Juice    
+r Oat-Meal Beer-can Cereal  
+r Bread    
+r Bread Beer-can Coffee Hot-Dog-Buns Cereal
+r Baguette Milk-organic   
+r White-Bread Beer-can Apple-Juice Cereal Hot-Dog-Buns
+r Croissants Cocoa-Rice-Cereal Soda-bottle  
+r Croissants Coffee Beer-bottle Cocoa-Rice-Cereal Granola-Bars
+r Apple-Juice Corn-Flakes Coffee  
+r Coffee Cereal Apple-Juice Honey-Crunch-Oats 
+r White-Bread Hot-Dog-Buns Milk Croissants Beer-bottle
+r White-Bread    
+r Hot-Dog-Buns    
+r Coffee Baguette Corn-Flakes Hot-Dog-Buns 
+r Baguette Soda-bottle   
+r Cereal Coffee Apple-Juice  
+r Bread Orange-Juice Cocoa-Rice-Cereal  
+r Oat-Meal Bread Bagles Apple-Juice Coffee
+r Croissants    
+r Oat-Meal Honey-Crunch-Oats   
+r Croissants Apple-Juice Coffee Soda-bottle Beer-bottle
+r Granola-Bars Beer-can Honey-Crunch-Oats Coffee Baguette
+r Cereal    
+r Milk Apple-Juice Bagles White-Bread Beer-bottle
+r Soda-bottle Baguette Bagles  
+r White-Bread Hot-Dog-Buns Beer-bottle  
+r Orange-Juice Cocoa-Rice-Cereal Oat-Meal Beer-bottle Apple-Juice
+r Apple-Juice Soda-bottle Milk Milk-organic White-Bread
+r Granola-Bars Croissants Hot-Dog-Buns Coffee Honey-Crunch-Oats
+r Milk Baguette Apple-Juice Granola-Bars Oat-Meal
+r Beer-can Granola-Bars   
+r Cereal Corn-Flakes Honey-Crunch-Oats Bread Milk
+r Soda-bottle Milk Bread Oat-Meal Orange-Juice
+r Granola-Bars Croissants Oat-Meal  
+r Cereal Beer-can Coffee Beer-bottle 
+r Cocoa-Rice-Cereal White-Bread   
+r Oat-Meal    
+r Orange-Juice Cereal Bread Baguette Cocoa-Rice-Cereal
+r Honey-Crunch-Oats    
+r Croissants    
+r Oat-Meal    
+r Granola-Bars White-Bread Corn-Flakes  
+r Corn-Flakes Milk Oat-Meal  
+r Soda-bottle Bagles Beer-can  
+r Beer-can Beer-bottle Corn-Flakes Soda-bottle Cocoa-Rice-Cereal
+r Coffee White-Bread   
+r White-Bread Cocoa-Rice-Cereal Milk-organic Orange-Juice Beer-can
+r Bagles Soda-bottle Hot-Dog-Buns Granola-Bars White-Bread
+r Bread Coffee Cocoa-Rice-Cereal Corn-Flakes Hot-Dog-Buns
+r Coffee Milk Bagles Hot-Dog-Buns Oat-Meal
+r Soda-bottle Oat-Meal Hot-Dog-Buns Cocoa-Rice-Cereal 
+r Coffee Milk-organic Beer-bottle Apple-Juice Milk
+r Orange-Juice Milk-organic Bread Croissants Hot-Dog-Buns
+r Honey-Crunch-Oats Orange-Juice Bagles Milk-organic 
+r Coffee Soda-bottle White-Bread Cereal Beer-can
+r Bread Soda-bottle Coffee Milk-organic Beer-bottle
+r Baguette Croissants Milk-organic Cereal Orange-Juice
+r Coffee Beer-can   
+r Croissants Hot-Dog-Buns   
+r White-Bread Beer-can Orange-Juice Beer-bottle Milk
+r Milk-organic    
+r Croissants Baguette   
+r Granola-Bars Beer-bottle   
+r Coffee Honey-Crunch-Oats Granola-Bars Beer-bottle Milk
+r Orange-Juice Milk   
+r Milk Baguette Croissants Corn-Flakes 
+r Corn-Flakes Coffee Cereal Croissants Beer-bottle
+r Orange-Juice Corn-Flakes White-Bread Cocoa-Rice-Cereal Granola-Bars
+r White-Bread Honey-Crunch-Oats Milk-organic Bagles 
+r Milk Croissants Orange-Juice Cereal 
+r White-Bread Cereal Corn-Flakes Granola-Bars Bread
+r Milk Soda-bottle Apple-Juice Oat-Meal Croissants
+r Baguette Granola-Bars Orange-Juice Bread Corn-Flakes
+r Honey-Crunch-Oats Orange-Juice Beer-can Bagles Croissants
+r Beer-can Bagles   
+r Milk-organic Cereal Oat-Meal Beer-can Hot-Dog-Buns
+r Soda-bottle Apple-Juice   
+r Oat-Meal Corn-Flakes Honey-Crunch-Oats Cereal Cocoa-Rice-Cereal
+r Baguette    
+r Bread Soda-bottle Baguette White-Bread Granola-Bars
+r Granola-Bars    
+r Apple-Juice Granola-Bars Cocoa-Rice-Cereal Baguette Beer-bottle
+r Soda-bottle Beer-bottle Cereal Oat-Meal Hot-Dog-Buns
+r Baguette Soda-bottle   
+r Croissants Milk-organic   
+r Granola-Bars Oat-Meal Orange-Juice Soda-bottle Cocoa-Rice-Cereal
+r White-Bread Cereal Oat-Meal Beer-can Bagles
+r Coffee White-Bread Oat-Meal Beer-can Croissants
+r Beer-bottle Baguette Honey-Crunch-Oats Bread Croissants
+r Soda-bottle Honey-Crunch-Oats Hot-Dog-Buns Baguette 
+r Apple-Juice Beer-bottle Orange-Juice Soda-bottle Baguette
+r Beer-bottle Oat-Meal Hot-Dog-Buns Bread Milk
+r Bagles Soda-bottle   
+r Corn-Flakes Cereal Apple-Juice White-Bread Honey-Crunch-Oats
+r Hot-Dog-Buns    
+r Milk-organic    
+r Cocoa-Rice-Cereal    
+r Corn-Flakes White-Bread Apple-Juice Bread Milk
+r Oat-Meal    
+r Cereal Beer-bottle Soda-bottle Honey-Crunch-Oats White-Bread
+r Croissants Orange-Juice Bread Soda-bottle White-Bread
+r Hot-Dog-Buns Cereal Coffee Apple-Juice Milk
+r Granola-Bars Bread Hot-Dog-Buns Beer-can Coffee
+r Apple-Juice Bagles Coffee White-Bread Croissants
+r Beer-bottle Beer-can Orange-Juice Granola-Bars Corn-Flakes
+r Orange-Juice Milk-organic   
+r Honey-Crunch-Oats    
+r Bread Apple-Juice   
+r Beer-bottle Coffee   
+r Soda-bottle White-Bread Milk Honey-Crunch-Oats Apple-Juice
+r Orange-Juice    
+r Cereal Orange-Juice Apple-Juice Oat-Meal Coffee
+r Corn-Flakes Cereal Beer-can  
+r Honey-Crunch-Oats Milk-organic Beer-bottle Soda-bottle Orange-Juice
+r Bread Hot-Dog-Buns Bagles Coffee 
+r Bread Granola-Bars   
+r Corn-Flakes    
+r Bread Granola-Bars Beer-bottle White-Bread Honey-Crunch-Oats
+r Cocoa-Rice-Cereal    
+r Granola-Bars Beer-can   
+r Croissants Beer-can Apple-Juice Baguette 
+r Oat-Meal Bread Orange-Juice Beer-can Croissants
+r Granola-Bars    
+r Bagles    
+r Corn-Flakes Soda-bottle Beer-bottle Croissants Milk
+r Beer-can Honey-Crunch-Oats Oat-Meal Apple-Juice Beer-bottle
+r Apple-Juice White-Bread Soda-bottle Bread Coffee
+r Soda-bottle Beer-bottle   
+r Croissants Milk-organic   
+r Honey-Crunch-Oats Coffee Beer-can  
+r Cocoa-Rice-Cereal Milk White-Bread Bread Beer-can
+r Cereal Soda-bottle Orange-Juice Corn-Flakes Milk
+r Beer-bottle Granola-Bars Oat-Meal Coffee Milk-organic
+r Oat-Meal Coffee Milk-organic  
+r Apple-Juice White-Bread Bread  
+r Honey-Crunch-Oats Cocoa-Rice-Cereal Oat-Meal Cereal Corn-Flakes
+r Coffee Soda-bottle   
+r Soda-bottle Beer-bottle Oat-Meal White-Bread 
+r Coffee Corn-Flakes   
+r Beer-can Apple-Juice Bagles Oat-Meal Croissants
+r Bread Croissants   
+r Cereal Granola-Bars Hot-Dog-Buns  
+r Bagles Hot-Dog-Buns Milk Cereal Croissants
+r Croissants Soda-bottle Bagles Honey-Crunch-Oats Hot-Dog-Buns
+r Honey-Crunch-Oats Soda-bottle Croissants Hot-Dog-Buns 
+r Croissants Apple-Juice Orange-Juice Hot-Dog-Buns Milk
+r Oat-Meal Bagles Apple-Juice Baguette Cocoa-Rice-Cereal
+r Oat-Meal Hot-Dog-Buns   
+r Honey-Crunch-Oats    
+r Honey-Crunch-Oats Cocoa-Rice-Cereal Bagles  
+r Honey-Crunch-Oats Croissants   
+r Milk Baguette Granola-Bars  
+r Beer-can    
+r Cocoa-Rice-Cereal Milk Bread Bagles 
+r Beer-can Soda-bottle Cereal Hot-Dog-Buns 
+r Corn-Flakes Orange-Juice Croissants Milk-organic 
+r Cocoa-Rice-Cereal Beer-bottle Cereal White-Bread Coffee
+r Milk-organic Oat-Meal Beer-can  
+r Milk-organic White-Bread Orange-Juice  
+r Cereal    
+r Granola-Bars Soda-bottle Bread Orange-Juice 
+r Cereal Bread Coffee Cocoa-Rice-Cereal Milk-organic
+r White-Bread Bread Cocoa-Rice-Cereal Oat-Meal Orange-Juice
+r Oat-Meal Soda-bottle Honey-Crunch-Oats Granola-Bars Bagles
+r Beer-bottle    
+r Beer-bottle Bread Baguette Granola-Bars Soda-bottle
+r Milk-organic    
+r Milk-organic Soda-bottle White-Bread Orange-Juice Bagles
+r Hot-Dog-Buns    
+r Beer-can Oat-Meal Orange-Juice  
+r Bagles Soda-bottle Coffee Milk-organic Beer-bottle
+r Apple-Juice Bread Orange-Juice Soda-bottle 
+r Milk-organic Soda-bottle   
+r Baguette Milk Beer-bottle Bread Croissants
+r Soda-bottle Hot-Dog-Buns   
+r Granola-Bars Orange-Juice Soda-bottle White-Bread 
+r Beer-can Corn-Flakes Cereal Bagles Orange-Juice
+r Cocoa-Rice-Cereal Baguette   
+r Orange-Juice Cocoa-Rice-Cereal Bagles Granola-Bars 
+r Bagles Baguette Beer-can Beer-bottle Hot-Dog-Buns
+r Oat-Meal Milk Orange-Juice Granola-Bars Cocoa-Rice-Cereal
+r Oat-Meal    
+r Oat-Meal Corn-Flakes   
+r Bread Beer-bottle Milk Oat-Meal Hot-Dog-Buns
+r Milk-organic    
+r Cocoa-Rice-Cereal Honey-Crunch-Oats Soda-bottle Coffee Cereal
+r Orange-Juice Bread   
+r Milk-organic Oat-Meal Bagles Granola-Bars White-Bread
+r Honey-Crunch-Oats Milk   
+r Beer-bottle    
+r Granola-Bars Coffee White-Bread Beer-bottle Cocoa-Rice-Cereal
+r Soda-bottle    
+r Bagles Cereal   
+r Baguette    
+r Baguette Cereal Croissants Milk-organic Hot-Dog-Buns
+r Coffee Bagles Corn-Flakes Oat-Meal 
+r Milk-organic Oat-Meal Cocoa-Rice-Cereal Beer-can Orange-Juice
+r Cereal Beer-bottle Hot-Dog-Buns  
+r Beer-can Cocoa-Rice-Cereal Coffee Milk 
+r Cocoa-Rice-Cereal    
+r Oat-Meal Milk Apple-Juice Cocoa-Rice-Cereal Soda-bottle
+r Orange-Juice Beer-bottle Bread Soda-bottle Honey-Crunch-Oats
+r Bread Granola-Bars Cereal  
+r White-Bread Cocoa-Rice-Cereal Apple-Juice Coffee Milk
+r Bread Oat-Meal Corn-Flakes  
+r Coffee Hot-Dog-Buns Croissants Cocoa-Rice-Cereal Milk
+r Bagles Orange-Juice Cereal Cocoa-Rice-Cereal Coffee
+r Bagles    
+r Granola-Bars    
+r Cocoa-Rice-Cereal Granola-Bars   
+r Bagles Oat-Meal Corn-Flakes Milk 
+r Honey-Crunch-Oats Corn-Flakes Soda-bottle Baguette Milk-organic
+r Milk-organic Honey-Crunch-Oats Hot-Dog-Buns Beer-can Oat-Meal
+r Bread Coffee Orange-Juice Beer-bottle Apple-Juice
+r Beer-can Orange-Juice Granola-Bars Hot-Dog-Buns Milk-organic
+r Hot-Dog-Buns    
+r Apple-Juice Bread Bagles Baguette 
+r Granola-Bars White-Bread Milk  
+r Beer-can Bread Cereal Coffee Cocoa-Rice-Cereal
+r Croissants Soda-bottle   
+r Beer-bottle Cereal Honey-Crunch-Oats  
+r Bagles Beer-bottle Honey-Crunch-Oats  
+r White-Bread Baguette Cereal Beer-can 
+r Apple-Juice    
+r Beer-can    
+r Milk-organic Bread Oat-Meal  
+r Cereal Apple-Juice   
+r Coffee    
+r Croissants Hot-Dog-Buns Beer-can Milk-organic Honey-Crunch-Oats
+r Soda-bottle    
+r Orange-Juice Apple-Juice   
+r Hot-Dog-Buns Milk Oat-Meal Orange-Juice Honey-Crunch-Oats
+r Cocoa-Rice-Cereal    
+r Apple-Juice White-Bread Granola-Bars Coffee 
+r Milk-organic Baguette Corn-Flakes Bagles Oat-Meal
+r Oat-Meal    
+r Coffee Beer-bottle Milk-organic Oat-Meal White-Bread
+r Cocoa-Rice-Cereal Hot-Dog-Buns Bagles  
+r Croissants Beer-bottle Cocoa-Rice-Cereal Hot-Dog-Buns Cereal
+r Cereal Milk Beer-can White-Bread 
+r Bread Soda-bottle Milk White-Bread Orange-Juice
+r Bagles Beer-can Hot-Dog-Buns Corn-Flakes 
+r Milk-organic Hot-Dog-Buns Baguette Milk Croissants
+r Cocoa-Rice-Cereal    
+r Oat-Meal Milk Hot-Dog-Buns  
+r Cereal Granola-Bars Hot-Dog-Buns Apple-Juice Cocoa-Rice-Cereal
+r Apple-Juice Hot-Dog-Buns Croissants Milk-organic Milk
+r Coffee Oat-Meal White-Bread Apple-Juice Croissants
+r Milk-organic Orange-Juice Apple-Juice Beer-bottle Baguette
+r White-Bread Oat-Meal Beer-can  
+r Orange-Juice Oat-Meal   
+r Hot-Dog-Buns Milk Honey-Crunch-Oats Milk-organic Coffee
+r Baguette Milk-organic Soda-bottle Beer-can Oat-Meal
+r Milk Beer-can Coffee Bagles Orange-Juice
+r Bagles Granola-Bars   
+r Bagles Cereal   
+r Oat-Meal Baguette Coffee Soda-bottle Hot-Dog-Buns
+r Bagles Orange-Juice Apple-Juice Honey-Crunch-Oats 
+r Oat-Meal    
+r Milk Milk-organic Croissants Hot-Dog-Buns Cereal
+r Cocoa-Rice-Cereal Orange-Juice Honey-Crunch-Oats  
+r Granola-Bars Milk Bread Bagles Cocoa-Rice-Cereal
+r Croissants Bread Soda-bottle Oat-Meal Granola-Bars
+r Beer-bottle    
+r Bagles Coffee Cereal Oat-Meal Honey-Crunch-Oats
+r Croissants    
+r Milk-organic Croissants   
+r White-Bread Cocoa-Rice-Cereal Apple-Juice Beer-bottle Cereal
+r Bagles    
+r White-Bread    
+r Honey-Crunch-Oats Beer-bottle Milk-organic Apple-Juice 
+r Croissants Bread Corn-Flakes Apple-Juice Granola-Bars
+r Bread Croissants Soda-bottle  
+r Coffee Soda-bottle Cocoa-Rice-Cereal Cereal Oat-Meal
+r Apple-Juice Hot-Dog-Buns Cereal Bagles White-Bread
+r Beer-bottle Milk-organic Cocoa-Rice-Cereal Bagles Corn-Flakes
+r Beer-can    
+r Milk-organic    
+r Oat-Meal Cereal   
+r Oat-Meal Corn-Flakes   
+r Granola-Bars Baguette Milk-organic Cereal Cocoa-Rice-Cereal
+r Baguette Granola-Bars Croissants  
+r Croissants Granola-Bars Coffee Apple-Juice Beer-can
+r White-Bread Cocoa-Rice-Cereal Granola-Bars Soda-bottle Coffee
+r Milk-organic Corn-Flakes   
+r Orange-Juice Milk Croissants Beer-bottle Milk-organic
+r Corn-Flakes Milk Bagles Oat-Meal Granola-Bars
+r Hot-Dog-Buns Croissants   
+r Baguette Croissants Cereal Corn-Flakes Granola-Bars
+r White-Bread    
+r White-Bread Honey-Crunch-Oats Bread  
+r Beer-bottle Apple-Juice Baguette  
+r Soda-bottle Apple-Juice   
+r Soda-bottle Milk White-Bread Honey-Crunch-Oats Orange-Juice
+r Milk-organic Granola-Bars Honey-Crunch-Oats Milk Croissants
+r Baguette Apple-Juice Croissants Granola-Bars Honey-Crunch-Oats
+r Milk-organic Honey-Crunch-Oats Orange-Juice Croissants Baguette
+r Baguette Apple-Juice Coffee Cocoa-Rice-Cereal Orange-Juice
+r Coffee Orange-Juice Milk Hot-Dog-Buns 
+r Cereal Milk-organic Hot-Dog-Buns White-Bread Croissants
+r Milk    
+r Orange-Juice Honey-Crunch-Oats Cocoa-Rice-Cereal Hot-Dog-Buns 
+r Milk Cocoa-Rice-Cereal Soda-bottle Bread 
+r Beer-bottle Soda-bottle Cocoa-Rice-Cereal Coffee Croissants
+r Milk-organic Honey-Crunch-Oats Corn-Flakes  
+r Milk Oat-Meal   
+r Beer-can    
+r Croissants Beer-bottle Milk-organic Granola-Bars Orange-Juice
+r White-Bread Milk Granola-Bars  
+r Milk Corn-Flakes Coffee Cocoa-Rice-Cereal Beer-bottle
+r Coffee    
+r Milk-organic Honey-Crunch-Oats Corn-Flakes Cereal Milk
+r Oat-Meal Cereal Beer-can  
+r Coffee    
+r Apple-Juice    
+r Baguette Coffee White-Bread  
+r Milk Coffee   
+r Bread Croissants   
+r Bread    
+r Corn-Flakes Coffee   
+r Bagles Coffee Honey-Crunch-Oats Oat-Meal Hot-Dog-Buns
+r Corn-Flakes Beer-can   
+r Beer-bottle Beer-can Soda-bottle Granola-Bars Croissants
+r Honey-Crunch-Oats Apple-Juice Bread Baguette Granola-Bars
+r Oat-Meal Beer-can Beer-bottle Apple-Juice Bagles
+r Croissants Oat-Meal Bagles Milk Cereal
+r Beer-bottle Honey-Crunch-Oats White-Bread Oat-Meal Beer-can
+r Honey-Crunch-Oats Bread Baguette White-Bread Coffee
+r Cereal    
+r Hot-Dog-Buns Orange-Juice Milk-organic Honey-Crunch-Oats Milk
+r Apple-Juice Beer-can Granola-Bars Baguette Corn-Flakes
+r Bagles Milk White-Bread Bread Hot-Dog-Buns
+r White-Bread Cocoa-Rice-Cereal Honey-Crunch-Oats Bread Baguette
+r Honey-Crunch-Oats Milk-organic   
+r Apple-Juice Beer-can Milk-organic Cereal Granola-Bars
+r Beer-can Cereal Corn-Flakes Hot-Dog-Buns Granola-Bars
+r Cocoa-Rice-Cereal Bagles Beer-can Coffee Granola-Bars
+r Granola-Bars Apple-Juice Cocoa-Rice-Cereal Soda-bottle Oat-Meal
+r Orange-Juice Honey-Crunch-Oats Cereal Corn-Flakes Milk-organic
+r Soda-bottle    
+r Hot-Dog-Buns    
+r White-Bread Granola-Bars   
+r White-Bread Granola-Bars   
+r Bread Cocoa-Rice-Cereal Cereal Milk-organic 
+r Beer-can    
+r Beer-can Coffee Bread Oat-Meal Orange-Juice
+r Orange-Juice Milk Bagles Bread Cereal
+r Bread Coffee Beer-can Croissants Oat-Meal
+r White-Bread    
+r Granola-Bars Coffee Orange-Juice Soda-bottle Milk-organic
+r Beer-bottle Orange-Juice   
+r Oat-Meal    
+r White-Bread Beer-can Honey-Crunch-Oats Cocoa-Rice-Cereal Croissants
+r Orange-Juice    
+r Cereal Milk-organic Bagles Honey-Crunch-Oats Oat-Meal
+r Corn-Flakes Milk Orange-Juice Apple-Juice White-Bread
+r Hot-Dog-Buns    
+r Coffee    
+r White-Bread Corn-Flakes Milk-organic Hot-Dog-Buns Granola-Bars
+r Bagles Croissants Bread Milk-organic 
+r Milk Honey-Crunch-Oats White-Bread Cereal 
+r Corn-Flakes Croissants Beer-bottle  
+r Beer-bottle Bread Orange-Juice Beer-can Honey-Crunch-Oats
+r Coffee Soda-bottle Hot-Dog-Buns Baguette Cereal
+r Bagles Cereal Baguette  
+r Baguette Milk-organic Apple-Juice Soda-bottle Cocoa-Rice-Cereal
+r Apple-Juice Beer-can Baguette Bread 
+r Beer-can    
+r Baguette Beer-bottle   
+r Beer-can Oat-Meal Baguette Soda-bottle Croissants
+r Apple-Juice    
+r Bagles Milk White-Bread Granola-Bars Beer-can
+r Beer-can Hot-Dog-Buns Apple-Juice Milk-organic 
+r Honey-Crunch-Oats    
+r Granola-Bars    
+r Coffee Corn-Flakes Cocoa-Rice-Cereal Beer-bottle Bread
+r Croissants    
+r Milk-organic Hot-Dog-Buns Baguette  
+r Oat-Meal    
+r Milk Cereal Croissants Hot-Dog-Buns 
+r Milk-organic Orange-Juice Baguette Corn-Flakes 
+r Baguette Oat-Meal Granola-Bars Cereal Bagles
+r Milk Milk-organic White-Bread  
+r Corn-Flakes    
+r Milk-organic    
+r White-Bread Cocoa-Rice-Cereal Granola-Bars Hot-Dog-Buns 
+r Oat-Meal Croissants Cocoa-Rice-Cereal Cereal Baguette
+r Cereal Baguette Orange-Juice Milk White-Bread
+r Baguette Hot-Dog-Buns Orange-Juice Corn-Flakes Cereal
+r Beer-can    
+r Oat-Meal Bagles   
+r Milk Beer-bottle Beer-can Bagles Baguette
+r Apple-Juice White-Bread   
+r Bread Hot-Dog-Buns Apple-Juice  
+r Milk-organic    
+r Soda-bottle    
+r Cocoa-Rice-Cereal Cereal Orange-Juice  
+r Baguette Beer-can   
+r Bread Honey-Crunch-Oats   
+r Milk Oat-Meal Coffee Bagles Milk-organic
+r Bagles Bread Oat-Meal Milk-organic Soda-bottle
+r Hot-Dog-Buns White-Bread Bread Corn-Flakes Croissants
+r Beer-bottle Corn-Flakes Coffee Soda-bottle Milk-organic
+r Hot-Dog-Buns Orange-Juice Beer-bottle  
+r Orange-Juice Baguette Coffee Bagles Milk
+r Cereal Honey-Crunch-Oats   
+r Apple-Juice Oat-Meal Coffee Corn-Flakes Granola-Bars
+r Milk-organic Corn-Flakes Hot-Dog-Buns Beer-can Baguette
+r Coffee Hot-Dog-Buns Bagles Milk-organic 
+r Apple-Juice Milk-organic   
+r Baguette Beer-bottle Beer-can Corn-Flakes 
+r Granola-Bars Beer-can Hot-Dog-Buns Cereal 
+r Milk    
+r Bread Corn-Flakes Oat-Meal Cocoa-Rice-Cereal 
+r Honey-Crunch-Oats Milk-organic Cereal Hot-Dog-Buns Coffee
+r Granola-Bars Croissants   
+r Oat-Meal Honey-Crunch-Oats   
+r Coffee Corn-Flakes Croissants Bagles Beer-bottle
+r Bagles White-Bread Honey-Crunch-Oats Hot-Dog-Buns 
+r Cereal Beer-bottle Soda-bottle Bagles Croissants
+r White-Bread Hot-Dog-Buns   
+r Bread Bagles Hot-Dog-Buns Baguette Cereal
+r Milk Croissants Honey-Crunch-Oats Bread Hot-Dog-Buns
+r Granola-Bars Honey-Crunch-Oats Coffee Oat-Meal Milk-organic
+r Cocoa-Rice-Cereal    
+r Bagles Honey-Crunch-Oats Baguette Milk-organic Croissants
+r Beer-can Croissants   
+r Orange-Juice White-Bread Croissants Milk Granola-Bars
+r Coffee Cocoa-Rice-Cereal Orange-Juice Baguette 
+r Bread Granola-Bars Cereal Coffee Cocoa-Rice-Cereal
+r Milk-organic Cocoa-Rice-Cereal   
+r Milk-organic Baguette   
+r Hot-Dog-Buns Beer-bottle   
+r Bread Cereal   
+r Croissants White-Bread Coffee Milk Baguette
+r Soda-bottle    
+r Coffee Orange-Juice Milk Soda-bottle 
+r Orange-Juice White-Bread Corn-Flakes Beer-can Croissants
+r Cocoa-Rice-Cereal Honey-Crunch-Oats Beer-can Oat-Meal Orange-Juice
+r Oat-Meal Beer-can Baguette Honey-Crunch-Oats Beer-bottle
+r Milk    
+r Bread Soda-bottle   
+r Milk    
+r Coffee Baguette Beer-bottle Apple-Juice Bagles
+r White-Bread    
+r Corn-Flakes    
+r Beer-can Oat-Meal Cereal Orange-Juice Croissants
+r Cocoa-Rice-Cereal Hot-Dog-Buns   
+r Baguette Hot-Dog-Buns Orange-Juice  
+r Beer-bottle Granola-Bars White-Bread Hot-Dog-Buns 
+r Bagles    
+r Bagles Hot-Dog-Buns Apple-Juice Cereal Milk-organic
+r Bagles    
+r Corn-Flakes White-Bread Honey-Crunch-Oats  
+r Cereal White-Bread Honey-Crunch-Oats  
+r Croissants    
+r Honey-Crunch-Oats Beer-bottle Croissants Cocoa-Rice-Cereal Hot-Dog-Buns
+r Milk-organic Granola-Bars Cocoa-Rice-Cereal Soda-bottle Beer-bottle
+r Bread    
+r Cereal White-Bread Coffee Hot-Dog-Buns Oat-Meal
+r Croissants Cereal Hot-Dog-Buns  
+r Cocoa-Rice-Cereal Soda-bottle   
+r Bagles Croissants   
+r Bagles Cereal Hot-Dog-Buns  
+r Croissants Baguette Honey-Crunch-Oats Hot-Dog-Buns Apple-Juice
+r Soda-bottle    
+r Oat-Meal Milk-organic Cereal Milk Hot-Dog-Buns
+r Granola-Bars Soda-bottle Honey-Crunch-Oats Bread Beer-can
+r Bread Cereal Bagles Croissants Baguette
+r Beer-can Oat-Meal Hot-Dog-Buns Cereal 
+r Honey-Crunch-Oats Apple-Juice Soda-bottle Beer-bottle 
+r Orange-Juice Coffee Milk-organic Beer-bottle Baguette
+r Beer-bottle    
+r Croissants Milk Apple-Juice Cereal Beer-bottle
+r Corn-Flakes Croissants Coffee Cereal Milk
+r Honey-Crunch-Oats Baguette   
+r Cereal    
+r Milk-organic Bagles Cereal White-Bread Honey-Crunch-Oats
+r Coffee Oat-Meal   
+r Croissants Corn-Flakes Beer-can Soda-bottle Oat-Meal
+r Cocoa-Rice-Cereal    
+r Bread Soda-bottle Cocoa-Rice-Cereal Corn-Flakes Beer-can
+r Baguette    
+r Soda-bottle Milk Beer-bottle Milk-organic 
+r Beer-can Cereal Oat-Meal  
+r Corn-Flakes Croissants Baguette  
+r Baguette Milk Cereal Coffee Hot-Dog-Buns
+r Milk Beer-bottle Soda-bottle Corn-Flakes Granola-Bars
+r Milk White-Bread Oat-Meal Granola-Bars Beer-can
+r Cereal Corn-Flakes Croissants  
+r Beer-bottle Hot-Dog-Buns Soda-bottle Oat-Meal 
+r Soda-bottle Baguette Bread Oat-Meal Honey-Crunch-Oats
+r Baguette Orange-Juice Bread Hot-Dog-Buns Soda-bottle
+r Bread Corn-Flakes Milk Beer-bottle Cocoa-Rice-Cereal
+r Beer-can    
+r Bagles Beer-bottle Beer-can Cocoa-Rice-Cereal 
+r Apple-Juice Beer-can Beer-bottle Baguette Granola-Bars
+r White-Bread    
+r Beer-bottle    
+r Beer-bottle Oat-Meal Milk-organic Cocoa-Rice-Cereal 
+r Cocoa-Rice-Cereal    
+r Cocoa-Rice-Cereal Coffee Apple-Juice White-Bread Milk
+r Cocoa-Rice-Cereal Granola-Bars Coffee Beer-bottle 
+r Milk Oat-Meal Milk-organic Cereal Cocoa-Rice-Cereal
+r Cereal Bagles   
+r Beer-can Bread Milk-organic Granola-Bars White-Bread
+r Apple-Juice Milk-organic Hot-Dog-Buns Corn-Flakes Croissants
+r White-Bread    
+r Beer-bottle Bagles Oat-Meal Bread Hot-Dog-Buns
+r Croissants    
+r Beer-can Cocoa-Rice-Cereal Soda-bottle Coffee Hot-Dog-Buns
+r Coffee Baguette   
+r Milk Beer-can Apple-Juice  
+r Milk    
+r Milk    
+r Hot-Dog-Buns Baguette Honey-Crunch-Oats Corn-Flakes 
+r Bagles Oat-Meal Croissants Hot-Dog-Buns Cocoa-Rice-Cereal
+r Coffee Soda-bottle   
+r Bread Cocoa-Rice-Cereal Beer-bottle  
+r Beer-can Oat-Meal   
+r Milk-organic Beer-can   
+r Apple-Juice    
+r Apple-Juice    
+r Beer-bottle    
+r Milk-organic Baguette Granola-Bars Apple-Juice 
+r Coffee Baguette   
+r Hot-Dog-Buns    
+r Soda-bottle Baguette Beer-bottle Hot-Dog-Buns Honey-Crunch-Oats
+r Bagles White-Bread Corn-Flakes  
+r White-Bread Apple-Juice   
+r Cereal Bagles   
+r Hot-Dog-Buns Baguette Bagles Soda-bottle 
+r Granola-Bars Beer-bottle White-Bread Bread Milk-organic
+r Apple-Juice    
+r Corn-Flakes Hot-Dog-Buns Cereal  
+r Hot-Dog-Buns    
+r Soda-bottle Granola-Bars Cereal Oat-Meal Baguette
+r Milk Orange-Juice Coffee Granola-Bars 
+r Milk Oat-Meal Beer-can Cereal Coffee
+r Coffee Beer-can Bread Beer-bottle Croissants
+r Oat-Meal Bagles Cocoa-Rice-Cereal Milk-organic Soda-bottle
+r Cereal Milk-organic Corn-Flakes Bagles Baguette
+r Orange-Juice Bagles Hot-Dog-Buns Corn-Flakes 
+r Orange-Juice Milk Cocoa-Rice-Cereal  
+r Bagles Beer-can Croissants Cocoa-Rice-Cereal Beer-bottle
+r Hot-Dog-Buns Oat-Meal Honey-Crunch-Oats Baguette 
+r White-Bread Milk-organic Granola-Bars Orange-Juice Apple-Juice
+r Granola-Bars Corn-Flakes Oat-Meal Croissants Baguette
+r Oat-Meal Apple-Juice Bread Soda-bottle Croissants
+r Bagles Orange-Juice Beer-can Corn-Flakes 
+r Beer-bottle Oat-Meal Cocoa-Rice-Cereal Cereal Bread
+r Milk-organic Milk Granola-Bars  
+r Bread Milk   
+r Cocoa-Rice-Cereal Baguette White-Bread Milk-organic Bread
+r Beer-bottle Apple-Juice   
+r Milk-organic Bread Baguette  
+r Croissants Corn-Flakes Milk-organic  
+r Beer-can    
+r Soda-bottle Beer-bottle White-Bread Cereal Hot-Dog-Buns
+r Baguette Beer-bottle Oat-Meal  
+r Cocoa-Rice-Cereal Milk   
+r Corn-Flakes Oat-Meal Coffee Baguette Granola-Bars
+r Coffee Beer-bottle Hot-Dog-Buns Bagles Corn-Flakes
+r Honey-Crunch-Oats White-Bread Milk-organic Hot-Dog-Buns Cereal
+r Corn-Flakes Hot-Dog-Buns   
+r Apple-Juice Corn-Flakes Soda-bottle Bread 
+r Bagles Cereal Beer-bottle Coffee Oat-Meal
+r Hot-Dog-Buns    
+r Beer-bottle Granola-Bars Oat-Meal Bagles 
+r Bread Cereal Baguette Coffee Bagles
+r Soda-bottle Baguette Honey-Crunch-Oats White-Bread Milk
+r Bread Cocoa-Rice-Cereal Corn-Flakes Hot-Dog-Buns Oat-Meal
+r Orange-Juice Cocoa-Rice-Cereal   
+r Beer-bottle    
+r Hot-Dog-Buns Cereal Beer-can White-Bread Soda-bottle
+r Bread Oat-Meal   
+r Corn-Flakes    
+r Soda-bottle Milk-organic Granola-Bars Bread Milk
+r Baguette Coffee Soda-bottle Corn-Flakes Milk-organic
+r Soda-bottle Granola-Bars   
+r Bread Baguette Soda-bottle  
+r Oat-Meal White-Bread Granola-Bars Soda-bottle Bread
+r Croissants Cereal Coffee Bread 
+r Cocoa-Rice-Cereal Bread Oat-Meal Cereal Honey-Crunch-Oats
+r Bagles Hot-Dog-Buns Orange-Juice Milk-organic Bread
+r Honey-Crunch-Oats Croissants   
+r Hot-Dog-Buns Bread Oat-Meal Honey-Crunch-Oats Orange-Juice
+r White-Bread    
+r Milk Beer-can   
+r Milk Orange-Juice Bread Soda-bottle 
+r Orange-Juice Bagles Cocoa-Rice-Cereal  
+r Honey-Crunch-Oats    
+r Beer-can Bread Bagles  
+r White-Bread Milk Coffee Baguette Soda-bottle
+r Cocoa-Rice-Cereal White-Bread Granola-Bars Cereal Beer-can
+r Croissants    
+r White-Bread    
+r Milk-organic    
+r Soda-bottle Cereal   
+r Hot-Dog-Buns White-Bread Corn-Flakes  
+r Hot-Dog-Buns Cocoa-Rice-Cereal Soda-bottle Baguette 
+r Croissants    
+r Hot-Dog-Buns Apple-Juice Milk-organic Croissants Beer-bottle
+r Milk-organic Granola-Bars   
+r Granola-Bars Beer-can   
+r Cereal Oat-Meal Hot-Dog-Buns Beer-can 
+r Bagles    
+r Orange-Juice Cereal   
+r Soda-bottle Oat-Meal   
+r Milk-organic Corn-Flakes Cocoa-Rice-Cereal Croissants Soda-bottle
+r Soda-bottle Cereal Beer-can  
+r White-Bread Beer-bottle Bagles Apple-Juice Corn-Flakes
+r Milk Oat-Meal Orange-Juice Granola-Bars Apple-Juice
+r Oat-Meal Granola-Bars Honey-Crunch-Oats  
+r Cereal Hot-Dog-Buns Soda-bottle Orange-Juice 
+r Soda-bottle Beer-can Coffee  
+r Soda-bottle Corn-Flakes White-Bread Cocoa-Rice-Cereal 
+r Hot-Dog-Buns Corn-Flakes Apple-Juice Croissants Milk
+r Cereal    
+r Honey-Crunch-Oats    
+r Milk White-Bread Beer-can  
+r Hot-Dog-Buns Soda-bottle Coffee Beer-bottle Bagles
+r White-Bread    
+r Apple-Juice Beer-can Milk-organic Hot-Dog-Buns Bread
+r Milk    
+r Cocoa-Rice-Cereal Milk-organic Granola-Bars Hot-Dog-Buns Honey-Crunch-Oats
+r Beer-can Soda-bottle Milk Croissants Bread
+r Corn-Flakes White-Bread Hot-Dog-Buns Apple-Juice Milk
+r Apple-Juice    
+r Bread Milk-organic White-Bread  
+r Granola-Bars Bagles Baguette Milk-organic Apple-Juice
+r Milk Cocoa-Rice-Cereal   
+r Baguette Milk   
+r Coffee Milk-organic Apple-Juice Corn-Flakes Orange-Juice
+r Bread    
+r Croissants Cereal Granola-Bars Hot-Dog-Buns Soda-bottle
